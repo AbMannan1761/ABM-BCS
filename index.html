@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="bn" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Question Bank - উত্তরণ ক্যারিয়ার এন্ড স্কিলস একাডেমি | ABM BCS</title>
+  <meta name="description" content="উত্তরণ ও ABM BCS প্রশ্নব্যাংক - ৫০তম বিসিএস সহ বিগত সকল বিসিএস প্রিলিমিনারি ও লিখিত প্রশ্নমালা, সমাধান ও মডেল টেস্ট।">
+
+  <!-- Google Fonts: Hind Siliguri (Bengali) & Plus Jakarta Sans (English) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!-- KaTeX for Math & Scientific Formulas -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"></script>
+
+  <!-- Canvas Confetti for Exam Success Celebration -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+
+  <!-- App Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- 1. TOP PURPLE BANNER (Exact Match from Screenshot) -->
+  <section class="topNav-section">
+    <h2>BCS কঠিন নয়; প্রস্তুতি যদি গোছানো হয়।</h2>
+  </section>
+
+  <!-- 2. MAIN HEADER (Exact Match from Screenshot) -->
+  <header class="header-wrapper">
+    <div class="header-container">
+      <!-- Logo -->
+      <div class="header-logo-area" id="navHomeLogo">
+        <img src="logo.png" alt="উত্তরণ ক্যারিয়ার এন্ড স্কিলস একাডেমি" class="header-logo-img">
+        <span class="abm-badge-brand">ABM BCS</span>
+      </div>
+
+      <!-- Navigation Menu -->
+      <nav>
+        <ul class="main-navbar">
+          <li><a class="nav-item-link" id="navAboutBcs">About BCS</a></li>
+          <li><a class="nav-item-link pulse-red" id="navSuccess">সাফল্য</a></li>
+          <li><a class="nav-item-link" id="navCourses">Our Courses</a></li>
+          <li><a class="nav-item-link active" id="navQuestionBank">Question Bank</a></li>
+          <li><a class="nav-item-link" id="navNotice">Notice & Circular</a></li>
+          <li><a class="nav-item-link" id="navMonthly">Monthly Affairs</a></li>
+          <li><a class="nav-item-link" id="navExamCenter">Exam Center</a></li>
+        </ul>
+      </nav>
+
+      <!-- Theme & Sound Actions -->
+      <div class="header-tools">
+        <button class="header-tool-btn" id="soundToggleBtn" title="শব্দ অন/অফ করুন">
+          <i class="fa-solid fa-volume-high"></i>
+        </button>
+        <button class="header-tool-btn" id="themeToggleBtn" title="ডার্ক/লাইট মোড পরিবর্তন">
+          <i class="fa-solid fa-moon"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- 3. QUESTION BANK VIEW (Exact Match from Screenshot) -->
+  <main class="qb-page-container" id="qbMainView">
+
+    <!-- Red "Question Bank" center banner -->
+    <div class="qb-header-pill-wrap">
+      <h2 class="qb-header-pill">Question Bank</h2>
+    </div>
+
+    <!-- 2-Column Main Layout: Left Accordions (75%), Right Sidebar (25%) -->
+    <div class="qb-main-layout">
+
+      <!-- LEFT COLUMN: ACCORDIONS -->
+      <div class="qb-accordions-group">
+
+        <!-- Accordion 1: BCS Preli Question (Open by default) -->
+        <div class="qb-accordion-item" id="accItemPreli">
+          <div class="qb-accordion-header" id="accHeaderPreli">
+            <h3>BCS Preli Question</h3>
+            <span class="qb-accordion-toggle-icon">∧</span>
+          </div>
+          <div class="qb-accordion-body" id="accBodyPreli">
+            <!-- 4 Cards Initially Visible Grid -->
+            <div class="qb-cards-grid" id="preliCardsInitialGrid">
+              <!-- Card 1: 50th BCS (Active with complete questions!) -->
+              <div class="qb-exam-card active-50th" id="card50thBcs" title="৫০তম বিসিএস সম্পূর্ণ প্রশ্ন ও মডেল টেস্ট খুলুন">
+                <div style="font-size:0.75rem; color:#e31c25; font-weight:700; text-align:center; margin-bottom:2px;">
+                  <i class="fa-solid fa-fire"></i> পূর্ণাঙ্গ প্রশ্ন ও সমাধান
+                </div>
+                <h4>50th BCS</h4>
+                <div class="qb-exam-meta">
+                  <span>General</span>
+                  <span>2026-01-30</span>
+                </div>
+              </div>
+
+              <!-- Card 2: 49th BCS -->
+              <div class="qb-exam-card" onclick="alert('৪৯তম বিসিএস (শিক্ষা ক্যাডার বিশেষ) প্রশ্নমালা শীঘ্রই যুক্ত হচ্ছে!')">
+                <h4 style="margin-top:0.8rem;">49th BCS</h4>
+                <div class="qb-exam-meta" style="flex-direction:column; align-items:flex-start; gap:2px;">
+                  <span>Special (Education)</span>
+                  <span>General Part &nbsp; 2025-10-10</span>
+                </div>
+              </div>
+
+              <!-- Card 3: 47th BCS -->
+              <div class="qb-exam-card" onclick="alert('৪৭তম বিসিএস প্রিলিমিনারি প্রশ্নমালা শীঘ্রই যুক্ত হচ্ছে!')">
+                <h4 style="margin-top:0.8rem;">47th BCS</h4>
+                <div class="qb-exam-meta">
+                  <span>General</span>
+                  <span>2025-09-19</span>
+                </div>
+              </div>
+
+              <!-- Card 4: 48th BCS -->
+              <div class="qb-exam-card" onclick="alert('৪৮তম বিসিএস (স্বাস্থ্য ক্যাডার বিশেষ) প্রশ্নমালা শীঘ্রই যুক্ত হচ্ছে!')">
+                <h4 style="margin-top:0.8rem;">48th BCS</h4>
+                <div class="qb-exam-meta" style="flex-direction:column; align-items:flex-start; gap:2px;">
+                  <span>Special (Health)</span>
+                  <span>General Part &nbsp; 2025-07-18</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Extended Cards Grid (Shown when 'আরও দেখুন ∨' is clicked) -->
+            <div class="qb-cards-grid" id="preliCardsExtendedGrid" style="display:none;">
+              <!-- Populated by JavaScript for 48th Medical, 46th, 45th, 44th, 43rd, 42nd, 41st, 40th, down to 10th BCS! -->
+            </div>
+
+            <!-- Red "আরও দেখুন ∨" Button (Exact Match) -->
+            <div class="btn-show-more-wrap">
+              <button class="btn-show-more" id="btnShowMorePreli">
+                <span id="showMoreText">আরও দেখুন</span> <i class="fa-solid fa-chevron-down" id="showMoreIcon"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Accordion 2: Primary Preli Question -->
+        <div class="qb-accordion-item collapsed">
+          <div class="qb-accordion-header" onclick="this.parentElement.classList.toggle('collapsed')">
+            <h3>Primary Preli Question</h3>
+            <span class="qb-accordion-toggle-icon">∧</span>
+          </div>
+          <div class="qb-accordion-body">
+            <p style="color:var(--text-secondary); font-size:0.95rem; text-align:center; padding:1rem 0;">
+              প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষার বিগত ২০ বছরের মাস্টার প্রশ্নব্যাংক ও সমাধান।
+            </p>
+          </div>
+        </div>
+
+        <!-- Accordion 3: Preli Practice Question -->
+        <div class="qb-accordion-item collapsed">
+          <div class="qb-accordion-header" onclick="this.parentElement.classList.toggle('collapsed')">
+            <h3>Preli Practice Question</h3>
+            <span class="qb-accordion-toggle-icon">∧</span>
+          </div>
+          <div class="qb-accordion-body">
+            <p style="color:var(--text-secondary); font-size:0.95rem; text-align:center; padding:1rem 0;">
+              টপিকভিত্তিক স্পেশাল প্র্যাকটিস প্রশ্ন ও দৈনিক মডেল টেস্ট।
+            </p>
+          </div>
+        </div>
+
+        <!-- Accordion 4: BCS Written Question -->
+        <div class="qb-accordion-item">
+          <div class="qb-accordion-header" onclick="this.parentElement.classList.toggle('collapsed')">
+            <h3>BCS Written Question</h3>
+            <span class="qb-accordion-toggle-icon">∧</span>
+          </div>
+          <div class="qb-accordion-body">
+            <div class="qb-cards-grid" id="writtenCardsGrid">
+              <!-- Populated by JavaScript: 50th, 47th, 46th, 45th, 44th, 43rd, 41st, 40th, 38th, 37th, 36th, 35th BCS -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Accordion 5: Primary Written Question -->
+        <div class="qb-accordion-item collapsed">
+          <div class="qb-accordion-header" onclick="this.parentElement.classList.toggle('collapsed')">
+            <h3>Primary Written Question</h3>
+            <span class="qb-accordion-toggle-icon">∧</span>
+          </div>
+          <div class="qb-accordion-body">
+            <p style="color:var(--text-secondary); font-size:0.95rem; text-align:center; padding:1rem 0;">
+              প্রাইমারি শিক্ষক নিয়োগ লিখিত পরীক্ষার সমাধান আর্কাইভ।
+            </p>
+          </div>
+        </div>
+
+        <!-- Accordion 6: Written Practice Question -->
+        <div class="qb-accordion-item collapsed">
+          <div class="qb-accordion-header" onclick="this.parentElement.classList.toggle('collapsed')">
+            <h3>Written Practice Question</h3>
+            <span class="qb-accordion-toggle-icon">∧</span>
+          </div>
+          <div class="qb-accordion-body">
+            <p style="color:var(--text-secondary); font-size:0.95rem; text-align:center; padding:1rem 0;">
+              লিখিত পরীক্ষার জন্য বিষয়ভিত্তিক স্ট্যান্ডার্ড প্র্যাকটিস শিট।
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- RIGHT COLUMN: SIDEBAR COURSES (Exact Match from Screenshot) -->
+      <aside class="qb-sidebar-col">
+        <!-- Sidebar Card 1: Uttoron Book Package (Exact Match) -->
+        <div class="sidebar-course-card">
+          <div class="sidebar-course-ribbon">
+            BOOK PACKAGE প্রিলি, লিখিত, ভাইভা
+          </div>
+          <div class="sidebar-course-body">
+            <h4>উত্তরণ Book Package প্রিলি, লিখিত, ভাইভা</h4>
+            <ul class="sidebar-course-list">
+              <li>প্রতিটি টপিকের মৌলিক আলোচনা ও গভীর বিশ্লেষণ</li>
+              <li>প্রয়োজনীয় উদাহরণ, চিত্র, মানচিত্র ও টেবিল সংযোজন</li>
+              <li>কঠিন বিষয় সহজ করতে ছন্দ, শর্টকাট ও কৌশল ব্যবহার</li>
+              <li>অসংখ্য ইনফোগ্রাফ, ফ্লোচার্ট ও হাইলাইটেড তথ্য</li>
+              <li>চূড়ান্ত প্রস্তুতির জন্য পর্যাপ্ত অনুশীলন, নমুনা প্রশ্ন ও মডেল টেস্ট</li>
+              <li>বাস্তব অভিজ্ঞতাভিত্তিক পরামর্শ ও পরীক্ষার পূর্ণাঙ্গ ধরন</li>
+            </ul>
+            <button class="btn-show-more" style="width:100%; margin-top:1rem; justify-content:center; border-radius:6px; font-size:0.88rem;" onclick="alert('উত্তরণ বুক প্যাকেজের হোম ডেলিভারির জন্য যোগাযোগ করুন: ০৯৬৬৬৭৭৫৫২২')">
+              বুক প্যাকেজ অর্ডার করুন
+            </button>
+          </div>
+        </div>
+
+        <!-- Sidebar Card 2: 53rd Pioneer Batch -->
+        <div class="sidebar-course-card">
+          <div class="sidebar-course-ribbon" style="background:#059669;">
+            ৫৩তম BCS Pioneer Batch
+          </div>
+          <div class="sidebar-course-body">
+            <h4>৫৩তম বিসিএস প্রিলি-লিখিত কম্বাইন্ড প্রস্তুতি</h4>
+            <ul class="sidebar-course-list">
+              <li>সাবজেক্ট হ্যাকস ও লাইভ ক্লাস</li>
+              <li>লিখিত ইনটেনসিভ ও বেসিক ক্লাস</li>
+              <li>৩০ হাজার+ প্রশ্নে প্র্যাকটিস এক্সাম</li>
+              <li>সার্বক্ষণিক ২৪/৭ Q&A সার্ভিস</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Sidebar Card 3: 52nd Exclusive Exam Batch -->
+        <div class="sidebar-course-card">
+          <div class="sidebar-course-ribbon" style="background:#7c3aed;">
+            ৫২তম BCS Exam Batch
+          </div>
+          <div class="sidebar-course-body">
+            <h4>৫২তম BCS প্রিলি Exclusive Exam Batch</h4>
+            <ul class="sidebar-course-list">
+              <li>টপিক টেস্ট: ৬০ সেট</li>
+              <li>সাবজেক্ট ফাইনাল: ১৮ সেট</li>
+              <li>ফাইনাল মডেল টেস্ট: ১৬ সেট</li>
+              <li>Auto SMS এ ফলাফল</li>
+            </ul>
+          </div>
+        </div>
+      </aside>
+
+    </div>
+  </main>
+
+  <!-- ==========================================
+       4. INTERACTIVE 50TH BCS PRACTICE & EXAM SCREEN
+       Opens when clicking "50th BCS"
+       ========================================== -->
+  <div class="exam-fullscreen-modal" id="examModal50th">
+    <div class="modal-sticky-header">
+      <div style="display:flex; align-items:center; gap:0.85rem;">
+        <button class="modal-close-btn" id="btnClose50thExam">
+          <i class="fa-solid fa-arrow-left"></i> প্রশ্নব্যাংকে ফিরে যান
+        </button>
+        <div>
+          <h3 id="modalExamTitle" style="font-size:1.15rem; font-weight:800; color:var(--text-primary); margin:0;">
+            ৫০তম বিসিএস প্রিলিমিনারি পূর্ণাঙ্গ পরীক্ষা ও অনুশীলন
+          </h3>
+          <span id="modalExamSub" style="font-size:0.8rem; color:var(--text-muted);">
+            ২০০টি প্রশ্ন | ১২০ মিনিট | নেগেটিভ মার্কিং -০.৫০
+          </span>
+        </div>
+      </div>
+
+      <div style="display:flex; gap:0.5rem;">
+        <button class="header-tool-btn active" id="modalSubTabStudy" style="width:auto; padding:0.4rem 0.8rem; font-weight:600; font-size:0.85rem;">
+          <i class="fa-solid fa-book-open-reader"></i> অনুশীলন মোড
+        </button>
+        <button class="header-tool-btn" id="modalSubTabExam" style="width:auto; padding:0.4rem 0.8rem; font-weight:600; font-size:0.85rem;">
+          <i class="fa-solid fa-stopwatch-20"></i> মডেল টেস্ট মোড
+        </button>
+      </div>
+    </div>
+
+    <div class="qb-page-container" style="margin-top:1.25rem;">
+      <!-- Controls Bar -->
+      <div class="controls-bar" id="controlsBar" style="display:flex; flex-direction:column; gap:1rem; margin-bottom:1.5rem;">
+        <div class="search-and-jump" style="display:flex; gap:0.75rem; flex-wrap:wrap; align-items:center;">
+          <div class="search-box" style="flex:1; min-width:240px; position:relative;">
+            <i class="fa-solid fa-magnifying-glass" style="position:absolute; left:1rem; top:50%; transform:translateY(-50%); color:var(--text-muted);"></i>
+            <input type="text" id="searchInput" placeholder="প্রশ্ন, অপশন বা ব্যাখ্যায় খুঁজুন..." style="width:100%; padding:0.7rem 1rem 0.7rem 2.5rem; border:1px solid var(--border-subtle); border-radius:8px; font-family:var(--font-bangla);">
+          </div>
+          <div class="jump-box" style="display:flex; align-items:center; gap:0.4rem; background:var(--bg-surface); padding:0.35rem 0.6rem; border:1px solid var(--border-subtle); border-radius:8px;">
+            <label for="jumpInput" style="font-size:0.85rem; font-weight:600;">প্রশ্ন নং:</label>
+            <input type="number" id="jumpInput" min="1" max="200" placeholder="1-200" style="width:55px; text-align:center; padding:0.25rem; font-weight:700;">
+            <button id="jumpBtn" style="background:#e31c25; color:#fff; border:none; border-radius:4px; padding:0.3rem 0.6rem; font-weight:700; cursor:pointer;">যান</button>
+          </div>
+          <button id="resetAnswersBtn" style="padding:0.5rem 0.85rem; border:1px solid var(--border-subtle); border-radius:8px; background:var(--bg-surface); cursor:pointer;">
+            <i class="fa-solid fa-rotate-left"></i> রিসেট
+          </button>
+        </div>
+
+        <!-- Subject Filter Pills -->
+        <div style="overflow-x:auto; padding-bottom:0.3rem;">
+          <div id="subjectFilterContainer" style="display:flex; gap:0.5rem;">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Question Feed + Sidebar -->
+      <div class="content-layout" id="contentLayout" style="display:grid; grid-template-columns:1fr; gap:1.5rem;">
+        <div class="questions-container" id="questionsContainer">
+          <!-- Populated by JS -->
+        </div>
+
+        <aside class="exam-sidebar" id="examSidebar" style="display:none;">
+          <div class="exam-timer-card" style="background:linear-gradient(135deg, #e31c25, #9333ea); color:#fff; padding:0.85rem 1rem; border-radius:8px; display:flex; justify-content:space-between; align-items:center;">
+            <div>
+              <div style="font-size:0.8rem; opacity:0.9;">অবশিষ্ট সময়</div>
+              <div style="font-size:1.4rem; font-weight:800; font-family:var(--font-english);" id="examTimerVal">02:00:00</div>
+            </div>
+            <button id="pauseTimerBtn" style="background:rgba(255,255,255,0.25); border:none; color:#fff; padding:0.4rem 0.6rem; border-radius:6px; cursor:pointer;">
+              <i class="fa-solid fa-pause"></i>
+            </button>
+          </div>
+
+          <div style="display:flex; justify-content:space-between; font-size:0.85rem; color:var(--text-secondary); margin:0.5rem 0;">
+            <span>উত্তর: <strong id="answeredCount" style="color:#059669;">0</strong>/200</span>
+            <span>বাকি: <strong id="unansweredCount" style="color:#e31c25;">200</strong></span>
+          </div>
+
+          <div style="font-size:0.85rem; font-weight:700; color:var(--text-secondary);">প্রশ্ন প্যালেট (১-২০০):</div>
+          <div style="overflow-y:auto; max-height:300px;">
+            <div class="palette-grid" id="paletteGrid" style="display:grid; grid-template-columns:repeat(5, 1fr); gap:0.35rem;">
+              <!-- 1 to 200 buttons -->
+            </div>
+          </div>
+
+          <button class="btn-show-more" id="examSubmitBtn" style="width:100%; justify-content:center; margin-top:0.75rem; border-radius:8px;">
+            <i class="fa-solid fa-paper-plane"></i> পরীক্ষা জমা দিন
+          </button>
+        </aside>
+      </div>
+
+      <!-- Pagination Bar -->
+      <div class="pagination-bar" id="paginationBar" style="display:flex; justify-content:center; align-items:center; gap:0.75rem; margin-top:2rem;">
+        <button class="header-tool-btn" id="prevPageBtn" style="width:auto; padding:0.4rem 0.9rem;">পূর্ববর্তী</button>
+        <span id="pageInfo" style="font-size:0.9rem; color:var(--text-secondary);">পৃষ্ঠা ১ / ২০</span>
+        <button class="header-tool-btn" id="nextPageBtn" style="width:auto; padding:0.4rem 0.9rem;">পরবর্তী</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. EXAM RESULT MODAL -->
+  <div class="modal-overlay" id="resultModal">
+    <div class="modal-card">
+      <div style="text-align:center; margin-bottom:1.5rem;">
+        <div style="font-size:2.5rem;" id="resultEmoji">🎯</div>
+        <h3 style="font-size:1.6rem; font-weight:800;">মডেল টেস্ট ফলাফল</h3>
+        <p style="color:var(--text-secondary); font-size:0.92rem;">৫০তম বিসিএস প্রিলিমিনারি পূর্ণাঙ্গ পরীক্ষা</p>
+      </div>
+
+      <div class="score-circle">
+        <div class="score-val" id="resTotalScore">0.00</div>
+        <div class="score-max">/ ২০০ মার্কস</div>
+      </div>
+
+      <div class="result-stats-grid">
+        <div class="res-stat-card">
+          <div class="res-stat-label">সঠিক উত্তর</div>
+          <div class="res-stat-value correct" id="resCorrectCount">0</div>
+        </div>
+        <div class="res-stat-card">
+          <div class="res-stat-label">ভুল উত্তর</div>
+          <div class="res-stat-value wrong" id="resWrongCount">0</div>
+        </div>
+        <div class="res-stat-card">
+          <div class="res-stat-label">অনুত্তরিত</div>
+          <div class="res-stat-value" id="resSkippedCount">0</div>
+        </div>
+        <div class="res-stat-card">
+          <div class="res-stat-label">নেগেটিভ মার্ক</div>
+          <div class="res-stat-value negative" id="resNegativeMarks">0.00</div>
+        </div>
+        <div class="res-stat-card">
+          <div class="res-stat-label">সঠিকতার হার</div>
+          <div class="res-stat-value" id="resAccuracy">0%</div>
+        </div>
+        <div class="res-stat-card">
+          <div class="res-stat-label">ব্যয়িত সময়</div>
+          <div class="res-stat-value" id="resTimeTaken">00:00</div>
+        </div>
+      </div>
+
+      <div style="margin-top:1.5rem;">
+        <h4 style="font-size:1rem; margin-bottom:0.5rem;">বিষয়ভিত্তিক ফলাফল বিশ্লেষণ:</h4>
+        <div style="overflow-x:auto;">
+          <table class="subject-perf-table" id="subjectPerfTable">
+            <thead>
+              <tr>
+                <th>বিষয়</th>
+                <th>মোট</th>
+                <th>সঠিক</th>
+                <th>ভুল</th>
+                <th>প্রাপ্ত নম্বর</th>
+              </tr>
+            </thead>
+            <tbody id="subjectPerfBody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="modal-actions">
+        <button class="modal-btn secondary" id="modalReviewBtn">সমাধান ও ব্যাখ্যা দেখুন</button>
+        <button class="modal-btn primary" id="modalRetakeBtn" style="background:#e31c25;">পুনরায় পরীক্ষা দিন</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. CADRE STORIES MODAL / SECTION -->
+  <div class="modal-overlay" id="cadresModal">
+    <div class="modal-card" style="max-width:960px;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.5rem; border-bottom:1px solid var(--border-subtle); padding-bottom:0.75rem;">
+        <h3 style="font-size:1.5rem; font-weight:800; color:var(--text-primary); margin:0;">
+          <i class="fa-solid fa-award" style="color:#e31c25;"></i> ২৬ জন বিসিএস ক্যাডারের সফলতার গল্প ও পরামর্শ
+        </h3>
+        <button class="header-tool-btn" onclick="document.getElementById('cadresModal').classList.remove('open')">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div class="cadres-grid" id="cadresGrid" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:1.25rem;">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- 7. ABOUT BCS SYLLABUS MODAL -->
+  <div class="modal-overlay" id="syllabusModal">
+    <div class="modal-card" style="max-width:850px;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.5rem; border-bottom:1px solid var(--border-subtle); padding-bottom:0.75rem;">
+        <h3 style="font-size:1.5rem; font-weight:800; color:var(--text-primary); margin:0;">
+          <i class="fa-solid fa-book-open" style="color:#e31c25;"></i> বিসিএস পূর্ণাঙ্গ সিলেবাস ও গাইডলাইন
+        </h3>
+        <button class="header-tool-btn" onclick="document.getElementById('syllabusModal').classList.remove('open')">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div id="syllabusContentArea">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- 8. FOOTER -->
+  <footer class="portal-footer">
+    <p><strong>উত্তরণ ক্যারিয়ার এন্ড স্কিলস একাডেমি</strong> | <strong>ABM BCS</strong> পূর্ণাঙ্গ ডিজিটাল প্রশ্নব্যাংক ও প্রস্তুতি পোর্টাল</p>
+    <p style="font-size:0.82rem; color:var(--text-muted);">
+      কন্টেন্ট কৃতজ্ঞতা: uttoron.academy | BCS কঠিন নয়; প্রস্তুতি যদি গোছানো হয়।
+    </p>
+  </footer>
+
+  <!-- Load Data and Application Logic -->
+  <script src="questions_data.js"></script>
+  <script src="bcs_exams_bundle.js"></script>
+  <script src="homepage_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

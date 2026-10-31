@@ -1,0 +1,2610 @@
+{
+  "meta": {
+    "id": "48th-BCS",
+    "name": "48th BCS",
+    "sub": "Special (Health)",
+    "date": "2025-07-18"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "ফররুখ আহমদের ‘সাত সাগরের মাঝি’ কত সালে প্রকিাশিত হয়?",
+      "question_html": "<div>ফররুখ আহমদের ‘সাত সাগরের মাঝি’ কত সালে প্রকিাশিত হয়?</div>",
+      "options": {
+        "A": "১৯০৫",
+        "B": "১৯৪০",
+        "C": "১৯৪৪",
+        "D": "১৯৫৫"
+      },
+      "options_html": {
+        "A": "১৯০৫",
+        "B": "১৯৪০",
+        "C": "১৯৪৪",
+        "D": "১৯৫৫"
+      },
+      "correct_answer": "C",
+      "explanation_text": "মুসলিম রেনেসাঁর কবি ফররুখ আহমদ (১৯১৮-১৯৭৪) ছিলেন ইসলামি আদর্শের উজ্জ্বল প্রতীক এবং মুসলিম পুনর্জাগরণবাদী কবি। ‘সাত সাগরের মাঝি’ (১৯৪৪) তাঁর প্রথম ও শ্রেষ্ঠ কাব্যগ্রন্থ। তার রচিত শিশুতোষ গ্রন্থ ‘পাখির বাসা’ (১৯৬৫)-এর জন্য তিনি ১৯৬৬ সালে ইউনেস্কো পুরস্কার লাভ করেন। ‘হাতেমতায়ী’ তাঁর রচিত কাহিনি কাব্য। ১৯৬৬ সালে ‘হাতেমতায়ী’ গ্রন্থের জন্য তিনি আদমজী পুরস্কার লাভ করেন। আর ‘নৌফেল ও হাতেম’ (১৯৬১) তাঁর কাব্যনাট্যের নাম।‘সাত সাগরের মাঝি’কাব্যগ্রন্থে মোট ১৯টি কবিতা আছে যার মধ্যে সাত সাগরের মাঝি কবিতাটি আছে সর্বশেষে। কাব্যের অন্যান্য কবিতা- আকাশ নাবিক, পাঞ্জেরী, লাশ, সিন্দাবাদ, আউলাদ, দরিয়ার শেষ রাত্রি, ডাহুক। ১৯৪৪ সালে কলকাতার দুর্ভিক্ষের পটভূমিতে লাশ কবিতাটি লিখে তিনি খ্যাতি অর্জন করেছিলেন। কবিদের মধ্যে তিনিই প্রথম ১৯৬০ সালে বাংলা একাডেমি পুরস্কার লাভ করেন।",
+      "explanation_html": "মুসলিম রেনেসাঁর কবি ফররুখ আহমদ (১৯১৮-১৯৭৪) ছিলেন ইসলামি আদর্শের উজ্জ্বল প্রতীক এবং মুসলিম পুনর্জাগরণবাদী কবি। ‘সাত সাগরের মাঝি’ (১৯৪৪) তাঁর প্রথম ও শ্রেষ্ঠ কাব্যগ্রন্থ। তার রচিত শিশুতোষ গ্রন্থ ‘পাখির বাসা’ (১৯৬৫)-এর জন্য তিনি ১৯৬৬ সালে ইউনেস্কো পুরস্কার লাভ করেন। ‘হাতেমতায়ী’ তাঁর রচিত কাহিনি কাব্য। ১৯৬৬ সালে ‘হাতেমতায়ী’ গ্রন্থের জন্য তিনি আদমজী পুরস্কার লাভ করেন। আর ‘নৌফেল ও হাতেম’ (১৯৬১) তাঁর কাব্যনাট্যের নাম।<b> ‘</b>সাত সাগরের মাঝি<b>’ </b>কাব্যগ্রন্থে মোট ১৯টি কবিতা আছে যার মধ্যে সাত সাগরের মাঝি কবিতাটি আছে সর্বশেষে। কাব্যের অন্যান্য কবিতা- আকাশ নাবিক, পাঞ্জেরী, লাশ, সিন্দাবাদ, আউলাদ, দরিয়ার শেষ রাত্রি, ডাহুক। ১৯৪৪ সালে কলকাতার দুর্ভিক্ষের পটভূমিতে লাশ কবিতাটি লিখে তিনি খ্যাতি অর্জন করেছিলেন। কবিদের মধ্যে তিনিই প্রথম ১৯৬০ সালে বাংলা একাডেমি পুরস্কার লাভ করেন।"
+    },
+    {
+      "id": 2,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কোন দেশের গৃহযুদ্ধ কারণে ইউরোপজুড়ে অভিবাসী সংকট সৃষ্টি হয়েছে?",
+      "question_html": "<div>কোন দেশের গৃহযুদ্ধ কারণে ইউরোপজুড়ে অভিবাসী সংকট সৃষ্টি হয়েছে?</div>",
+      "options": {
+        "A": "সিরিয়া",
+        "B": "লেবানন",
+        "C": "আফগানিস্তান",
+        "D": "ইরাক"
+      },
+      "options_html": {
+        "A": "সিরিয়া",
+        "B": "লেবানন",
+        "C": "আফগানিস্তান",
+        "D": "ইরাক"
+      },
+      "correct_answer": "A",
+      "explanation_text": "ইউরোপের অভিবাসী সংকট বলতে মূলত সিরিয়া, ইরাক ও আফগানিস্তানের মতো দেশগুলোতে যুদ্ধ ও অস্থিরতার কারণে বিপুল সংখ্যক মানুষ ইউরোপে আশ্রয়প্রার্থী হিসেবে আসার ঘটনাকে বোঝায়। এই সংকটটি ২০১৫ সালে তীব্র আকার ধারণ করে। এই অভিবাসীদের মধ্যে বেশিরভাগই ছিল সিরিয়ার নাগরিক। তবে ২০১৫ সালের দিকে সিরিয়ার গৃহ যুদ্ধের ফলে তীব্র অভিবাসী সংকট সৃষ্টি হয়।",
+      "explanation_html": "ইউরোপের অভিবাসী সংকট বলতে মূলত সিরিয়া, ইরাক ও আফগানিস্তানের মতো দেশগুলোতে যুদ্ধ ও অস্থিরতার কারণে বিপুল সংখ্যক মানুষ ইউরোপে আশ্রয়প্রার্থী হিসেবে আসার ঘটনাকে বোঝায়। এই সংকটটি ২০১৫ সালে তীব্র আকার ধারণ করে। এই অভিবাসীদের মধ্যে বেশিরভাগই ছিল সিরিয়ার নাগরিক। তবে ২০১৫ সালের দিকে সিরিয়ার গৃহ যুদ্ধের ফলে তীব্র অভিবাসী সংকট সৃষ্টি হয়।"
+    },
+    {
+      "id": 3,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কোন ঘটনার কারণে ধরিত্রী দিবসের সূচনা হয়?",
+      "question_html": "<div>কোন ঘটনার কারণে ধরিত্রী দিবসের সূচনা হয়?</div>",
+      "options": {
+        "A": "ব্যাপক বায়ু দূষণ",
+        "B": "জলবায়ু পরিবর্তন",
+        "C": "ব্যাপক তেল নিঃসরণ",
+        "D": "পারমানবিক বিস্ফোরণ"
+      },
+      "options_html": {
+        "A": "ব্যাপক বায়ু দূষণ",
+        "B": "জলবায়ু পরিবর্তন",
+        "C": "ব্যাপক তেল নিঃসরণ",
+        "D": "পারমানবিক বিস্ফোরণ"
+      },
+      "correct_answer": "B",
+      "explanation_text": "১৯৬৯ সালে যুক্তরাষ্ট্রের ক্যালিফোর্নিয়ার সান্তা বারবারা (Santa Barbara) উপকূলে একটি তেল শোধনাগারে দুর্ঘটনা ঘটে, ফলে বিপুল পরিমাণ তেল সমুদ্রে ছড়িয়ে পড়ে এবং পরিবেশের ব্যাপক ক্ষতি হয়। এই ঘটনায় মানুষ পরিবেশ রক্ষার গুরুত্ব উপলব্ধি করে এবং পরিবেশ সচেতনতা আন্দোলনের জন্ম হয়। এর পরিপ্রেক্ষিতে আমেরিকার সিনেটর গেইলর্ড নেলসন ১৯৭০ সালের ২২ এপ্রিল প্রথমবার জাতীয়ভাবে পরিবেশ শিক্ষামূলক কর্মসূচি বা Environmental Tech-In ঘোষণা করেন। সেই দিনে হাজার হাজার মানুষ দূষণ ও পরিবেশ রক্ষার দাবিতে রাস্তায় নামে। এই আন্দোলনের ফলেই প্রতি বছর ২২ এপ্রিল বিশ্ব ধরিত্রী দিবস পালন করা হয়।",
+      "explanation_html": "১৯৬৯ সালে যুক্তরাষ্ট্রের ক্যালিফোর্নিয়ার সান্তা বারবারা (Santa Barbara) উপকূলে একটি তেল শোধনাগারে দুর্ঘটনা ঘটে, ফলে বিপুল পরিমাণ তেল সমুদ্রে ছড়িয়ে পড়ে এবং পরিবেশের ব্যাপক ক্ষতি হয়। এই ঘটনায় মানুষ পরিবেশ রক্ষার গুরুত্ব উপলব্ধি করে এবং পরিবেশ সচেতনতা আন্দোলনের জন্ম হয়। এর পরিপ্রেক্ষিতে আমেরিকার সিনেটর গেইলর্ড নেলসন ১৯৭০ সালের ২২ এপ্রিল প্রথমবার জাতীয়ভাবে পরিবেশ শিক্ষামূলক কর্মসূচি বা Environmental Tech-In ঘোষণা করেন। সেই দিনে হাজার হাজার মানুষ দূষণ ও পরিবেশ রক্ষার দাবিতে রাস্তায় নামে। এই আন্দোলনের ফলেই প্রতি বছর ২২ এপ্রিল বিশ্ব ধরিত্রী দিবস পালন করা হয়।"
+    },
+    {
+      "id": 4,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "\\(\\mathrm {x+\\frac{1}{x}}=2\\) হলে, \\(\\mathrm {x^4+\\frac {1}{x^4}}\\)  এর মান-",
+      "question_html": "<div>\\(\\mathrm {x+\\frac{1}{x}}=2\\) হলে, \\(\\mathrm {x^4+\\frac {1}{x^4}}\\)  এর মান-</div>",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "\\(\\frac {1}{2}\\)"
+      },
+      "options_html": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "\\(\\frac {1}{2}\\)"
+      },
+      "correct_answer": "C",
+      "explanation_text": "দেওয়া আছে, \\(\\mathrm {x+\\frac 1x=2} \\)\\(\\mathrm{⇒(x+\\frac 1x)^2=2^2}\\) [বর্গ করে]\\(\\mathrm{⇒x^2+2.x.\\frac 1x+{\\frac 1{x^2}} =4\\\\⇒x^2+{\\frac 1{x^2}} =4-2 }\\)\\(\\mathrm{⇒(x^2+{1\\over x^2} )^2=2^2 }\\) [বর্গ করে]\\(\\mathrm{⇒\\Big(x^2 \\Big)^2+2.x^2.\\frac 1{x^2}   +\\Big(\\frac 1{x^2}\\Big)^2=4 \\\\⇒x^4+\\frac 1{x^4} =4-2 \\\\∴x^4+\\frac 1{x^4}=2 }\\)",
+      "explanation_html": "দেওয়া আছে, \\(\\mathrm {x+\\frac 1x=2} \\)<br/>\r\n\\(\\mathrm{⇒(x+\\frac 1x)^2=2^2}\\) [বর্গ করে]<br/>\r\n\\(\\mathrm{⇒x^2+2.x.\\frac 1x+{\\frac 1{x^2}} =4\\\\<br/>\r\n⇒x^2+{\\frac 1{x^2}} =4-2 }\\)<br/>\r\n\\(\\mathrm{⇒(x^2+{1\\over x^2} )^2=2^2 }\\) [বর্গ করে]<br/>\r\n\\(\\mathrm{⇒\\Big(x^2 \\Big)^2+2.x^2.\\frac 1{x^2}   +\\Big(\\frac 1{x^2}\\Big)^2=4 \\\\<br/>\r\n⇒x^4+\\frac 1{x^4} =4-2 \\\\<br/>\r\n∴x^4+\\frac 1{x^4}=2 }\\)"
+    },
+    {
+      "id": 5,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "টেকসই উন্নয়ন লক্ষ্য (এসডিজি) অর্জনের নিচের কোনটির গুরুত্ব সবচেয়ে বেশী?",
+      "question_html": "<div>টেকসই উন্নয়ন লক্ষ্য (এসডিজি) অর্জনের নিচের কোনটির গুরুত্ব সবচেয়ে বেশী?</div>",
+      "options": {
+        "A": "সক্ষমতা তৈরি",
+        "B": "অংশীদারিক",
+        "C": "সমতা বিধান",
+        "D": "উপরের সবগুলো"
+      },
+      "options_html": {
+        "A": "সক্ষমতা তৈরি",
+        "B": "অংশীদারিক",
+        "C": "সমতা বিধান",
+        "D": "উপরের সবগুলো"
+      },
+      "correct_answer": "D",
+      "explanation_text": "টেকসই উন্নয়ন লক্ষ্যগুলো পরস্পরের সঙ্গে গভীরভাবে যুক্ত। তাই কোনো একটি লক্ষ্যকে এককভাবে সবচেয়ে গুরুত্বপূর্ণ বলা যায় না। তবে বাস্তবায়নের ক্ষেত্রে SDG 17 : অভীষ্ট অর্জনে অংশীদারিত্ব (Partnership for the Goals) একটি বিশেষ গুরুত্ব বহন করে। কারণ সরকারি-বেসরকারি খাত ও সুশীল সমাজের সমন্বিত অংশগ্রহণ ছাড়া অন্য কোনো লক্ষ্য কার্যকরভাবে অর্জন সম্ভব নয়। এই অংশীদারিত্বের মাধ্যমে প্রয়োজনীয় অর্থ, প্রযুক্তি ও দক্ষতা একত্রিত হয়। অভীষ্ট অর্জনে অংশীদারিত্ব একটি ‘ছাতা লক্ষ্য’ (Enabling Goal) হিসেবে কাজ করে, যা সম্মিলিত প্রচেষ্টার মাধ্যমে টেকসই উন্নয়ন লক্ষ্যমাত্রার (SDGs) অন্যান্য সব লক্ষ্য অর্জনে সহায়ক ভূমিকা পালন করে।",
+      "explanation_html": "টেকসই উন্নয়ন লক্ষ্যগুলো পরস্পরের সঙ্গে গভীরভাবে যুক্ত। তাই কোনো একটি লক্ষ্যকে এককভাবে সবচেয়ে গুরুত্বপূর্ণ বলা যায় না। তবে বাস্তবায়নের ক্ষেত্রে SDG 17 : অভীষ্ট অর্জনে অংশীদারিত্ব (Partnership for the Goals) একটি বিশেষ গুরুত্ব বহন করে। কারণ সরকারি-বেসরকারি খাত ও সুশীল সমাজের সমন্বিত অংশগ্রহণ ছাড়া অন্য কোনো লক্ষ্য কার্যকরভাবে অর্জন সম্ভব নয়। এই অংশীদারিত্বের মাধ্যমে প্রয়োজনীয় অর্থ, প্রযুক্তি ও দক্ষতা একত্রিত হয়। অভীষ্ট অর্জনে অংশীদারিত্ব একটি ‘ছাতা লক্ষ্য’ (Enabling Goal) হিসেবে কাজ করে, যা সম্মিলিত প্রচেষ্টার মাধ্যমে টেকসই উন্নয়ন লক্ষ্যমাত্রার (SDGs) অন্যান্য সব লক্ষ্য অর্জনে সহায়ক ভূমিকা পালন করে।"
+    },
+    {
+      "id": 6,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "Doctor Faustus is ____",
+      "question_html": "<div>Doctor Faustus is ____</div>",
+      "options": {
+        "A": "a comedy",
+        "B": "a tragedy",
+        "C": "a historical novel",
+        "D": "an absurd play"
+      },
+      "options_html": {
+        "A": "a comedy",
+        "B": "a tragedy",
+        "C": "a historical novel",
+        "D": "an absurd play"
+      },
+      "correct_answer": "B",
+      "explanation_text": "Doctor Faustus (সম্পূর্ণ নাম The Tragical History of the Life and Death of Doctor Faustus) হলো একটি tragedy, যা ইংরেজ নাট্যকার Christopher Marlowe রচিত। এই নাটকে Faustus একজন জার্মান স্কলার যে শয়তানের সঙ্গে চুক্তি করে অতিপ্রাকৃত ক্ষমতা অর্জনের চেষ্টা করে, এবং শেষ পর্যন্ত নিজের আত্মা হারায়। তার অহংকার ও অতিমাত্রায় জ্ঞানলিপ্সার জন্য তার পতন ঘটে, যা একটি ট্র্যাজেডির মূল বৈশিষ্ট্য। Marlowe এর বিখ্যাত নাটকগুলো- Tamburlaine the Great, The Jew of Malta, Edward II, The Massacre at Paris ইত্যাদি। The Passionate Shepherd to his love তার রচিত বিখ্যাত গীতিকবিতা।",
+      "explanation_html": "Doctor Faustus (সম্পূর্ণ নাম The Tragical History of the Life and Death of Doctor Faustus) হলো একটি tragedy, যা ইংরেজ নাট্যকার Christopher Marlowe রচিত। এই নাটকে Faustus একজন জার্মান স্কলার যে শয়তানের সঙ্গে চুক্তি করে অতিপ্রাকৃত ক্ষমতা অর্জনের চেষ্টা করে, এবং শেষ পর্যন্ত নিজের আত্মা হারায়। তার অহংকার ও অতিমাত্রায় জ্ঞানলিপ্সার জন্য তার পতন ঘটে, যা একটি ট্র্যাজেডির মূল বৈশিষ্ট্য। Marlowe এর বিখ্যাত নাটকগুলো- Tamburlaine the Great, The Jew of Malta, Edward II, The Massacre at Paris ইত্যাদি। The Passionate Shepherd to his love তার রচিত বিখ্যাত গীতিকবিতা।"
+    },
+    {
+      "id": 7,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘যে আলোতে কুমুদ ফোটে’ – এককথায় কী হবে?",
+      "question_html": "<div>‘যে আলোতে কুমুদ ফোটে’ – এককথায় কী হবে?</div>",
+      "options": {
+        "A": "কুমুদিন",
+        "B": "কৌমুদী",
+        "C": "প্রভাবতী",
+        "D": "বিভঅ"
+      },
+      "options_html": {
+        "A": "কুমুদিন",
+        "B": "কৌমুদী",
+        "C": "প্রভাবতী",
+        "D": "বিভঅ"
+      },
+      "correct_answer": "B",
+      "explanation_text": "যে আলোতে কুমুদ ফোটে = কৌমুদী। কৌমুদী শব্দের অর্থ চাঁদের আলো, জ্যোৎস্না। এটি একটি বিশেষ্য পদ।",
+      "explanation_html": "যে আলোতে কুমুদ ফোটে = কৌমুদী। কৌমুদী শব্দের অর্থ চাঁদের আলো, জ্যোৎস্না। এটি একটি বিশেষ্য পদ।"
+    },
+    {
+      "id": 8,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "নিচের কোনটি যেকোনো সেটের উপসেট?",
+      "question_html": "<div>নিচের কোনটি যেকোনো সেটের উপসেট?</div>",
+      "options": {
+        "A": "ϕ",
+        "B": "(ϕ)",
+        "C": "{ϕ}",
+        "D": "{0}"
+      },
+      "options_html": {
+        "A": "ϕ",
+        "B": "(ϕ)",
+        "C": "{ϕ}",
+        "D": "{0}"
+      },
+      "correct_answer": "A",
+      "explanation_text": "উপসেটের সংজ্ঞা অনুসারে, ফাঁকা সেট সকল সেটের উপসেট। উপসেটকে নিম্নোক্ত দুই প্রকারে প্রকাশ করা হয় ϕ এবং { }।∴ নির্ণেয় সমাধান: ϕ",
+      "explanation_html": "উপসেটের সংজ্ঞা অনুসারে, ফাঁকা সেট সকল সেটের উপসেট। উপসেটকে নিম্নোক্ত দুই প্রকারে প্রকাশ করা হয় ϕ এবং { }।<br/>\r\n∴ নির্ণেয় সমাধান: ϕ"
+    },
+    {
+      "id": 9,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কোনটি উন্নয়ন কার্যক্রমে ঋণ সহয়তাদানকারী সংস্থা?",
+      "question_html": "<div>কোনটি উন্নয়ন কার্যক্রমে ঋণ সহয়তাদানকারী সংস্থা?</div>",
+      "options": {
+        "A": "ইউরোপীয় ইউনিয়ন",
+        "B": "এশীয় উন্নয়ন ব্যাংক",
+        "C": "বিশ্বব্যাংক",
+        "D": "উপরের সবগুলো"
+      },
+      "options_html": {
+        "A": "ইউরোপীয় ইউনিয়ন",
+        "B": "এশীয় উন্নয়ন ব্যাংক",
+        "C": "বিশ্বব্যাংক",
+        "D": "উপরের সবগুলো"
+      },
+      "correct_answer": "D",
+      "explanation_text": "উন্নয়ন কার্যক্রমে ঋণদানকারী বা ঋণ সহায়তাদানকারী সংস্থা হলো এমন প্রতিষ্ঠান যারা বিভিন্ন উন্নয়নমূলক কর্মকাণ্ডে  অর্থায়ন করার জন্য ঋণ প্রদান করে। যেমন: বিশ্বব্যাংক, এশীয় উন্নয়ন ব্যাংক ও ইউরোপীয় ইউনিয়ন ইত্যাদি।",
+      "explanation_html": "উন্নয়ন কার্যক্রমে ঋণদানকারী বা ঋণ সহায়তাদানকারী সংস্থা হলো এমন প্রতিষ্ঠান যারা বিভিন্ন উন্নয়নমূলক কর্মকাণ্ডে  অর্থায়ন করার জন্য ঋণ প্রদান করে। যেমন: বিশ্বব্যাংক, এশীয় উন্নয়ন ব্যাংক ও ইউরোপীয় ইউনিয়ন ইত্যাদি।"
+    },
+    {
+      "id": 10,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "John keats wrote ___",
+      "question_html": "<div>John keats wrote ___</div>",
+      "options": {
+        "A": "Ode to the West Wind",
+        "B": "Ode on a Grecian urn",
+        "C": "Tinter Abbey",
+        "D": "The Accient Mariner"
+      },
+      "options_html": {
+        "A": "Ode to the West Wind",
+        "B": "Ode on a Grecian urn",
+        "C": "Tinter Abbey",
+        "D": "The Accient Mariner"
+      },
+      "correct_answer": "B",
+      "explanation_text": "John Keats একজন ইংরেজ রোমান্টিক কবি, যিনি তার সুন্দর ভাষা ও গভীর কল্পনার জন্য বিখ্যাত। তিনি অনেক ‘ode’ বা স্তবকবদ্ধ কবিতা লিখেছেন, যার মধ্যে “Ode on a Grecian Urn” অন্যতম। তার বিখ্যাত কবিতাগুলো হলো- Ode to a Nightingale, Ode on Melancholy, Ode to Autumn, Isabella প্রভৃতি।Famous Quotes of Ketas:● Beauty is truth, truth beauty. (Ode on a Grecian urn)● A thing of beauty is a joy forever. (Endymon)● Heard melodies are sweet but those unheard are sweeter. (Ode on a Grecian urn)",
+      "explanation_html": "John Keats একজন ইংরেজ রোমান্টিক কবি, যিনি তার সুন্দর ভাষা ও গভীর কল্পনার জন্য বিখ্যাত। তিনি অনেক ‘ode’ বা স্তবকবদ্ধ কবিতা লিখেছেন, যার মধ্যে “Ode on a Grecian Urn” অন্যতম। তার বিখ্যাত কবিতাগুলো হলো- Ode to a Nightingale, Ode on Melancholy, Ode to Autumn, Isabella প্রভৃতি।<br/>\r\nFamous Quotes of Ketas:<br/>\r\n● Beauty is truth, truth beauty. (Ode on a Grecian urn)<br/>\r\n● A thing of beauty is a joy forever. (Endymon)<br/>\r\n● Heard melodies are sweet but those unheard are sweeter. (Ode on a Grecian urn)"
+    },
+    {
+      "id": 11,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "The passive form of the sentence, “Who did the work” is-",
+      "question_html": "<div>The passive form of the sentence, “Who did the work” is-</div>",
+      "options": {
+        "A": "By whom the work was done?",
+        "B": "Whom had the work done by?",
+        "C": "By whom was the work done?",
+        "D": "Who was the work done?"
+      },
+      "options_html": {
+        "A": "By whom the work was done?",
+        "B": "Whom had the work done by?",
+        "C": "By whom was the work done?",
+        "D": "Who was the work done?"
+      },
+      "correct_answer": "C",
+      "explanation_text": "",
+      "explanation_html": ""
+    },
+    {
+      "id": 12,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "নিচের কোন প্রতিষ্ঠান বাংলাদেশের ২১শে ফেব্রুয়ারির শহিদ দিবসকে ‘আন্তর্জাতিক মাতৃভাষা দিবস’ হিসেবে স্বীকৃতি প্রদান করে?",
+      "question_html": "<div>নিচের কোন প্রতিষ্ঠান বাংলাদেশের ২১শে ফেব্রুয়ারির শহিদ দিবসকে ‘আন্তর্জাতিক মাতৃভাষা দিবস’ হিসেবে স্বীকৃতি প্রদান করে?</div>",
+      "options": {
+        "A": "ইউনিসেফ",
+        "B": "ইউনেস্কো",
+        "C": "ইউএস",
+        "D": "এডিবি"
+      },
+      "options_html": {
+        "A": "ইউনিসেফ",
+        "B": "ইউনেস্কো",
+        "C": "ইউএস",
+        "D": "এডিবি"
+      },
+      "correct_answer": "B",
+      "explanation_text": "১৯৯৯ সালের ১৭ নভেম্বর, ইউনেস্কোর ৩০তম সম্মেলনে একুশে ফেব্রুয়ারি ‘আন্তর্জাতিক মাতৃভাষা দিবস’ হিসেবে স্বীকৃতি পায়। ২০০০ সালে UNESCO প্রথমবারের মতো ‘আন্তর্জাতিক মাতৃভাষা দিবস’ পালন করে।",
+      "explanation_html": "১৯৯৯ সালের ১৭ নভেম্বর, ইউনেস্কোর ৩০তম সম্মেলনে একুশে ফেব্রুয়ারি ‘আন্তর্জাতিক মাতৃভাষা দিবস’ হিসেবে স্বীকৃতি পায়। ২০০০ সালে UNESCO প্রথমবারের মতো ‘আন্তর্জাতিক মাতৃভাষা দিবস’ পালন করে।"
+    },
+    {
+      "id": 13,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কোন শব্দে দ্বিস্বরধ্বনি রয়েছে?",
+      "question_html": "<div>কোন শব্দে দ্বিস্বরধ্বনি রয়েছে?</div>",
+      "options": {
+        "A": "তিসি",
+        "B": "মালি",
+        "C": "লাউ",
+        "D": "মেয়ে"
+      },
+      "options_html": {
+        "A": "তিসি",
+        "B": "মালি",
+        "C": "লাউ",
+        "D": "মেয়ে"
+      },
+      "correct_answer": "C",
+      "explanation_text": "দ্বিস্বর ধ্বনি: পূর্ণ স্বরধ্বনি ও অর্ধস্বরধ্বনি একত্রে উচ্চারিত হলে দ্বিস্বরধ্বনি হয়। যেমন- ‘লাউ’ শব্দের (আ) পূর্ণ স্বরধ্বনি এবং (উ্‌) অর্ধস্বরধ্বনি মিলে দ্বিস্বরধ্বনি (আউ্‌) তৈরি হয়েছে। দ্বিস্বরধ্বনির কিছু উদাহরণ:(আই্‌): তাই, নাই(এই্‌): সেই, নেই(আও): যাও, দাও ইত্যাদি।",
+      "explanation_html": "দ্বিস্বর ধ্বনি: পূর্ণ স্বরধ্বনি ও অর্ধস্বরধ্বনি একত্রে উচ্চারিত হলে দ্বিস্বরধ্বনি হয়। যেমন- ‘লাউ’ শব্দের (আ) পূর্ণ স্বরধ্বনি এবং (উ্‌) অর্ধস্বরধ্বনি মিলে দ্বিস্বরধ্বনি (আউ্‌) তৈরি হয়েছে। দ্বিস্বরধ্বনির কিছু উদাহরণ:<br/>\r\n(আই্‌): তাই, নাই<br/>\r\n(এই্‌): সেই, নেই<br/>\r\n(আও): যাও, দাও ইত্যাদি।"
+    },
+    {
+      "id": 14,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কমনওয়েলথ কোন ধরনের দেশ নিয়ে গঠিত?",
+      "question_html": "<div>কমনওয়েলথ কোন ধরনের দেশ নিয়ে গঠিত?</div>",
+      "options": {
+        "A": "ইংরেজ শাসন থেকে স্বাধীনতাপ্রাপ্ত দেশসমূহ",
+        "B": "তেল উৎপাদনকারী দেশসমূহ",
+        "C": "এশিয়া ও ইউরোপের দেশসমূহ",
+        "D": "স্বল্প উন্নত দেশসমূহ"
+      },
+      "options_html": {
+        "A": "ইংরেজ শাসন থেকে স্বাধীনতাপ্রাপ্ত দেশসমূহ",
+        "B": "তেল উৎপাদনকারী দেশসমূহ",
+        "C": "এশিয়া ও ইউরোপের দেশসমূহ",
+        "D": "স্বল্প উন্নত দেশসমূহ"
+      },
+      "correct_answer": "A",
+      "explanation_text": "কমনওয়েলথ প্রতিষ্ঠার প্রথম পদক্ষেপ ছিল ১৯২৬ সালের বেলফোর ঘোষণা। পরবর্তীতে আধুনিক কমনওয়েলথ প্রতিষ্ঠিত হয় ১৯৪৯ সালে (লন্ডন ঘোষণার মাধ্যমে)। ইংরেজ শাসন থেকে স্বাধীনতা প্রাপ্ত দেশসমূহ নিয়ে কমনওয়েলথ গঠিত হয়। বর্তমানে কমনওয়েলথের মোট সদস্য রাষ্ট্র ৫৬টি।",
+      "explanation_html": "কমনওয়েলথ প্রতিষ্ঠার প্রথম পদক্ষেপ ছিল ১৯২৬ সালের বেলফোর ঘোষণা। পরবর্তীতে আধুনিক কমনওয়েলথ প্রতিষ্ঠিত হয় ১৯৪৯ সালে (লন্ডন ঘোষণার মাধ্যমে)। ইংরেজ শাসন থেকে স্বাধীনতা প্রাপ্ত দেশসমূহ নিয়ে কমনওয়েলথ গঠিত হয়। বর্তমানে কমনওয়েলথের মোট সদস্য রাষ্ট্র ৫৬টি।"
+    },
+    {
+      "id": 15,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের কর্ণফুলি নদীর উৎপত্তিস্থল কোথায়?",
+      "question_html": "<div>বাংলাদেশের কর্ণফুলি নদীর উৎপত্তিস্থল কোথায়?</div>",
+      "options": {
+        "A": "লুসাই পাহাড়",
+        "B": "সিকিমের পাবর্ত্য অঞ্চল",
+        "C": "তিব্বতের মানোস সরোবর",
+        "D": "নাগা-মনিপুর অঞ্চলের বোরাক নদী"
+      },
+      "options_html": {
+        "A": "লুসাই পাহাড়",
+        "B": "সিকিমের পাবর্ত্য অঞ্চল",
+        "C": "তিব্বতের মানোস সরোবর",
+        "D": "নাগা-মনিপুর অঞ্চলের বোরাক নদী"
+      },
+      "correct_answer": "A",
+      "explanation_text": "নদী/নদ:কর্ণফুলী;উৎপত্তি:মিজোরামের লুসাই পাহাড় থেকে;সমাপ্তি:বঙ্গোপসাগর,প্রবেশের স্থান:রাঙ্গামাটি;উপনদী:কাসালং, হালদা, বোয়ালখালী এবং কাপ্তাই।",
+      "explanation_html": "<b>নদী/নদ:</b> কর্ণফুলী; <b>উৎপত্তি:</b> মিজোরামের লুসাই পাহাড় থেকে; <b>সমাপ্তি:</b> বঙ্গোপসাগর, <b>প্রবেশের স্থান:</b> রাঙ্গামাটি; <b>উপনদী:</b> কাসালং, হালদা, বোয়ালখালী এবং কাপ্তাই।"
+    },
+    {
+      "id": 16,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "She succeeded ____ her good work.",
+      "question_html": "<div>She succeeded ____ her good work.</div>",
+      "options": {
+        "A": "because",
+        "B": "since",
+        "C": "because of",
+        "D": "as"
+      },
+      "options_html": {
+        "A": "because",
+        "B": "since",
+        "C": "because of",
+        "D": "as"
+      },
+      "correct_answer": "C",
+      "explanation_text": "Because of একটি preposition, যার পরে noun/noun phrase বসে। এখানে ‘her good work’ একটি noun phrase তাই ‘because of’ সঠিক। যেমন: He failed because of his carelessness.Because, since, as এগুলো conjunction, অর্থাৎ এগুলোর পরে subject + verb থাকে। যেমন: She succeeded because she worked hard.",
+      "explanation_html": "Because of একটি preposition, যার পরে noun/noun phrase বসে। এখানে ‘her good work’ একটি noun phrase তাই ‘because of’ সঠিক। যেমন: He failed because of his carelessness.<br/>\r\nBecause, since, as এগুলো conjunction, অর্থাৎ এগুলোর পরে subject + verb থাকে। যেমন: She succeeded because she worked hard."
+    },
+    {
+      "id": 17,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "Choose the correct sentence.",
+      "question_html": "<div>Choose the correct sentence.</div>",
+      "options": {
+        "A": "He resembles like his father.",
+        "B": "He resembles with his father.",
+        "C": "He resembles his father.",
+        "D": "He resembles similar to his father."
+      },
+      "options_html": {
+        "A": "He resembles like his father.",
+        "B": "He resembles with his father.",
+        "C": "He resembles his father.",
+        "D": "He resembles similar to his father."
+      },
+      "correct_answer": "C",
+      "explanation_text": "Resemble একটি transitive verb, অর্থাৎ এটি সরাসরি একটি object গ্রহণ করে তাই এর পর কোনো preposition (যেমন: like, with, to) ব্যবহৃত হয় না।গঠন: Subject + resemble + object. যেমন: She resembles her mother.",
+      "explanation_html": "Resemble একটি transitive verb, অর্থাৎ এটি সরাসরি একটি object গ্রহণ করে তাই এর পর কোনো preposition (যেমন: like, with, to) ব্যবহৃত হয় না।<br/>\r\nগঠন: Subject + resemble + object. যেমন: She resembles her mother."
+    },
+    {
+      "id": 18,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "Who composed ‘Paradise Lost’?",
+      "question_html": "<div>Who composed ‘Paradise Lost’?</div>",
+      "options": {
+        "A": "John Donne",
+        "B": "John Keats",
+        "C": "John Dryden",
+        "D": "John Milton"
+      },
+      "options_html": {
+        "A": "John Donne",
+        "B": "John Keats",
+        "C": "John Dryden",
+        "D": "John Milton"
+      },
+      "correct_answer": "D",
+      "explanation_text": "Paradise Lost একটি বিখ্যাত epic poem (মহাকাব্য) যা John Milton ১৬৬৭ সালে রচনা করেন। এটি ইংরেজি সাহিত্যের সর্বশ্রেষ্ঠ মহাকাব্যগুলোর একটি, যেখানে আদম ও ইভ এর পাপ ও স্বর্গচ্যুতির কাহিনি বর্ণিত হয়েছে। মহাকাব্যটির মূল থিম- ‘To Justify the ways of God to man’. John Milton এর উল্লেখযোগ্য সাহিত্যকর্ম হলো- Paradise Regained (Epic Poem), Samson Agonistes (Tragic Drama), Areopagitica (Prose), Lycidas (Elegy), On His Blindness (Sonnet) প্রভৃতি।",
+      "explanation_html": "Paradise Lost একটি বিখ্যাত epic poem (মহাকাব্য) যা John Milton ১৬৬৭ সালে রচনা করেন। এটি ইংরেজি সাহিত্যের সর্বশ্রেষ্ঠ মহাকাব্যগুলোর একটি, যেখানে আদম ও ইভ এর পাপ ও স্বর্গচ্যুতির কাহিনি বর্ণিত হয়েছে। মহাকাব্যটির মূল থিম- ‘To Justify the ways of God to man’. John Milton এর উল্লেখযোগ্য সাহিত্যকর্ম হলো- Paradise Regained (Epic Poem), Samson Agonistes (Tragic Drama), Areopagitica (Prose), Lycidas (Elegy), On His Blindness (Sonnet) প্রভৃতি।"
+    },
+    {
+      "id": 19,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "প্রত্যয়যোগে গঠিত শব্দ কোনটি?",
+      "question_html": "<div>প্রত্যয়যোগে গঠিত শব্দ কোনটি?</div>",
+      "options": {
+        "A": "ডাক্তারখানা",
+        "B": "অনুগমন",
+        "C": "দিলখোলা",
+        "D": "সম্রাট"
+      },
+      "options_html": {
+        "A": "ডাক্তারখানা",
+        "B": "অনুগমন",
+        "C": "দিলখোলা",
+        "D": "সম্রাট"
+      },
+      "correct_answer": "BLANK",
+      "explanation_text": "ডাক্তার + খানা ডাক্তারখানা শব্দটি বিদেশি তদ্ধিত প্রত্যয়যোগে গঠিত। অনুগমন শব্দটি অনু উপসর্গ, সংস্কৃত গম্ ধাতু এবং অন প্রত্যয় যুক্ত হয়ে গঠিত। অনুগমন = অনু (উপসর্গ) + √গম্ (ধাতু) + অন (প্রত্যয়)। শব্দটি প্রত্যয় ও উপসর্গ যোগে গঠিত। দিলখোলা শব্দটি সমাসবদ্ধ পদ। এটি প্রত্যয়যোগে গঠিত শব্দ নয়। সম্রাট শব্দটি সংস্কৃত উপসর্গ সম্ যোগে গঠিত সম্ + রাট, এখানে প্রত্যয় যুক্ত হয়নি। উল্লিখিত অপশনগুলোর মধ্যে ডাক্তারখানা শব্দটি শুধু প্রত্যয়যোগে গঠিত হয়েছে তাই উত্তর ডাক্তারখানা অধিক গ্রহণযোগ্য।",
+      "explanation_html": "ডাক্তার + খানা ডাক্তারখানা শব্দটি বিদেশি তদ্ধিত প্রত্যয়যোগে গঠিত। অনুগমন শব্দটি অনু উপসর্গ, সংস্কৃত গম্ ধাতু এবং অন প্রত্যয় যুক্ত হয়ে গঠিত। অনুগমন = অনু (উপসর্গ) + √গম্ (ধাতু) + অন (প্রত্যয়)। শব্দটি প্রত্যয় ও উপসর্গ যোগে গঠিত। দিলখোলা শব্দটি সমাসবদ্ধ পদ। এটি প্রত্যয়যোগে গঠিত শব্দ নয়। সম্রাট শব্দটি সংস্কৃত উপসর্গ সম্ যোগে গঠিত সম্ + রাট, এখানে প্রত্যয় যুক্ত হয়নি। উল্লিখিত অপশনগুলোর মধ্যে ডাক্তারখানা শব্দটি শুধু প্রত্যয়যোগে গঠিত হয়েছে তাই উত্তর ডাক্তারখানা অধিক গ্রহণযোগ্য।"
+    },
+    {
+      "id": 20,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "একটি গাছের পাদদেশ হতে \\(26\\sqrt {3}\\)  মিটার দূরে একটি স্থানে গাছটির শীর্ষের উন্নতি কোণ \\(30°\\) হলে, গাছটির উচ্চতা কত মিটার?",
+      "question_html": "<div style=\"text-align: justify;\">একটি গাছের পাদদেশ হতে \\(26\\sqrt {3}\\)  মিটার দূরে একটি স্থানে গাছটির শীর্ষের উন্নতি কোণ \\(30°\\) হলে, গাছটির উচ্চতা কত মিটার?</div>",
+      "options": {
+        "A": "\\(\\frac {\\sqrt {3}}{{26}}\\)",
+        "B": "\\(\\frac {{26}}{{\\sqrt 3}}\\)",
+        "C": "26",
+        "D": "78"
+      },
+      "options_html": {
+        "A": "\\(\\frac {\\sqrt {3}}{{26}}\\)",
+        "B": "\\(\\frac {{26}}{{\\sqrt 3}}\\)",
+        "C": "26",
+        "D": "78"
+      },
+      "correct_answer": "C",
+      "explanation_text": "মনে করি, গাছটির উচ্চতা, \\(\\mathrm{AB = h} \\) মিটারগাছের পাদদেশ হতে দূরত্ব, \\(\\mathrm{BC=26\\sqrt 3} \\)এবং উন্নতি কোণ \\(\\mathrm{∠ACB=30° } \\)তাহলে, \\(\\mathrm{tan⁡∠ACB={h\\over 26 \\sqrt 3}} \\)\\(\\mathrm{⇒{1\\over \\sqrt 3}={h\\over 26\\sqrt 3}\\\\∴h=26} \\)",
+      "explanation_html": "মনে করি, গাছটির উচ্চতা, \\(\\mathrm{AB = h} \\) মিটার<br/>\r\nগাছের পাদদেশ হতে দূরত্ব, \\(\\mathrm{BC=26\\sqrt 3} \\)<br/>\r\nএবং উন্নতি কোণ \\(\\mathrm{∠ACB=30° } \\)<br/>\r\n <img alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAABvCAMAAADGzC6mAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACZUExURQAAACMfICQgICQfISMfICMfICQgICQeHiMeIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcHBwAAACMfICMfICMgICAgICIgICUgICAgICQeICMgICIfIOOVUS4AAAAzdFJOUwDfgWT/vkcqnxAgz1D/v2Df7zBX5fv+W4ePr3SAzZxAn+am185wZEw8r79QIHAwEI9gz9alYMcAAAAJcEhZcwAAFxEAABcRAcom8z8AAAOjSURBVGhD7dprd5QwEAbgAIGwtLRbV1d7sav12q5a6///cc4kw14hTEJmv+h7bJvlQJ6TCwFZ1P8EJsupIJtCZ1SSTVnpioqSMbnKaipLJjcqP0XHldCkE3RcoTHyHWeFXNuyVGaNKgpbEm3Q7Oy81hpP0gy6zm0TyOysPaeiZIA5hQPMxQkcYC4v5R1klLxjGXnHMeIOMdJOxwg7G0bW2TKizg4j6ewygs4eI+fsM2LOASPlHDJCzhEj4xwzIk4PI+E082NGwOll0jv9THJngEntNPOrXiaxM8ikdYaZpI6HSen4mISOl0nn+JlkzgiTyhljEjmjTBpnnEniMJgUDodJ4LAY50x5KMZjrFPa/9fHhclMbQ+Xmeiwmc6po56F8BlydKEy95AnJAHMtt/K4L4LYSY4QUy8E8ZEO4GMdTKt89I9hOPmVSDj2hOcYCbOCWeinAgmxolhIpwoJtwBJmJEg51IJtSJZQKdaCbMiWeCnAlMiDOFCXAmMXxnGsN2JjJcZ4gx3O9dec7i9UBralPwLo8sZ/Fm+ZaKqtKuCYWGmzH8ohL+McJxgGkvqGywZmhCBfeVWZXUAebddXvjPhj4yem2pShVrYzn28NZs8ntqIOMUjfb/SrsN/xWF9rkH5+m3QlU4otj1Kydu89wdwSO0dAw+OWfb017cUd5P+IQo9Td9rka1N05tGUgTXtNJXXvdzaMms2vXMHNAeo3f9jOlsEGrahkoP4SJjXMA3+4zi4DI/SBSjXOaxiX0W/4mc4eo5TtuFzb87M7T/3hOQeMum4bKnHDcg4ZOKW7AeKG4yyWB4w6739i7AnDWSzbj/f7eWgfLsNy236iY+8/9zvApE6/86UvX1eD+bYX2rii42y+U9Vdapi5VT6yohzl8Wk3a9q6H3xjAyu3H+zCWAa/ZPP4gwq+FFh3bc+72q1Z9GrKYOCqSotb7VZs65jN1v5Yx77vYngvvdirKh5kNK1x1oEtte946xRuCR5dTDC4U4VXhc3u6OCYFl7Hjg+WmA4GV+28hrFVP8Gg8cGNw7HtyfEBguE/RcALdlYa+Pn11DklZ3zsFCjdjtU4BwNjL6iFNo/rrj0wd93f3nQOHAVTBorV+M1SbXd2v56zjeO9ltM8cJVD27tJ5EluxxEf2hk4+PdL5yiPQ+fpeOXb4C0c3LzhO2Z4J/f8p3Ny1nnBDbbZLiBwebUVv2hwcNqyp1Fksq7fhLM+kaOe6e8/GKX+ArjhS0fMlZQDAAAAAElFTkSuQmCC\"/><br/>\r\nতাহলে, \\(\\mathrm{tan⁡∠ACB={h\\over 26 \\sqrt 3}} \\)<br/>\r\n\\(\\mathrm{⇒{1\\over \\sqrt 3}={h\\over 26\\sqrt 3}\\\\  <br/>\r\n∴h=26} \\)"
+    },
+    {
+      "id": 21,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘তিনি কথা বললেন না।’ -বাক্যটির অস্তিবাচক রূপ কী হবে?",
+      "question_html": "<div>‘তিনি কথা বললেন না।’ -বাক্যটির অস্তিবাচক রূপ কী হবে?</div>",
+      "options": {
+        "A": "তিনি কথা বলতে চাইলেন না।",
+        "B": "তিনি কথা না বলে থাকতে পারলেন না।",
+        "C": "তিনি নীরব থাকতে চেষ্টা করলেন।",
+        "D": "তিনি চুপ করে থাকলেন।"
+      },
+      "options_html": {
+        "A": "তিনি কথা বলতে চাইলেন না।",
+        "B": "তিনি কথা না বলে থাকতে পারলেন না।",
+        "C": "তিনি নীরব থাকতে চেষ্টা করলেন।",
+        "D": "তিনি চুপ করে থাকলেন।"
+      },
+      "correct_answer": "D",
+      "explanation_text": "",
+      "explanation_html": ""
+    },
+    {
+      "id": 22,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "\\(\\sqrt \\frac{9}{4}\\) সংখ্যাটি-",
+      "question_html": "<div>\\(\\sqrt \\frac{9}{4}\\) সংখ্যাটি-</div>",
+      "options": {
+        "A": "স্বাভাবিক সংখ্যা",
+        "B": "মূলদ সংখ্যা",
+        "C": "অমূলদ সংখ্যা",
+        "D": "জটিল সংখ্যা"
+      },
+      "options_html": {
+        "A": "স্বাভাবিক সংখ্যা",
+        "B": "মূলদ সংখ্যা",
+        "C": "অমূলদ সংখ্যা",
+        "D": "জটিল সংখ্যা"
+      },
+      "correct_answer": "B",
+      "explanation_text": "\\(\\mathrm {\\sqrt {9\\over 4}={3\\over 2}} \\)উপরের ভগ্নাংশটি \\(\\mathrm {p\\over q} \\) আকারের। যেখানে, 3 ও 2 পরস্পর সহমৌলিক সংখ্যা এবং \\(\\mathrm {q≠0} \\)।সুতরাং \\(\\mathrm {3\\over 2} \\) একটি মূলদ সংখ্যা।",
+      "explanation_html": "\\(\\mathrm {\\sqrt {9\\over 4}={3\\over 2}} \\)<br/>\r\nউপরের ভগ্নাংশটি \\(\\mathrm {p\\over q} \\) আকারের। যেখানে, 3 ও 2 পরস্পর সহমৌলিক সংখ্যা এবং \\(\\mathrm {q≠0} \\)।<br/>\r\nসুতরাং \\(\\mathrm {3\\over 2} \\) একটি মূলদ সংখ্যা।"
+    },
+    {
+      "id": 23,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘টঙ্ক (Tonk) আন্দোলন’ কি?",
+      "question_html": "<div>‘টঙ্ক (Tonk) আন্দোলন’ কি?</div>",
+      "options": {
+        "A": "সাঁওতাল বিদ্রোহ",
+        "B": "কৃষক আন্দোলন",
+        "C": "প্রাকৃতিক সম্পদ রক্ষার আন্দোলন",
+        "D": "কোনটিই নয়"
+      },
+      "options_html": {
+        "A": "সাঁওতাল বিদ্রোহ",
+        "B": "কৃষক আন্দোলন",
+        "C": "প্রাকৃতিক সম্পদ রক্ষার আন্দোলন",
+        "D": "কোনটিই নয়"
+      },
+      "correct_answer": "B",
+      "explanation_text": "টঙ্ক আন্দোলন বাংলার কৃষকদের অধিকার আদায়ের একটি অন্যতম আন্দোলন। তৎকালীন উত্তর ময়মনসিংহ অঞ্চলে এই আন্দোলন ব্যাপক আকার ধারণ করে এবং ১৯৫০ সালে টঙ্ক প্রথা ও জমিদারি প্রথা উচ্ছেদের মাধ্যমে এই আন্দোলনের সমাপ্তি হয়।",
+      "explanation_html": "টঙ্ক আন্দোলন বাংলার কৃষকদের অধিকার আদায়ের একটি অন্যতম আন্দোলন। তৎকালীন উত্তর ময়মনসিংহ অঞ্চলে এই আন্দোলন ব্যাপক আকার ধারণ করে এবং ১৯৫০ সালে টঙ্ক প্রথা ও জমিদারি প্রথা উচ্ছেদের মাধ্যমে এই আন্দোলনের সমাপ্তি হয়।"
+    },
+    {
+      "id": 24,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘অন্তর্ভুক্তিমূলক’ শব্দ উচ্চারণে কয়টি অক্ষর পাওয়া যায়?",
+      "question_html": "<div>‘অন্তর্ভুক্তিমূলক’ শব্দ উচ্চারণে কয়টি অক্ষর পাওয়া যায়?</div>",
+      "options": {
+        "A": "৫",
+        "B": "৬",
+        "C": "৭",
+        "D": "৮"
+      },
+      "options_html": {
+        "A": "৫",
+        "B": "৬",
+        "C": "৭",
+        "D": "৮"
+      },
+      "correct_answer": "B",
+      "explanation_text": "নিঃশ্বাসের স্বল্পতম প্রয়াসে উচ্চারিত ধ্বনি বা ধ্বনিগুচ্ছকে অক্ষর বলে। অন্তর্ভুক্তিমূলক শব্দ উচ্চারণে মোট ছয়টি অক্ষর পাওয়া যায় = অন্‌ + তর্‌ + ভুক্‌ + তি + মূ + লক্‌।",
+      "explanation_html": "নিঃশ্বাসের স্বল্পতম প্রয়াসে উচ্চারিত ধ্বনি বা ধ্বনিগুচ্ছকে অক্ষর বলে। অন্তর্ভুক্তিমূলক শব্দ উচ্চারণে মোট ছয়টি অক্ষর পাওয়া যায় = অন্‌ + তর্‌ + ভুক্‌ + তি + মূ + লক্‌।"
+    },
+    {
+      "id": 25,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "শুদ্ধ বাক্য কোনটি?",
+      "question_html": "<div>শুদ্ধ বাক্য কোনটি?</div>",
+      "options": {
+        "A": "সারা দেশব্যাপী দিবসটি উদ্‌যাপন করা হবে।",
+        "B": "সারা দেশে দিবসটি উদ্যাপন করা হবে।",
+        "C": "দেশব্যাপী দিবসটি উদ্‌যাপন করা হবে।",
+        "D": "সারা দেশে দিবসটি উদ্‌যাপন করা হবে।"
+      },
+      "options_html": {
+        "A": "সারা দেশব্যাপী দিবসটি উদ্‌যাপন করা হবে।",
+        "B": "সারা দেশে দিবসটি উদ্যাপন করা হবে।",
+        "C": "দেশব্যাপী দিবসটি উদ্‌যাপন করা হবে।",
+        "D": "সারা দেশে দিবসটি উদ্‌যাপন করা হবে।"
+      },
+      "correct_answer": "D",
+      "explanation_text": "শুদ্ধ বাক্যটি হলো: সারা দেশে দিবসটি উদ্‌যাপন করা হবে।",
+      "explanation_html": "শুদ্ধ বাক্যটি হলো: সারা দেশে দিবসটি উদ্‌যাপন করা হবে।"
+    },
+    {
+      "id": 26,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "What is the meaning of ‘French leave’?",
+      "question_html": "<div>What is the meaning of ‘French leave’?</div>",
+      "options": {
+        "A": "Leave on holidays",
+        "B": "Spending time in France",
+        "C": "Leave without permission",
+        "D": "Emergency leave"
+      },
+      "options_html": {
+        "A": "Leave on holidays",
+        "B": "Spending time in France",
+        "C": "Leave without permission",
+        "D": "Emergency leave"
+      },
+      "correct_answer": "C",
+      "explanation_text": "",
+      "explanation_html": ""
+    },
+    {
+      "id": 27,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘ইউসুফ-জোলেখা’র কবি শাহ মুহম্মদ সগীরের জন্ম কোথায়?",
+      "question_html": "<div>‘ইউসুফ-জোলেখা’র কবি শাহ মুহম্মদ সগীরের জন্ম কোথায়?</div>",
+      "options": {
+        "A": "বগুড়া",
+        "B": "সিলেট",
+        "C": "নদীয়া",
+        "D": "চট্টগ্রাম"
+      },
+      "options_html": {
+        "A": "বগুড়া",
+        "B": "সিলেট",
+        "C": "নদীয়া",
+        "D": "চট্টগ্রাম"
+      },
+      "correct_answer": "D",
+      "explanation_text": "বাংলা সাহিত্যের প্রথম মুসলমান কবি হিসেবে শাহ মুহম্মদ সগীর বিশেষ গুরুত্বের অধিকারী। তিনি গৌড়ের সুলতান গিয়াসউদ্দিন আজম শাহের রাজত্বকালে (১৩৯৩-১৪১০ সাল) ইউসুফ-জোলেখা কাব্য রচনা করেন। তাঁর কাব্যে চট্টগ্রাম অঞ্চলের কতিপয় শব্দের ব্যবহার লক্ষ করে ড. মুহম্মদ এনামুল হক তাঁকে চট্টগ্রামের অধিবাসী বিবেচনা করেছেন।[সূত্র: বাংলা সাহিত্যের ইতিহাস: মাহবুবুল আলম]",
+      "explanation_html": "বাংলা সাহিত্যের প্রথম মুসলমান কবি হিসেবে শাহ মুহম্মদ সগীর বিশেষ গুরুত্বের অধিকারী। তিনি গৌড়ের সুলতান গিয়াসউদ্দিন আজম শাহের রাজত্বকালে (১৩৯৩-১৪১০ সাল) ইউসুফ-জোলেখা কাব্য রচনা করেন। তাঁর কাব্যে চট্টগ্রাম অঞ্চলের কতিপয় শব্দের ব্যবহার লক্ষ করে ড. মুহম্মদ এনামুল হক তাঁকে চট্টগ্রামের অধিবাসী বিবেচনা করেছেন।"
+    },
+    {
+      "id": 28,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে?",
+      "question_html": "<div>নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে?</div>",
+      "options": {
+        "A": "৪টি",
+        "B": "৫টি",
+        "C": "৬টি",
+        "D": "৭টি"
+      },
+      "options_html": {
+        "A": "৪টি",
+        "B": "৫টি",
+        "C": "৬টি",
+        "D": "৭টি"
+      },
+      "correct_answer": "B",
+      "explanation_text": "চিত্র হতে,১টি করে অংশ নিয়ে- 1, 2, 3 = 3টি ত্রিভুজ২টি করে অংশ নিয়ে- (1, 2) =1টি ত্রিভুজ৩টি করে অংশ নিয়ে- (1, 2, 3) = 1টি ত্রিভুজ∴ মোট = 5টি ত্রিভুজ।",
+      "explanation_html": "<img alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAABsCAMAAAB9yj1uAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACEUExURQAAACAgICAgICMfICQfISMfICMfICMfICUgICMfICQfICIfICIfICMgICIgICQfHyMgICMfICMfICIeICQgICQeICMeICIgICQgICQfISMgICQgICQgICQfHyQfHyAgICQeHiQeISEhISIeICMfICMfICMeISMeHyIgICMfICMfICIeIASu9TgAAAAsdFJOUwAgEN+k/77yML/l2M9QcWRgr++AQI+fcEdksXGBcjkYKlYuiOH12/t58PGQhpBQTAAAAAlwSFlzAAAXEQAAFxEByibzPwAABOJJREFUaEPFmm13mzgQRkGsUpPF21gYcHbdxH1v0////1aCkZFGIxAClHtOazkfcm0zD5pRnK0ih8d3gBXvJ/+LP8AqOfkHzg+wTk35yP+uYJ2YI/+Hf+RP8CwprDod+OEk4GlSanGWbsZreJ4QJppMuuVLSJ+zRrDezYoT/CQZZyE/a+XOnpLnrCwYuLOqGH6UiiM/y/8H9yFtzmS+1MPgztLmrBa9FNyMN+ohDbnMlwLcWc3T5ayV+VJod8KcnXk3LLQbSi8FZTm87dGdLGfjmxzdeZqcGRd3dN9LYF8gXwrDzXgLqx3J1Y0cMNxJctaqGzlgurOihMVu3POlsNxHfoTVXpTmu7PccmuDxU501k3Edu+cM3TztN0yZ3uWG2rOkHvXnJn5UiD3ru2TmS8Fdu+YsyMuJse9W86YlS+F496tfbLzpXDduXnr2Q41iCBc9045I4Yfws2KHXKG86Ug3LvkrB9EEJQ7KzY/DnDypSDd561zBoMIgnRvnjM3XwravfFxAJEvBe2Wo/mWOVODPoHHvemYciDypfC4N80ZlS+Fz73hmOLdnbzuzY4D6HwpvO7NcmYMIgi/e6Oc6UGfwO/eaEzR+bo8XPpHgwn3JjnTg8jziS9xywJdfxxQVpCvyzL3BjkbX/5S9+oxxcjXUrdsn2ARiZEv183+nXSvHFPMRslxs9OHSffKnJmnKNh9KMR/0+5sTc6sQR+5D6LKp6/3ujHFGkRs91GUw9n9JPE5e7JuD5a7E628GrPu6Jyh2+Izv8IqYw1vVCHMuqOP3ez964FLhiU7iaEO5t2ROaMGkR6phhKad8sGNyZneNDXyGzpMghwRx0HnD1lcpbZgmWQOyZnzqA/0KlsaULcEe0TPYjIH/cFDgS5Fx8HMEHVJ2vtNizIvfg4gPwrpyxwuwbC3PT78ELmKy91tjRh7oVjyoka9AvnmxWB7kU5owZ9M1uaUPeC4wBWua/TypYm1L0gZ0S+YPNABLuDxxR30JfZIjMa7A7OWY33PSdbmnB34Jji5EtuHp5SCXcH5gwP+lSBAwvcWRVw7Ib3nb4xk1wqLu6NC2C6PxW8eoE1hW9fNMCDfieGAn8pmmuB/8ZuuJ/by7MQr/CMYj5nndUoqcZsWDXyPb0W3P7lplv9w9ODxWzO7HzdG7Ms6z/uKx4P7Ot94VMfOr0/GVgHaWNjBlyhWdQgdzudo5mc9d+Y0cjNA93fGrQZWu5bO3m5JdM5M/PlZuu1uMEKsNyyha5m5FNjinlOQWwezWdYaOzP/PIw14xPHLuZ+ardzeOzqmULdL2zYi5G/pyNgwhuzBQv7lEXdl/nRj/vt3DGgzRq8yDUjrvx/OYR33HAPV85sXm8FFcJKvTRfRPtLfs0V2venI3fmCnczeMm1CjIuV1to/tVjorVdVZtl/OI/sbMxL6FwZ95CFTO9AvqxAkXuJcYN3EcoC8E3Zh5iHETxwFDvlh73zxCiHI7xwFDo+RsHjNEuZ2c9YO+vzHzEOdGY0qfrwUFDkS67bZMDfpP1OQxTaTb+haOGkR0Y7aEWLeRM5mvsTFbQqzbGFNq8cU3eUwT7b7nLBdfnak+jGj3vX1qH7/hxiyQeDfk7Mi/L82WZoV7OA748XNxtjQr3H379Ivz3yKSt59vsIpA3s66P/X7UHf/AyUJSK80NTPbAAAAAElFTkSuQmCC\"/>"
+    },
+    {
+      "id": 29,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "\\(|\\mathrm {3x - 4|≤ 2}\\) এর সমাধান",
+      "question_html": "<div>\\(|\\mathrm {3x - 4|≤ 2}\\) এর সমাধান</div>",
+      "options": {
+        "A": "\\(\\frac {2}{3}≤x≤2\\)",
+        "B": "\\(\\mathrm {\\frac {2}{3}≤x<2}\\)",
+        "C": "\\(\\frac{2}{3}< \\mathrm x ≤2\\)",
+        "D": "\\(\\frac {2}{3} < \\mathrm x <2\\)"
+      },
+      "options_html": {
+        "A": "\\(\\frac {2}{3}≤x≤2\\)",
+        "B": "\\(\\mathrm {\\frac {2}{3}≤x<2}\\)",
+        "C": "\\(\\frac{2}{3}< \\mathrm x ≤2\\)",
+        "D": "\\(\\frac {2}{3} < \\mathrm x <2\\)"
+      },
+      "correct_answer": "A",
+      "explanation_text": "\\(\\mathrm{|3x-4|≤2 \\\\⇒-2≤3x-4≤2 \\\\⇒-2+4≤3x-4+4≤2+4 \\\\⇒2≤3x≤6 \\\\⇒\\frac 23≤{3x\\over 3}≤\\frac 63 \\\\∴\\frac 23≤x≤2 }\\)∴ নির্ণেয় সমাধান: \\(\\mathrm{\\frac 23≤x≤2 }\\)",
+      "explanation_html": "\\(\\mathrm{|3x-4|≤2 \\\\<br/>\r\n⇒-2≤3x-4≤2 \\\\<br/>\r\n⇒-2+4≤3x-4+4≤2+4 \\\\<br/>\r\n⇒2≤3x≤6 \\\\<br/>\r\n⇒\\frac 23≤{3x\\over 3}≤\\frac 63 \\\\<br/>\r\n∴\\frac 23≤x≤2 }\\)<br/>\r\n∴ নির্ণেয় সমাধান: \\(\\mathrm{\\frac 23≤x≤2 }\\)"
+    },
+    {
+      "id": 30,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের প্রাচীনতম জনপদ কোনটি?",
+      "question_html": "<div>বাংলাদেশের প্রাচীনতম জনপদ কোনটি?</div>",
+      "options": {
+        "A": "মহাস্থানগড়",
+        "B": "পাহাড়পুর",
+        "C": "ময়নামতি",
+        "D": "উয়ারীবটেশ্বর"
+      },
+      "options_html": {
+        "A": "মহাস্থানগড়",
+        "B": "পাহাড়পুর",
+        "C": "ময়নামতি",
+        "D": "উয়ারীবটেশ্বর"
+      },
+      "correct_answer": "A",
+      "explanation_text": "পুণ্ড্র জনপদের অবস্থান: বগুড়া, রংপুর, রাজশাহী, দিনাজপুর ও ভাগীরথী নদী হতে করতোয়া নদী পর্যন্ত। পুণ্ড্র জনপদের বিশেষত্ব: প্রাচীন বাংলার সবচেয়ে সমৃদ্ধ ও সর্বপ্রাচীন জনপদ। রাজধানীর নাম ছিল পুণ্ড্রনগর, বর্তমান নাম মহাস্থানগড়। সম্রাট অশোকের রাজত্বকালে পুণ্ড্র রাজ্যের স্বাধীন সত্তা বিলুপ্ত হয়। বাংলাদেশের প্রাচীন শিলালিপি (অশোক লিপি) পাওয়া যায় এই জনপদেই।",
+      "explanation_html": "পুণ্ড্র জনপদের অবস্থান: বগুড়া, রংপুর, রাজশাহী, দিনাজপুর ও ভাগীরথী নদী হতে করতোয়া নদী পর্যন্ত। পুণ্ড্র জনপদের বিশেষত্ব: প্রাচীন বাংলার সবচেয়ে সমৃদ্ধ ও সর্বপ্রাচীন জনপদ। রাজধানীর নাম ছিল পুণ্ড্রনগর, বর্তমান নাম মহাস্থানগড়। সম্রাট অশোকের রাজত্বকালে পুণ্ড্র রাজ্যের স্বাধীন সত্তা বিলুপ্ত হয়। বাংলাদেশের প্রাচীন শিলালিপি (অশোক লিপি) পাওয়া যায় এই জনপদেই।"
+    },
+    {
+      "id": 31,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "মার্কিন যুক্তরাষ্ট্রের আইনসভার নাম কি?",
+      "question_html": "<div>মার্কিন যুক্তরাষ্ট্রের আইনসভার নাম কি?  </div>",
+      "options": {
+        "A": "পার্লামেন্ট",
+        "B": "কংগ্রেস",
+        "C": "সিনেট",
+        "D": "কোনটিই নয়"
+      },
+      "options_html": {
+        "A": "পার্লামেন্ট",
+        "B": "কংগ্রেস",
+        "C": "সিনেট",
+        "D": "কোনটিই নয়"
+      },
+      "correct_answer": "B",
+      "explanation_text": "মার্কিন যুক্তরাষ্ট্রের আইনসভার নাম কংগ্রেস। মার্কিন যুক্তরাষ্ট্রের আইনসভা দ্বি-কক্ষ বিশিষ্ট যথা: সিনেট ও প্রতিনিধি পরিষদ।",
+      "explanation_html": "মার্কিন যুক্তরাষ্ট্রের আইনসভার নাম কংগ্রেস। মার্কিন যুক্তরাষ্ট্রের আইনসভা দ্বি-কক্ষ বিশিষ্ট যথা: সিনেট ও প্রতিনিধি পরিষদ।"
+    },
+    {
+      "id": 32,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের সংসদীয় সরকার ব্যবস্থায় নিয়মতান্ত্রিক প্রধান কে?",
+      "question_html": "<div>বাংলাদেশের সংসদীয় সরকার ব্যবস্থায় নিয়মতান্ত্রিক প্রধান কে?</div>",
+      "options": {
+        "A": "প্রধানমন্ত্রী",
+        "B": "রাষ্ট্রপতি",
+        "C": "স্পিকার",
+        "D": "সংসদ সচিব"
+      },
+      "options_html": {
+        "A": "প্রধানমন্ত্রী",
+        "B": "রাষ্ট্রপতি",
+        "C": "স্পিকার",
+        "D": "সংসদ সচিব"
+      },
+      "correct_answer": "B",
+      "explanation_text": "রাষ্ট্রপতি গণপ্রজাতন্ত্রী বাংলাদেশের রাষ্ট্রপ্রধান। তিনি জাতীয় সংসদ সদস্যগণ কর্তৃক প্রকাশ্য ভোটে নির্বাচিত হন। রাষ্ট্রপতির নামে সরকারের সকল নির্বাহী ব্যবস্থা গৃহীত হয়েছে বলে প্রকাশ করা হয়। রাষ্ট্রপতি হিসেবে তিনি রাষ্ট্রের অন্য সকল পদমর্যাদায় অধিষ্ঠিত ব্যক্তির ঊর্ধ্বে স্থান লাভ করেন ও সর্বোচ্চ পদমর্যাদার অধিকারী হবেন। তিনি হলেন নিয়মতান্ত্রিক প্রধান (Constitutional Head)।",
+      "explanation_html": "রাষ্ট্রপতি গণপ্রজাতন্ত্রী বাংলাদেশের রাষ্ট্রপ্রধান। তিনি জাতীয় সংসদ সদস্যগণ কর্তৃক প্রকাশ্য ভোটে নির্বাচিত হন। রাষ্ট্রপতির নামে সরকারের সকল নির্বাহী ব্যবস্থা গৃহীত হয়েছে বলে প্রকাশ করা হয়। রাষ্ট্রপতি হিসেবে তিনি রাষ্ট্রের অন্য সকল পদমর্যাদায় অধিষ্ঠিত ব্যক্তির ঊর্ধ্বে স্থান লাভ করেন ও সর্বোচ্চ পদমর্যাদার অধিকারী হবেন। তিনি হলেন নিয়মতান্ত্রিক প্রধান (Constitutional Head)।"
+    },
+    {
+      "id": 33,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "১, ৪, ৯, ১৬, ২৫, ….. অনুক্রমটির পরবর্তী সংখ্যাটি কত?",
+      "question_html": "<div>১, ৪, ৯, ১৬, ২৫, ….. অনুক্রমটির পরবর্তী সংখ্যাটি কত?</div>",
+      "options": {
+        "A": "৬৬",
+        "B": "৪৯",
+        "C": "৩৬",
+        "D": "৩৪"
+      },
+      "options_html": {
+        "A": "৬৬",
+        "B": "৪৯",
+        "C": "৩৬",
+        "D": "৩৪"
+      },
+      "correct_answer": "C",
+      "explanation_text": "প্রদত্ত অনুক্রম: \\(\\mathrm{1,4,9,16,25,………} \\)\\(\\mathrm{= 1^2,2^2,3^2,4^2,5^2,………} \\)",
+      "explanation_html": "প্রদত্ত অনুক্রম: \\(\\mathrm{1,4,9,16,25,………} \\)<br/>\r\n\\(\\mathrm{= 1^2,2^2,3^2,4^2,5^2,………} \\)"
+    },
+    {
+      "id": 34,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "প্রথম বিশ্বযুদ্ধ কোন চুক্তির মাধ্যমে সমাপ্ত হয়?",
+      "question_html": "<div>প্রথম বিশ্বযুদ্ধ কোন চুক্তির মাধ্যমে সমাপ্ত হয়?</div>",
+      "options": {
+        "A": "সেভার্স চুক্তি",
+        "B": "লুজেন (Lausamme) চুক্তি",
+        "C": "ভার্সাই চুক্তি",
+        "D": "প্যারিস চুক্তি"
+      },
+      "options_html": {
+        "A": "সেভার্স চুক্তি",
+        "B": "লুজেন (Lausamme) চুক্তি",
+        "C": "ভার্সাই চুক্তি",
+        "D": "প্যারিস চুক্তি"
+      },
+      "correct_answer": "C",
+      "explanation_text": "১৯১৪ সালের ২৮ জুন অস্ট্রিয়া-হাঙ্গেরি সাম্রাজ্যের যুবরাজ আর্চডিউক ফ্রাঞ্জ ফার্ডিনান্ড স্ত্রীসহ সারায়েভোতে সার্ব জাতীয়তাবাদী গাভ্রিলো প্রিন্সিপের গুলিতে নিহত হন। এর পর অস্ট্রিয়া-হাঙ্গেরি ২৮ জুলাই ১৯১৪ সার্বিয়ার বিরুদ্ধে যুদ্ধ ঘোষণা করলে মিত্রতা চুক্তির কারণে ধীরে ধীরে সব বড় শক্তি জড়িয়ে পড়ে এবং প্রথম বিশ্বযুদ্ধ শুরু হয়। যুদ্ধের আনুষ্ঠানিক শান্তি স্থাপন শুরু হয় ২৮ জুন ১৯১৯ ভার্সাই চুক্তির মাধ্যমে।",
+      "explanation_html": "১৯১৪ সালের ২৮ জুন অস্ট্রিয়া-হাঙ্গেরি সাম্রাজ্যের যুবরাজ আর্চডিউক ফ্রাঞ্জ ফার্ডিনান্ড স্ত্রীসহ সারায়েভোতে সার্ব জাতীয়তাবাদী গাভ্রিলো প্রিন্সিপের গুলিতে নিহত হন। এর পর অস্ট্রিয়া-হাঙ্গেরি ২৮ জুলাই ১৯১৪ সার্বিয়ার বিরুদ্ধে যুদ্ধ ঘোষণা করলে মিত্রতা চুক্তির কারণে ধীরে ধীরে সব বড় শক্তি জড়িয়ে পড়ে এবং প্রথম বিশ্বযুদ্ধ শুরু হয়। যুদ্ধের আনুষ্ঠানিক শান্তি স্থাপন শুরু হয় ২৮ জুন ১৯১৯ ভার্সাই চুক্তির মাধ্যমে।"
+    },
+    {
+      "id": 35,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "She workshard. What part of speech is the underlined word?",
+      "question_html": "<div>She works <u>hard</u>. What part of speech is the underlined word?</div>",
+      "options": {
+        "A": "Adjective",
+        "B": "Adverb",
+        "C": "Verb",
+        "D": "Noun"
+      },
+      "options_html": {
+        "A": "Adjective",
+        "B": "Adverb",
+        "C": "Verb",
+        "D": "Noun"
+      },
+      "correct_answer": "B",
+      "explanation_text": "Hard এখানে ‘works’ (verb) শব্দটির বর্ণনা দিচ্ছে ‘কীভাবে কাজ করে?’। যখন কোনো শব্দ verb, adjective, adverb বা Sentence কে বর্ণনা করে, তখন সেটি হয় adverb। তাই Hard (কঠোরভাবে/কঠিনভাবে) এখানে adverb।",
+      "explanation_html": "Hard এখানে ‘works’ (verb) শব্দটির বর্ণনা দিচ্ছে ‘কীভাবে কাজ করে?’। যখন কোনো শব্দ verb, adjective, adverb বা Sentence কে বর্ণনা করে, তখন সেটি হয় adverb। তাই Hard (কঠোরভাবে/কঠিনভাবে) এখানে adverb।"
+    },
+    {
+      "id": 36,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "The synonym of the word ‘spectacular’ is-",
+      "question_html": "<div>The synonym of the word ‘spectacular’ is-</div>",
+      "options": {
+        "A": "ugly",
+        "B": "spacious",
+        "C": "spatial",
+        "D": "breathtaking"
+      },
+      "options_html": {
+        "A": "ugly",
+        "B": "spacious",
+        "C": "spatial",
+        "D": "breathtaking"
+      },
+      "correct_answer": "D",
+      "explanation_text": "Spectacular-চমকপ্রদ, দর্শনীয়; ugly-কুৎসিত; spacious-প্রশস্ত; spatial-স্থান সংক্রান্ত; breathtaking- অত্যন্ত সুন্দর। সুতরাং Spectacular শব্দটির Synonym হলো Breathtaking।",
+      "explanation_html": "Spectacular-চমকপ্রদ, দর্শনীয়; ugly-কুৎসিত; spacious-প্রশস্ত; spatial-স্থান সংক্রান্ত; breathtaking- অত্যন্ত সুন্দর। সুতরাং Spectacular শব্দটির Synonym হলো Breathtaking।"
+    },
+    {
+      "id": 37,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "What type of sentence is ‘Do or die.’",
+      "question_html": "<div>What type of sentence is ‘Do or die.’</div>",
+      "options": {
+        "A": "Complex",
+        "B": "Simple",
+        "C": "Compound",
+        "D": "Exclamatory"
+      },
+      "options_html": {
+        "A": "Complex",
+        "B": "Simple",
+        "C": "Compound",
+        "D": "Exclamatory"
+      },
+      "correct_answer": "C",
+      "explanation_text": "Compound sentence এ দুটি বা ততোধিক independent clause থাকে, এবং সেগুলো coordinating conjunction (and, or, but) দিয়ে যুক্ত থাকে। Do or die একটি compound sentence. এখানে দুটি imperative clauses (আদেশসূচক বাক্য) রয়েছে: Do (কাজ করো), Die (মরো), এই দুটি বাক্য coordinating conjunction ‘or’ দ্বারা যুক্ত হয়েছে।",
+      "explanation_html": "Compound sentence এ দুটি বা ততোধিক independent clause থাকে, এবং সেগুলো coordinating conjunction (and, or, but) দিয়ে যুক্ত থাকে। Do or die একটি compound sentence. এখানে দুটি imperative clauses (আদেশসূচক বাক্য) রয়েছে: Do (কাজ করো), Die (মরো), এই দুটি বাক্য coordinating conjunction ‘or’ দ্বারা যুক্ত হয়েছে।"
+    },
+    {
+      "id": 38,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "জাতিসংঘের কোন সংস্থা বাংলাদেশ ও মায়ানমারের মধ্যকার রোহিঙ্গা বিষয়ে মধ্যস্থতা করছে?",
+      "question_html": "<div>জাতিসংঘের কোন সংস্থা বাংলাদেশ ও মায়ানমারের মধ্যকার রোহিঙ্গা বিষয়ে মধ্যস্থতা করছে?</div>",
+      "options": {
+        "A": "ইউএনডিপি",
+        "B": "ইউনিসেফ",
+        "C": "ইউএনএইচসিআর",
+        "D": "ইউনেস্কো"
+      },
+      "options_html": {
+        "A": "ইউএনডিপি",
+        "B": "ইউনিসেফ",
+        "C": "ইউএনএইচসিআর",
+        "D": "ইউনেস্কো"
+      },
+      "correct_answer": "C",
+      "explanation_text": "বাংলাদেশ ও মায়ানমারের মধ্যকার রোহিঙ্গা বিষয়ে মধ্যস্থতাকারী জাতিসংঘের সংস্থা হলো ইউএনএইচসিআর (UNHCR)। উল্লেখ্য UNHCR বাংলাদেশে আশ্রয় নেয়া রোহিঙ্গাদের খাদ্য, আশ্রয়, স্বাস্থ্যসেবা ও অন্যান্য মানবিক সহায়তা প্রদানে কাজ করছে।",
+      "explanation_html": "বাংলাদেশ ও মায়ানমারের মধ্যকার রোহিঙ্গা বিষয়ে মধ্যস্থতাকারী জাতিসংঘের সংস্থা হলো ইউএনএইচসিআর (UNHCR)। উল্লেখ্য UNHCR বাংলাদেশে আশ্রয় নেয়া রোহিঙ্গাদের খাদ্য, আশ্রয়, স্বাস্থ্যসেবা ও অন্যান্য মানবিক সহায়তা প্রদানে কাজ করছে।"
+    },
+    {
+      "id": 39,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "ক্রিয়াপদের মূল অংশকে কী বলে?",
+      "question_html": "<div>ক্রিয়াপদের মূল অংশকে কী বলে?</div>",
+      "options": {
+        "A": "কর্ম",
+        "B": "ধাতু",
+        "C": "প্রত্যয়",
+        "D": "বিভক্তি"
+      },
+      "options_html": {
+        "A": "কর্ম",
+        "B": "ধাতু",
+        "C": "প্রত্যয়",
+        "D": "বিভক্তি"
+      },
+      "correct_answer": "B",
+      "explanation_text": "ক্রিয়াপদের মূল অংশকে বলা হয় ধাতু বা ক্রিয়ামূল। ক্রিয়াপদকে বিশ্লেষণ করলে দুটি অংশ পাওয়া যায়: ধাতু বা ক্রিয়ামূল এবং ক্রিয়া বিভক্তি।",
+      "explanation_html": "ক্রিয়াপদের মূল অংশকে বলা হয় ধাতু বা ক্রিয়ামূল। ক্রিয়াপদকে বিশ্লেষণ করলে দুটি অংশ পাওয়া যায়: ধাতু বা ক্রিয়ামূল এবং ক্রিয়া বিভক্তি।"
+    },
+    {
+      "id": 40,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কোন ইউরোপীয় ভারতে আসার জলপথ আবিষ্কার করেন?",
+      "question_html": "<div>কোন ইউরোপীয় ভারতে আসার জলপথ আবিষ্কার করেন?</div>",
+      "options": {
+        "A": "ফ্রান্সিস ড্রেক",
+        "B": "ফার্ডিনান্ড ম্যাগেলান",
+        "C": "ভাস্কো-ডা-গামা",
+        "D": "ক্রিস্টোফার কলম্বাস"
+      },
+      "options_html": {
+        "A": "ফ্রান্সিস ড্রেক",
+        "B": "ফার্ডিনান্ড ম্যাগেলান",
+        "C": "ভাস্কো-ডা-গামা",
+        "D": "ক্রিস্টোফার কলম্বাস"
+      },
+      "correct_answer": "C",
+      "explanation_text": "",
+      "explanation_html": ""
+    },
+    {
+      "id": 41,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "যদি P = 16 এবং TAP = 37 হয় তবে CUP = কত?",
+      "question_html": "<div>যদি P = 16 এবং TAP = 37 হয় তবে CUP = কত?</div>",
+      "options": {
+        "A": "40",
+        "B": "38",
+        "C": "36",
+        "D": "39"
+      },
+      "options_html": {
+        "A": "40",
+        "B": "38",
+        "C": "36",
+        "D": "39"
+      },
+      "correct_answer": "A",
+      "explanation_text": "ইংরেজি বর্ণমালার স্বাভাবিকক্রম অনুসারে,\\(\\mathrm{ A=1,P=16} \\) (দেওয়া আছে) এবং \\(\\mathrm{T=20} \\) হওয়ায়,\\(\\mathrm{TAP=20+1+16=37} \\)অনুরূপভাবে, C=3,P=16 এবং U=21সুতরাং, \\(\\mathrm{CUP=3+21+16=40} \\)",
+      "explanation_html": "ইংরেজি বর্ণমালার স্বাভাবিকক্রম অনুসারে, <br/>\r\n\\(\\mathrm{ A=1,P=16} \\) (দেওয়া আছে) এবং \\(\\mathrm{T=20} \\) হওয়ায়,<br/>\r\n\\(\\mathrm{TAP=20+1+16=37} \\)<br/>\r\nঅনুরূপভাবে, C=3,P=16 এবং U=21<br/>\r\nসুতরাং, \\(\\mathrm{CUP=3+21+16=40} \\)"
+    },
+    {
+      "id": 42,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কোন রাষ্ট্রের আইনসভা দ্বি-কক্ষ বিশিষ্ট?",
+      "question_html": "<div>কোন রাষ্ট্রের আইনসভা দ্বি-কক্ষ বিশিষ্ট?</div>",
+      "options": {
+        "A": "যুক্তরাষ্ট্র",
+        "B": "ভারত",
+        "C": "যুক্তরাজ্য",
+        "D": "উপরের সবগুলো"
+      },
+      "options_html": {
+        "A": "যুক্তরাষ্ট্র",
+        "B": "ভারত",
+        "C": "যুক্তরাজ্য",
+        "D": "উপরের সবগুলো"
+      },
+      "correct_answer": "D",
+      "explanation_text": "রাষ্ট্রের আইনসভা সাধারণত ২ প্রকার। যথা: এক কক্ষ বিশিষ্ট ও দ্বি-কক্ষ বিশিষ্ট। যেসব রাষ্ট্রের আইনসভা দ্বি-কক্ষ বিশিষ্ট- যুক্তরাষ্ট্র, যুক্তরাজ্য, ভারত, ব্রাজিল ও কানাডা ইত্যাদি।",
+      "explanation_html": "রাষ্ট্রের আইনসভা সাধারণত ২ প্রকার। যথা: এক কক্ষ বিশিষ্ট ও দ্বি-কক্ষ বিশিষ্ট। যেসব রাষ্ট্রের আইনসভা দ্বি-কক্ষ বিশিষ্ট- যুক্তরাষ্ট্র, যুক্তরাজ্য, ভারত, ব্রাজিল ও কানাডা ইত্যাদি।"
+    },
+    {
+      "id": 43,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের সিভিল সার্ভিস (বিসিএস) পরীক্ষা সর্বপ্রথম কত সালে শুরু হয়েছিল?",
+      "question_html": "<div>বাংলাদেশের সিভিল সার্ভিস (বিসিএস) পরীক্ষা সর্বপ্রথম কত সালে শুরু হয়েছিল?</div>",
+      "options": {
+        "A": "১৯৭৩",
+        "B": "১৯৭৪",
+        "C": "১৯৭৫",
+        "D": "১৯৭৬"
+      },
+      "options_html": {
+        "A": "১৯৭৩",
+        "B": "১৯৭৪",
+        "C": "১৯৭৫",
+        "D": "১৯৭৬"
+      },
+      "correct_answer": "A",
+      "explanation_text": "১৯৪৭ সালে দেশ বিভাগের পর এই বাংলা পশ্চিম পাকিস্তানের অধীন ছিল। তৎকালীন সময়ে পাকিস্তানে ইম্পেরিয়াল সুপার সার্ভিসের উত্তরসূরি ছিল সেন্ট্রাল সিভিল সার্ভিস। বাংলাদেশ স্বাধীনতা লাভের পর এটি সিভিল সার্ভিস নামে নামকরণ করা হয়। বাংলাদেশের সিভিল সার্ভিস (বিসিএস) পরীক্ষা ১৯৭৩ সালে সর্বপ্রথম শুরু হয়েছিল।",
+      "explanation_html": "১৯৪৭ সালে দেশ বিভাগের পর এই বাংলা পশ্চিম পাকিস্তানের অধীন ছিল। তৎকালীন সময়ে পাকিস্তানে ইম্পেরিয়াল সুপার সার্ভিসের উত্তরসূরি ছিল সেন্ট্রাল সিভিল সার্ভিস। বাংলাদেশ স্বাধীনতা লাভের পর এটি সিভিল সার্ভিস নামে নামকরণ করা হয়। বাংলাদেশের সিভিল সার্ভিস (বিসিএস) পরীক্ষা ১৯৭৩ সালে সর্বপ্রথম শুরু হয়েছিল।"
+    },
+    {
+      "id": 44,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘সাফটা’ (SAFTA) চুক্তি কত সালে সম্পাদিত হয়?",
+      "question_html": "<div>‘সাফটা’ (SAFTA) চুক্তি কত সালে সম্পাদিত হয়?</div>",
+      "options": {
+        "A": "১৯৯৮",
+        "B": "২০০২",
+        "C": "২০০৪",
+        "D": "২০০৯"
+      },
+      "options_html": {
+        "A": "১৯৯৮",
+        "B": "২০০২",
+        "C": "২০০৪",
+        "D": "২০০৯"
+      },
+      "correct_answer": "C",
+      "explanation_text": "SAFTA এর পূর্ণরূপ South Asia Free Trade Area. সাফটা (SAFTA) চুক্তি স্বাক্ষরিত হয় ২০০৪ সালে তবে সাফটা (SAFTA) চুক্তি কার্যকর হয় ২০০৬ সালে।",
+      "explanation_html": "SAFTA এর পূর্ণরূপ South Asia Free Trade Area. সাফটা (SAFTA) চুক্তি স্বাক্ষরিত হয় ২০০৪ সালে তবে সাফটা (SAFTA) চুক্তি কার্যকর হয় ২০০৬ সালে।"
+    },
+    {
+      "id": 45,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "Charles Dickens was an English ___",
+      "question_html": "<div>Charles Dickens was an English ___</div>",
+      "options": {
+        "A": "poet",
+        "B": "playwright",
+        "C": "politician",
+        "D": "novelist"
+      },
+      "options_html": {
+        "A": "poet",
+        "B": "playwright",
+        "C": "politician",
+        "D": "novelist"
+      },
+      "correct_answer": "D",
+      "explanation_text": "Charles Dickens ছিলেন ১৯শ শতকের একজন বিখ্যাত ইংরেজ ঔপন্যাসিক (novelist)। তিনি সমাজের অন্যায়, দারিদ্র্য, শিশু শ্রম ও শ্রেণি বৈষম্যকে তুলে ধরে সামাজিক বাস্তবতা-নির্ভর উপন্যাস লিখতেন। তাঁর বিখ্যাত উপন্যাসগুলো: Oliver Twist, David Copperfield, A Tale of Two Cities, Great Expectations, Hard Times ইত্যাদি।",
+      "explanation_html": "Charles Dickens ছিলেন ১৯শ শতকের একজন বিখ্যাত ইংরেজ ঔপন্যাসিক (novelist)। তিনি সমাজের অন্যায়, দারিদ্র্য, শিশু শ্রম ও শ্রেণি বৈষম্যকে তুলে ধরে সামাজিক বাস্তবতা-নির্ভর উপন্যাস লিখতেন। তাঁর বিখ্যাত উপন্যাসগুলো: Oliver Twist, David Copperfield, A Tale of Two Cities, Great Expectations, Hard Times ইত্যাদি।"
+    },
+    {
+      "id": 46,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের পোশাক সর্বাধিক কোন দেশে রপ্তানি করা হয়?",
+      "question_html": "<div>বাংলাদেশের পোশাক সর্বাধিক কোন দেশে রপ্তানি করা হয়?</div>",
+      "options": {
+        "A": "যুক্তরাষ্ট্র",
+        "B": "যুক্তরাজ্য",
+        "C": "ফ্রান্স",
+        "D": "জার্মানি"
+      },
+      "options_html": {
+        "A": "যুক্তরাষ্ট্র",
+        "B": "যুক্তরাজ্য",
+        "C": "ফ্রান্স",
+        "D": "জার্মানি"
+      },
+      "correct_answer": "A",
+      "explanation_text": "অর্থনৈতিক সমীক্ষা ২০২৫ অনুযায়ী, ২০২৪-২৫ অর্থবছরে বাংলাদেশি পণ্যের প্রধান আমদানিকারক দেশ হিসেবে শীর্ষে রয়েছে যুক্তরাষ্ট্র ও জার্মানি। মোট রপ্তানি আয়ের ১৮% যুক্তরাষ্ট্র এবং ১০.৯৬% জার্মানি থেকে এসেছে। রপ্তানীকৃত প্রধান পণ্যসমূহ হলো- তৈরি পোশাক, নিটওয়্যার, গৃহস্থালি বস্ত্র, হিমায়িত চিংড়ি ইত্যাদি।",
+      "explanation_html": "অর্থনৈতিক সমীক্ষা ২০২৫ অনুযায়ী, ২০২৪-২৫ অর্থবছরে বাংলাদেশি পণ্যের প্রধান আমদানিকারক দেশ হিসেবে শীর্ষে রয়েছে যুক্তরাষ্ট্র ও জার্মানি। মোট রপ্তানি আয়ের ১৮% যুক্তরাষ্ট্র এবং ১০.৯৬% জার্মানি থেকে এসেছে। রপ্তানীকৃত প্রধান পণ্যসমূহ হলো- তৈরি পোশাক, নিটওয়্যার, গৃহস্থালি বস্ত্র, হিমায়িত চিংড়ি ইত্যাদি।"
+    },
+    {
+      "id": 47,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বর্তমানে অন্তবর্তীকালীন সরকার কখন গঠিত হয়?",
+      "question_html": "<div>বর্তমানে অন্তবর্তীকালীন সরকার কখন গঠিত হয়?</div>",
+      "options": {
+        "A": "০৮ আগস্ট ২০২৪",
+        "B": "১০ আগস্ট ২০২৪",
+        "C": "১২ আগস্ট ২০২৪",
+        "D": "০৫ আগস্ট ২০২৪"
+      },
+      "options_html": {
+        "A": "০৮ আগস্ট ২০২৪",
+        "B": "১০ আগস্ট ২০২৪",
+        "C": "১২ আগস্ট ২০২৪",
+        "D": "০৫ আগস্ট ২০২৪"
+      },
+      "correct_answer": "A",
+      "explanation_text": "",
+      "explanation_html": ""
+    },
+    {
+      "id": 48,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "He as well as his parents ____ spending vacation abroad.",
+      "question_html": "<div style=\"text-align: justify;\">He as well as his parents ____ spending vacation abroad.</div>",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "will",
+        "D": "can"
+      },
+      "options_html": {
+        "A": "are",
+        "B": "is",
+        "C": "will",
+        "D": "can"
+      },
+      "correct_answer": "B",
+      "explanation_text": "As well as দ্বারা যুক্ত দুটি Noun/Pronoun এর ক্ষেত্রে, প্রথম Noun/Pronoun অনুযায়ী verb বসে। তাই, প্রথম pronoun ‘He’ অনুযায়ী verb ‘is’ হবে। অর্থাৎ, He as well as his parents is spending vacation abroad.",
+      "explanation_html": "As well as দ্বারা যুক্ত দুটি Noun/Pronoun এর ক্ষেত্রে, প্রথম Noun/Pronoun অনুযায়ী verb বসে। তাই, প্রথম pronoun ‘He’ অনুযায়ী verb ‘is’ হবে। অর্থাৎ, He as well as his parents is spending vacation abroad."
+    },
+    {
+      "id": 49,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘Transparency’-শব্দের বাংলা পরিভাষা কী?",
+      "question_html": "<div><b>‘Transparency’-শব্দের বাংলা পরিভাষা কী? </b></div>",
+      "options": {
+        "A": "যথার্থতা",
+        "B": "নির্ভরযোগ্যতা",
+        "C": "স্বচ্ছতা",
+        "D": "দুর্নীতিদমন"
+      },
+      "options_html": {
+        "A": "যথার্থতা",
+        "B": "নির্ভরযোগ্যতা",
+        "C": "স্বচ্ছতা",
+        "D": "দুর্নীতিদমন"
+      },
+      "correct_answer": "C",
+      "explanation_text": "Transparency- শব্দের বাংলা পরিভাষা স্বচ্ছতা; Anti-corruption- দুর্নীতি দমন; Reliability-নির্ভরযোগ্যতা।",
+      "explanation_html": "Transparency- শব্দের বাংলা পরিভাষা স্বচ্ছতা; Anti-corruption- দুর্নীতি দমন; Reliability-নির্ভরযোগ্যতা।"
+    },
+    {
+      "id": 50,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "These books ___ me.",
+      "question_html": "<div>These books ___ me.</div>",
+      "options": {
+        "A": "belongs to",
+        "B": "belong to",
+        "C": "are belonged by",
+        "D": "belongs by"
+      },
+      "options_html": {
+        "A": "belongs to",
+        "B": "belong to",
+        "C": "are belonged by",
+        "D": "belongs by"
+      },
+      "correct_answer": "B",
+      "explanation_text": "‘These books’ subject টি plural number হওয়ায় verb টিও plural (belong) হবে। যেখানে Phrasal Verb belong to এর অর্থ কারো/কিছুর মালিকানাধীন হওয়া। সুতরাং, বাক্যটির অর্থ এই বইগুলো আমার।",
+      "explanation_html": "‘These books’ subject টি plural number হওয়ায় verb টিও plural (belong) হবে। যেখানে Phrasal Verb belong to এর অর্থ কারো/কিছুর মালিকানাধীন হওয়া। সুতরাং, বাক্যটির অর্থ এই বইগুলো আমার।"
+    },
+    {
+      "id": 51,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশে কখন প্রথম প্রেসিডেন্ট পদ্ধতির সরকার গঠিত হয়?",
+      "question_html": "<div>বাংলাদেশে কখন প্রথম প্রেসিডেন্ট পদ্ধতির সরকার গঠিত হয়?</div>",
+      "options": {
+        "A": "১৯৭১",
+        "B": "১৯৭২",
+        "C": "১৯৭৫",
+        "D": "১৯৮০"
+      },
+      "options_html": {
+        "A": "১৯৭১",
+        "B": "১৯৭২",
+        "C": "১৯৭৫",
+        "D": "১৯৮০"
+      },
+      "correct_answer": "A",
+      "explanation_text": "স্বাধীনতার ঘোষণাপত্রটি বাংলাদেশের প্রথম অন্তর্বর্তীকালীন সংবিধান হিসেবে কাজ করেছে। যদিও এটি শুধু একটি ঘোষণাই ছিল। তবুও এই ঘোষণাতে রাষ্ট্রের প্রকৃতি, সরকার পদ্ধতি, সরকারের বিভাগসমূহ এবং রূপরেখা নিয়ে আলোচনা করা হয়েছে। তাই একে আপাতদৃষ্টিতে সংবিধান হিসেবে গণ্য করা হয়েছিল। এর মেয়াদকাল-২৬ মার্চ, ১৯৭১ থেকে ১০ জানুয়ারি, ১৯৭২ এবং জারির তারিখ-১০ এপ্রিল, ১৯৭১। উল্লেখ্য, এই ঘোষণাপত্রের মাধ্যমে বাংলাদেশে রাষ্ট্রপতি শাসিত সরকার ব্যবস্থা প্রবর্তন করা হয়েছিল।",
+      "explanation_html": "স্বাধীনতার ঘোষণাপত্রটি বাংলাদেশের প্রথম অন্তর্বর্তীকালীন সংবিধান হিসেবে কাজ করেছে। যদিও এটি শুধু একটি ঘোষণাই ছিল। তবুও এই ঘোষণাতে রাষ্ট্রের প্রকৃতি, সরকার পদ্ধতি, সরকারের বিভাগসমূহ এবং রূপরেখা নিয়ে আলোচনা করা হয়েছে। তাই একে আপাতদৃষ্টিতে সংবিধান হিসেবে গণ্য করা হয়েছিল। এর মেয়াদকাল-২৬ মার্চ, ১৯৭১ থেকে ১০ জানুয়ারি, ১৯৭২ এবং জারির তারিখ-১০ এপ্রিল, ১৯৭১। উল্লেখ্য, এই ঘোষণাপত্রের মাধ্যমে বাংলাদেশে রাষ্ট্রপতি শাসিত সরকার ব্যবস্থা প্রবর্তন করা হয়েছিল।"
+    },
+    {
+      "id": 52,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কোনটি অশুদ্ধ বানান?",
+      "question_html": "<div>কোনটি অশুদ্ধ বানান?</div>",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Dyspepsia",
+        "C": "Gastitris",
+        "D": "Diarrhoea"
+      },
+      "options_html": {
+        "A": "Pneumonia",
+        "B": "Dyspepsia",
+        "C": "Gastitris",
+        "D": "Diarrhoea"
+      },
+      "correct_answer": "C",
+      "explanation_text": "Gastitris অশুদ্ধ বানান। এর শুদ্ধরূপ: Gastritis.",
+      "explanation_html": "Gastitris অশুদ্ধ বানান। এর শুদ্ধরূপ: Gastritis."
+    },
+    {
+      "id": 53,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "_____ others is a great deed.",
+      "question_html": "<div>_____ others is a great deed.</div>",
+      "options": {
+        "A": "To help",
+        "B": "Help",
+        "C": "To helping",
+        "D": "To have helped"
+      },
+      "options_html": {
+        "A": "To help",
+        "B": "Help",
+        "C": "To helping",
+        "D": "To have helped"
+      },
+      "correct_answer": "A",
+      "explanation_text": "এখানে ‘Helping others is a great deed’ বা ’To help others is a great deed’ দুইভাবেই বলা যায়। যখন কোনো বাক্য ‘subject’ হিসেবে verb ব্যবহার করা হয়, তখন সেই verb এর infinitive form (‘to + verb’) অথবা gerund (‘verb + ing’) ব্যবহার করা যায়। To help যোগে বাক্যটির অর্থ: অন্যদের সাহায্য করা একটি মহৎ কাজ।",
+      "explanation_html": "এখানে ‘Helping others is a great deed’ বা ’To help others is a great deed’ দুইভাবেই বলা যায়। যখন কোনো বাক্য ‘subject’ হিসেবে verb ব্যবহার করা হয়, তখন সেই verb এর infinitive form (‘to + verb’) অথবা gerund (‘verb + ing’) ব্যবহার করা যায়। To help যোগে বাক্যটির অর্থ: অন্যদের সাহায্য করা একটি মহৎ কাজ।"
+    },
+    {
+      "id": 54,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কে প্রথম ‘গ্লোবাল ভিলেজ’ ধারাটির উপস্থাপন করেন?",
+      "question_html": "<div>কে প্রথম ‘গ্লোবাল ভিলেজ’ ধারাটির উপস্থাপন করেন?</div>",
+      "options": {
+        "A": "হার্বট মার্শাল ম্যাকলুহান",
+        "B": "রবার্ট কিংসলে",
+        "C": "হেনরি জি. ম্যাকমিলান",
+        "D": "ডব্লিউ জি. পেরি"
+      },
+      "options_html": {
+        "A": "হার্বট মার্শাল ম্যাকলুহান",
+        "B": "রবার্ট কিংসলে",
+        "C": "হেনরি জি. ম্যাকমিলান",
+        "D": "ডব্লিউ জি. পেরি"
+      },
+      "correct_answer": "A",
+      "explanation_text": "বিখ্যাত দার্শনিক হার্বার্ট মার্শাল ম্যাকলুহান গ্লোবাল ভিলেজ ধারণাটির উদ্ভাবক হিসেবে পরিচিত। ১৯৬২ ও ১৯৬৪ সালে প্রকাশিত তার ‘The Gutenberg: The Making of Typographic Man’ এবং ‘Understanding Media’ এই দুটি গ্রন্থে সর্বপ্রথম বিশ্বগ্রাম সম্পর্কে ধারণা দেন।",
+      "explanation_html": "বিখ্যাত দার্শনিক হার্বার্ট মার্শাল ম্যাকলুহান গ্লোবাল ভিলেজ ধারণাটির উদ্ভাবক হিসেবে পরিচিত। ১৯৬২ ও ১৯৬৪ সালে প্রকাশিত তার ‘The Gutenberg: The Making of Typographic Man’ এবং ‘Understanding Media’ এই দুটি গ্রন্থে সর্বপ্রথম বিশ্বগ্রাম সম্পর্কে ধারণা দেন।"
+    },
+    {
+      "id": 55,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "Lord of the Flies was written by ___.",
+      "question_html": "<div>Lord of the Flies was written by ___.</div>",
+      "options": {
+        "A": "William Shakespeare",
+        "B": "William Wordsworth",
+        "C": "William Golding",
+        "D": "T.S. Eliot"
+      },
+      "options_html": {
+        "A": "William Shakespeare",
+        "B": "William Wordsworth",
+        "C": "William Golding",
+        "D": "T.S. Eliot"
+      },
+      "correct_answer": "C",
+      "explanation_text": "Lord of the Flies একটি বিখ্যাত allegorical novel, যা William Golding 1954 সালে লিখেছিলেন। William Golding এর অন্যান্য বিখ্যাত উপন্যাস- The Inheritors (1955), Pincher Martin (1956), Free Fall (1959), The Spire (1964), Darkness Visible (1979).",
+      "explanation_html": "Lord of the Flies একটি বিখ্যাত allegorical novel, যা William Golding 1954 সালে লিখেছিলেন। William Golding এর অন্যান্য বিখ্যাত উপন্যাস- The Inheritors (1955), Pincher Martin (1956), Free Fall (1959), The Spire (1964), Darkness Visible (1979)."
+    },
+    {
+      "id": 56,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "\\(\\mathrm {A(1,-1),B(2,2)}\\) এবং \\(\\mathrm{C(4,t)}\\) বিন্দুত্রয় সমরেখ হলে \\(\\mathrm t\\) এর মান কত?",
+      "question_html": "<div>\\(\\mathrm {A(1,-1),B(2,2)}\\) এবং \\(\\mathrm{C(4,t)}\\) বিন্দুত্রয় সমরেখ হলে \\(\\mathrm t\\) এর মান কত?</div>",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "4",
+        "D": "7"
+      },
+      "options_html": {
+        "A": "8",
+        "B": "6",
+        "C": "4",
+        "D": "7"
+      },
+      "correct_answer": "A",
+      "explanation_text": "বিন্দু তিনটি সমরেখ হওয়ায় AB ও BC রেখার ঢাল পরস্পর সমান হবে।সুতরাং, AB রেখার ঢাল = BC রেখার ঢাল\\(\\mathrm{⇒{2+1\\over 2-1}={t-2\\over 4-2}~~~~ [∵(x_1,y_1 )} \\)  ও  \\(\\mathrm{(x_2,y_2 )} \\)  বিন্দুগামী রেখার ঢাল \\(\\mathrm{ ={y_2-y_1\\over x_2-x_1}]} \\)\\(\\mathrm{ ⇒3={t-2\\over 2} \\\\⇒t-2=6 \\\\⇒t=6+2 \\\\∴t=8 } \\)",
+      "explanation_html": "বিন্দু তিনটি সমরেখ হওয়ায় AB ও BC রেখার ঢাল পরস্পর সমান হবে।<br/>\r\nসুতরাং, AB রেখার ঢাল = BC রেখার ঢাল<br/>\r\n\\(\\mathrm{⇒{2+1\\over 2-1}={t-2\\over 4-2}~~~~ [∵(x_1,y_1 )} \\)  ও  \\(\\mathrm{(x_2,y_2 )} \\)  বিন্দুগামী রেখার ঢাল \\(\\mathrm{ ={y_2-y_1\\over x_2-x_1}]} \\) <br/>\r\n\\(\\mathrm{ ⇒3={t-2\\over 2} \\\\  <br/>\r\n⇒t-2=6 \\\\<br/>\r\n⇒t=6+2 \\\\<br/>\r\n∴t=8 } \\)"
+    },
+    {
+      "id": 57,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "Do you know the solution ___ the problem.",
+      "question_html": "<div>Do you know the solution ___ the problem.</div>",
+      "options": {
+        "A": "of",
+        "B": "for",
+        "C": "about",
+        "D": "to"
+      },
+      "options_html": {
+        "A": "of",
+        "B": "for",
+        "C": "about",
+        "D": "to"
+      },
+      "correct_answer": "D",
+      "explanation_text": "Solution to-সমাধান; কোনো সমস্যার সমাধান চাওয়া অর্থে ‘Solution to’ preposition টি ব্যবহৃত হয়। উদাহরণ: He found a solution to the math problem. অর্থ-সে গণিত সমস্যার সমাধান খুঁজে পেল।",
+      "explanation_html": "Solution to-সমাধান; কোনো সমস্যার সমাধান চাওয়া অর্থে ‘Solution to’ preposition টি ব্যবহৃত হয়। উদাহরণ: He found a solution to the math problem. অর্থ-সে গণিত সমস্যার সমাধান খুঁজে পেল।"
+    },
+    {
+      "id": 58,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "ইসরায়েল ও ইরানের মধ্যে চলমান সংঘাতের কারণ কোনটি?",
+      "question_html": "<div>ইসরায়েল ও ইরানের মধ্যে চলমান সংঘাতের কারণ কোনটি?</div>",
+      "options": {
+        "A": "বাণিজ্যিক",
+        "B": "পারমানবিক শক্তি",
+        "C": "অর্থনৈতিক",
+        "D": "কোনটি নয়"
+      },
+      "options_html": {
+        "A": "বাণিজ্যিক",
+        "B": "পারমানবিক শক্তি",
+        "C": "অর্থনৈতিক",
+        "D": "কোনটি নয়"
+      },
+      "correct_answer": "B",
+      "explanation_text": "ইসরায়েল ও ইরানের মধ্যে সংঘাতের কারণ ইরানের পারমাণবিক সক্ষমতা অর্জন। ইরান যেন পারমাণবিক সক্ষমতা অর্জন করতে না পারে এজন্য ইসরায়েল ইরানে অতর্কিত হামলা করে। এই যুদ্ধ ১২ দিন স্থায়ী ছিল। যুক্তরাষ্ট্র ও কাতারের মধ্যস্থতায় এই যুদ্ধ বা সংঘাত বন্ধ হয়।",
+      "explanation_html": "ইসরায়েল ও ইরানের মধ্যে সংঘাতের কারণ ইরানের পারমাণবিক সক্ষমতা অর্জন। ইরান যেন পারমাণবিক সক্ষমতা অর্জন করতে না পারে এজন্য ইসরায়েল ইরানে অতর্কিত হামলা করে। এই যুদ্ধ ১২ দিন স্থায়ী ছিল। যুক্তরাষ্ট্র ও কাতারের মধ্যস্থতায় এই যুদ্ধ বা সংঘাত বন্ধ হয়।"
+    },
+    {
+      "id": 59,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের সংবিধানের নাম কি?",
+      "question_html": "<div>বাংলাদেশের সংবিধানের নাম কি?</div>",
+      "options": {
+        "A": "বাংলাদেশের সংবিধান",
+        "B": "বাংলাদেশের সাংবিধানিক বিধিমালা",
+        "C": "গণপ্রজাতন্ত্রী বাংলাদেশ সংবিধান",
+        "D": "প্রজাতন্ত্র বাংলাদেশ সংবিধান"
+      },
+      "options_html": {
+        "A": "বাংলাদেশের সংবিধান",
+        "B": "বাংলাদেশের সাংবিধানিক বিধিমালা",
+        "C": "গণপ্রজাতন্ত্রী বাংলাদেশ সংবিধান",
+        "D": "প্রজাতন্ত্র বাংলাদেশ সংবিধান"
+      },
+      "correct_answer": "C",
+      "explanation_text": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান স্বাধীন ও সার্বভৌম বাংলাদেশ রাষ্ট্রের সর্বোচ্চ আইন। এটি একটি লিখিত দলিল। ১৯৭২ খ্রিষ্টাব্দের ৪ঠা নভেম্বর বাংলাদেশের জাতীয় সংসদে এই সংবিধান গৃহীত হয় এবং একই বছরের ১৬ই ডিসেম্বর হতে এটি কার্যকর হয়। এটি বাংলা ও ইংরেজি উভয় ভাষায় বিদ্যমান। তবে ইংরেজি ও বাংলার মধ্যে অর্থগত বিরোধ দৃশ্যমান হলে বাংলা রূপ অনুসরণীয় হবে। বাংলাদেশের সংবিধান কেবল বাংলাদেশের সর্বোচ্চ আইনই নয়;- সংবিধানে বাংলাদেশ নামক রাষ্ট্রের মূল চরিত্র বর্ণিত রয়েছে। এতে বাংলাদেশের ভৌগোলিক সীমারেখা বিধৃত আছে। সংবিধান অনুযায়ী দেশটি হবে প্রজাতান্ত্রিক, গণতন্ত্র হবে এদেশের প্রশাসনিক ভিত্তি, জনগণ হবে সকল ক্ষমতার উৎস এবং বিচার বিভাগ হবে স্বাধীন। জনগণ সকল ক্ষমতার উৎস হলেও দেশ আইন দ্বারা পরিচালিত হবে। সংবিধানে জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতাকে রাষ্ট্র পরিচালনার মূলনীতি হিসেবে গ্রহণ করা হয়েছে।",
+      "explanation_html": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান স্বাধীন ও সার্বভৌম বাংলাদেশ রাষ্ট্রের সর্বোচ্চ আইন। এটি একটি লিখিত দলিল। ১৯৭২ খ্রিষ্টাব্দের ৪ঠা নভেম্বর বাংলাদেশের জাতীয় সংসদে এই সংবিধান গৃহীত হয় এবং একই বছরের ১৬ই ডিসেম্বর হতে এটি কার্যকর হয়। এটি বাংলা ও ইংরেজি উভয় ভাষায় বিদ্যমান। তবে ইংরেজি ও বাংলার মধ্যে অর্থগত বিরোধ দৃশ্যমান হলে বাংলা রূপ অনুসরণীয় হবে। বাংলাদেশের সংবিধান কেবল বাংলাদেশের সর্বোচ্চ আইনই নয়;- সংবিধানে বাংলাদেশ নামক রাষ্ট্রের মূল চরিত্র বর্ণিত রয়েছে। এতে বাংলাদেশের ভৌগোলিক সীমারেখা বিধৃত আছে। সংবিধান অনুযায়ী দেশটি হবে প্রজাতান্ত্রিক, গণতন্ত্র হবে এদেশের প্রশাসনিক ভিত্তি, জনগণ হবে সকল ক্ষমতার উৎস এবং বিচার বিভাগ হবে স্বাধীন। জনগণ সকল ক্ষমতার উৎস হলেও দেশ আইন দ্বারা পরিচালিত হবে। সংবিধানে জাতীয়তাবাদ, সমাজতন্ত্র, গণতন্ত্র ও ধর্মনিরপেক্ষতাকে রাষ্ট্র পরিচালনার মূলনীতি হিসেবে গ্রহণ করা হয়েছে।"
+    },
+    {
+      "id": 60,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "\\(\\mathrm {x-2y-10=0}\\) এবং \\(\\mathrm {2x+y-3=0}\\) রেখাদ্বয়ের ঢালদ্বয়ের গুণফল-",
+      "question_html": "<div>\\(\\mathrm {x-2y-10=0}\\) এবং \\(\\mathrm {2x+y-3=0}\\) রেখাদ্বয়ের ঢালদ্বয়ের গুণফল-</div>",
+      "options": {
+        "A": "\\(-2\\)",
+        "B": "\\(2\\)",
+        "C": "\\(-3\\)",
+        "D": "\\(-1\\)"
+      },
+      "options_html": {
+        "A": "\\(-2\\)",
+        "B": "\\(2\\)",
+        "C": "\\(-3\\)",
+        "D": "\\(-1\\)"
+      },
+      "correct_answer": "D",
+      "explanation_text": "দেওয়া আছে, \\(\\mathrm{x-2y-10=0 } \\)\\(\\mathrm{⇒2y=x-10 \\\\⇒y=\\frac x2-5………(i)} \\)এবং \\(\\mathrm{2x+y-3=0} \\)\\(\\mathrm{⇒y=-2x+3………(ii) } \\)(i) ও (ii) সমীকরণকে \\(\\mathrm{y=mx+c } \\)এর সাথে তুলনা করে,১ম রেখার ঢাল, \\(\\mathrm{m_1=\\frac 12 } \\)এবং ২য় রেখার ঢাল, \\(\\mathrm{m_2=-2 } \\)∴ ঢালদ্বয়ের গুণফল \\(\\mathrm{=\\frac 12×(-2)=-1 } \\)",
+      "explanation_html": "দেওয়া আছে, \\(\\mathrm{x-2y-10=0 } \\)<br/>\r\n\\(\\mathrm{⇒2y=x-10 \\\\<br/>\r\n⇒y=\\frac x2-5………(i)} \\)<br/>\r\nএবং \\(\\mathrm{2x+y-3=0} \\)<br/>\r\n\\(\\mathrm{⇒y=-2x+3………(ii) } \\)<br/>\r\n(i) ও (ii) সমীকরণকে \\(\\mathrm{y=mx+c } \\)এর সাথে তুলনা করে, <br/>\r\n১ম রেখার ঢাল, \\(\\mathrm{m_1=\\frac 12 } \\)<br/>\r\nএবং ২য় রেখার ঢাল, \\(\\mathrm{m_2=-2 } \\)<br/>\r\n∴ ঢালদ্বয়ের গুণফল \\(\\mathrm{=\\frac 12×(-2)=-1 } \\)"
+    },
+    {
+      "id": 61,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "চীনের ‘ওয়ান বেশট ওয়ান রোড’ কিয় কোন দেশসমূহের মধ্যে সংযোগ বৃদ্ধি করবে?",
+      "question_html": "<div>চীনের ‘ওয়ান বেশট ওয়ান রোড’ কিয় কোন দেশসমূহের মধ্যে সংযোগ বৃদ্ধি করবে?</div>",
+      "options": {
+        "A": "এশিয়া, ইউরোপ, আমেরিকা",
+        "B": "এশিয়া, আফ্রিকা, আরব",
+        "C": "এশিয়া, অস্ট্রেলিয়া, আফ্রিকা",
+        "D": "এশিয়া, ইউরোপ, আফ্রিকা"
+      },
+      "options_html": {
+        "A": "এশিয়া, ইউরোপ, আমেরিকা",
+        "B": "এশিয়া, আফ্রিকা, আরব",
+        "C": "এশিয়া, অস্ট্রেলিয়া, আফ্রিকা",
+        "D": "এশিয়া, ইউরোপ, আফ্রিকা"
+      },
+      "correct_answer": "D",
+      "explanation_text": "চীনের ওয়ান বেল্ট ওয়ান রোড প্রকল্প চালু হয় ২০১৩ সালে। চীনের ওয়ান বেল্ট ওয়ান রোড প্রকল্পের মাধ্যমে এশিয়া, ইউরোপ ও আফ্রিকার দেশসমূহের মধ্যে সংযোগ বৃদ্ধি করবে।",
+      "explanation_html": "চীনের ওয়ান বেল্ট ওয়ান রোড প্রকল্প চালু হয় ২০১৩ সালে। চীনের ওয়ান বেল্ট ওয়ান রোড প্রকল্পের মাধ্যমে এশিয়া, ইউরোপ ও আফ্রিকার দেশসমূহের মধ্যে সংযোগ বৃদ্ধি করবে।"
+    },
+    {
+      "id": 62,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘আফতাব’ শব্দের সমার্থক শব্দ কোনটি?",
+      "question_html": "<div>‘আফতাব’ শব্দের সমার্থক শব্দ কোনটি? </div>",
+      "options": {
+        "A": "অর্ণব",
+        "B": "রাতুল",
+        "C": "অর্ক",
+        "D": "জলধি"
+      },
+      "options_html": {
+        "A": "অর্ণব",
+        "B": "রাতুল",
+        "C": "অর্ক",
+        "D": "জলধি"
+      },
+      "correct_answer": "C",
+      "explanation_text": "আফতাব অর্থ সূর্য। এর সমার্থক শব্দ অর্ক।",
+      "explanation_html": "আফতাব অর্থ সূর্য। এর সমার্থক শব্দ অর্ক।"
+    },
+    {
+      "id": 63,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "What does the idiom “take someone to task” mean?",
+      "question_html": "<div>What does the idiom “take someone to task” mean?</div>",
+      "options": {
+        "A": "someone a task to do",
+        "B": "To praise someone for his task",
+        "C": "To rebuke someone",
+        "D": "To appoint someone"
+      },
+      "options_html": {
+        "A": "someone a task to do",
+        "B": "To praise someone for his task",
+        "C": "To rebuke someone",
+        "D": "To appoint someone"
+      },
+      "correct_answer": "C",
+      "explanation_text": "“Take someone to task” মানে হলো কাউকে তীব্র সমালোচনা বা কঠোরভাবে দোষারোপ করা, অর্থাৎ কাউকে তিরস্কার করা (To rebuke someone).",
+      "explanation_html": "“Take someone to task” মানে হলো কাউকে তীব্র সমালোচনা বা কঠোরভাবে দোষারোপ করা, অর্থাৎ কাউকে তিরস্কার করা (To rebuke someone)."
+    },
+    {
+      "id": 64,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "১৯৭১ সালে সর্বপ্রথম কোন পত্রিকা পাকিস্তানী বাহিনীর গণহত্যার উপর ব্রিটিশ সাংবাদিক সাইমন ড্রিং এর প্রতিবেদন প্রকাশ করে?",
+      "question_html": "<div>১৯৭১ সালে সর্বপ্রথম কোন পত্রিকা পাকিস্তানী বাহিনীর গণহত্যার উপর ব্রিটিশ সাংবাদিক সাইমন ড্রিং এর প্রতিবেদন প্রকাশ করে?</div>",
+      "options": {
+        "A": "নিউইয়র্ক টাইমস",
+        "B": "ডেইলি মেইল",
+        "C": "ডেইলি টেলিগ্রাফ",
+        "D": "দ্য ইনডিপেনডেন্ট"
+      },
+      "options_html": {
+        "A": "নিউইয়র্ক টাইমস",
+        "B": "ডেইলি মেইল",
+        "C": "ডেইলি টেলিগ্রাফ",
+        "D": "দ্য ইনডিপেনডেন্ট"
+      },
+      "correct_answer": "C",
+      "explanation_text": "সাইমন ড্রিং ব্রিটেনের নাগরিক। তিনি ১৯৭১ সালে ঢাকার ব্রিটিশ সংবাদপত্র ডেইলি টেলিগ্রাফের সাংবাদিক ছিলেন। এই পত্রিকার মাধ্যমে তিনিই সর্বপ্রথম বহির্বিশ্বে পাকিস্তানি গণহত্যার খবর প্রকাশ করেন। সাইমন ড্রিং ২০১২ সালে মুক্তিযুদ্ধ সম্মাননা লাভ করেন। ১৬ জুলাই, ২০২১ (রোমানিয়া) তিনি মৃত্যুবরণ করেন।",
+      "explanation_html": "সাইমন ড্রিং ব্রিটেনের নাগরিক। তিনি ১৯৭১ সালে ঢাকার ব্রিটিশ সংবাদপত্র ডেইলি টেলিগ্রাফের সাংবাদিক ছিলেন। এই পত্রিকার মাধ্যমে তিনিই সর্বপ্রথম বহির্বিশ্বে পাকিস্তানি গণহত্যার খবর প্রকাশ করেন। সাইমন ড্রিং ২০১২ সালে মুক্তিযুদ্ধ সম্মাননা লাভ করেন। ১৬ জুলাই, ২০২১ (রোমানিয়া) তিনি মৃত্যুবরণ করেন।"
+    },
+    {
+      "id": 65,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের মোট দেশজ উৎপাদন (জিডিপি) এর জন্য অর্থনীতিকে মোট কতটি প্রধান খাতে বিভক্ত করা হয়?",
+      "question_html": "<div>বাংলাদেশের মোট দেশজ উৎপাদন (জিডিপি) এর জন্য অর্থনীতিকে মোট কতটি প্রধান খাতে বিভক্ত করা হয়?</div>",
+      "options": {
+        "A": "০৫টি",
+        "B": "১০টি",
+        "C": "১৫টি",
+        "D": "২০টি"
+      },
+      "options_html": {
+        "A": "০৫টি",
+        "B": "১০টি",
+        "C": "১৫টি",
+        "D": "২০টি"
+      },
+      "correct_answer": "C",
+      "explanation_text": "উৎপাদন ভিত্তিতে জিডিপি প্রাক্কলনে অর্থনীতিকে ৩টি বৃহৎ খাত তথা: কৃষি, শিল্প ও সেবায় বিভক্ত করা হয়েছে। ২০০৫-০৬ ভিত্তি বছরের জিডিপি ১৫টি খাত নিয়ে গঠিত। বর্তমান সময়ে অর্থনৈতিক কর্মকাণ্ডের ব্যাপক প্রসার বিশেষ করে সেবা খাতে নতুন নতুন খাত/উপখাত অর্থনীতিতে যুক্ত হয়েছে। ফলে, ২০১৫-১৬ ভিত্তিবছরের জিডিপিতে বিদ্যমান কয়েকটি খাতের পুনর্বিন্যাস এবং নতুন খাতসমূহ অন্তর্ভুক্তির ফলে বর্তমানে জিডিপি ১৯টি খাতের মূল্য সংযোজন ভিত্তিতে প্রাক্কলন করা হয়।",
+      "explanation_html": "উৎপাদন ভিত্তিতে জিডিপি প্রাক্কলনে অর্থনীতিকে ৩টি বৃহৎ খাত তথা: কৃষি, শিল্প ও সেবায় বিভক্ত করা হয়েছে। ২০০৫-০৬ ভিত্তি বছরের জিডিপি ১৫টি খাত নিয়ে গঠিত। বর্তমান সময়ে অর্থনৈতিক কর্মকাণ্ডের ব্যাপক প্রসার বিশেষ করে সেবা খাতে নতুন নতুন খাত/উপখাত অর্থনীতিতে যুক্ত হয়েছে। ফলে, ২০১৫-১৬ ভিত্তিবছরের জিডিপিতে বিদ্যমান কয়েকটি খাতের পুনর্বিন্যাস এবং নতুন খাতসমূহ অন্তর্ভুক্তির ফলে বর্তমানে জিডিপি ১৯টি খাতের মূল্য সংযোজন ভিত্তিতে প্রাক্কলন করা হয়।"
+    },
+    {
+      "id": 66,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "Choose the correct spelling.",
+      "question_html": "<div>Choose the correct spelling.</div>",
+      "options": {
+        "A": "Repeatition",
+        "B": "Repeatation",
+        "C": "Repetition",
+        "D": "Ripitetion"
+      },
+      "options_html": {
+        "A": "Repeatition",
+        "B": "Repeatation",
+        "C": "Repetition",
+        "D": "Ripitetion"
+      },
+      "correct_answer": "C",
+      "explanation_text": "সঠিক বানান ‘Repetition’ শব্দের অর্থ হলো পুনরাবৃত্তি বা কিছু বারবার করা। অন্যান্য অপশনগুলো ভুল বানান।",
+      "explanation_html": "সঠিক বানান ‘Repetition’ শব্দের অর্থ হলো পুনরাবৃত্তি বা কিছু বারবার করা। অন্যান্য অপশনগুলো ভুল বানান।"
+    },
+    {
+      "id": 67,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "I love reading books and ___ football.",
+      "question_html": "<div>I love reading books and ___ football.</div>",
+      "options": {
+        "A": "to play",
+        "B": "play",
+        "C": "playing",
+        "D": "to have played"
+      },
+      "options_html": {
+        "A": "to play",
+        "B": "play",
+        "C": "playing",
+        "D": "to have played"
+      },
+      "correct_answer": "C",
+      "explanation_text": "‘Love’ এর পরে সাধারণত Verb + ing (Gerund) ব্যবহৃত হয়। সম্পূর্ণ বাক্য: “I love reading books and playing football.” (আমি বই পড়তে এবং ফুটবল খেলতে ভালোবাসি।)",
+      "explanation_html": "‘Love’ এর পরে সাধারণত Verb + ing (Gerund) ব্যবহৃত হয়। সম্পূর্ণ বাক্য: “I love reading books and playing football.” (আমি বই পড়তে এবং ফুটবল খেলতে ভালোবাসি।)"
+    },
+    {
+      "id": 68,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "আন্তর্জাতিক ওজোন দিবস (International Day for the Prevention of the Ozone Layer) কত তারিখে পালিত হয়?",
+      "question_html": "<div>আন্তর্জাতিক ওজোন দিবস (International Day for the Prevention of the Ozone Layer) কত তারিখে পালিত হয়?</div>",
+      "options": {
+        "A": "২২ জুলাই",
+        "B": "২৮ জুলাই",
+        "C": "১৭ আগস্ট",
+        "D": "১৬ সেপ্টেম্বর"
+      },
+      "options_html": {
+        "A": "২২ জুলাই",
+        "B": "২৮ জুলাই",
+        "C": "১৭ আগস্ট",
+        "D": "১৬ সেপ্টেম্বর"
+      },
+      "correct_answer": "D",
+      "explanation_text": "১৯৮৭ সালের ১৬ সেপ্টেম্বর বায়ুমণ্ডলের ওজোন স্তর ক্ষয়ের জন্য দায়ী দ্রব্যগুলো ব্যবহার নিষিদ্ধ বা সীমিত করার জন্য ভিয়েনা কনভেনশনের আওতায় ওজোন স্তর ধ্বংসকারী পদার্থের ওপর মন্ট্রিল প্রটোকল গৃহীত হয়। এ দিনটিই বিশ্ব ওজোন দিবস বা আন্তর্জাতিক ওজোন স্তর রক্ষা দিবস হিসেবে পালিত হয়। বাংলাদেশ ১৯৯০ সালে মন্ট্রিল প্রটোকল স্বাক্ষর করে।",
+      "explanation_html": "১৯৮৭ সালের ১৬ সেপ্টেম্বর বায়ুমণ্ডলের ওজোন স্তর ক্ষয়ের জন্য দায়ী দ্রব্যগুলো ব্যবহার নিষিদ্ধ বা সীমিত করার জন্য ভিয়েনা কনভেনশনের আওতায় ওজোন স্তর ধ্বংসকারী পদার্থের ওপর মন্ট্রিল প্রটোকল গৃহীত হয়। এ দিনটিই বিশ্ব ওজোন দিবস বা আন্তর্জাতিক ওজোন স্তর রক্ষা দিবস হিসেবে পালিত হয়। বাংলাদেশ ১৯৯০ সালে মন্ট্রিল প্রটোকল স্বাক্ষর করে।"
+    },
+    {
+      "id": 69,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "মুক্তিযুদ্ধ চলাকালীন সময়ে প্রবাসী গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের অস্থায়ী সচিবালয় (সদর দপ্তর) কোথায় ছিল?",
+      "question_html": "<div>মুক্তিযুদ্ধ চলাকালীন সময়ে প্রবাসী গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের অস্থায়ী সচিবালয় (সদর দপ্তর) কোথায় ছিল?</div>",
+      "options": {
+        "A": "মুজিবনগর",
+        "B": "থিয়েটার রোড, কলকাতা",
+        "C": "কমিরগঞ্জ",
+        "D": "বেনাপোল"
+      },
+      "options_html": {
+        "A": "মুজিবনগর",
+        "B": "থিয়েটার রোড, কলকাতা",
+        "C": "কমিরগঞ্জ",
+        "D": "বেনাপোল"
+      },
+      "correct_answer": "B",
+      "explanation_text": "মুক্তিযুদ্ধ চলাকালীন সময়ে প্রবাসী গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের অস্থায়ী সচিবালয় (সদর দপ্তর) কলকাতায় অবস্থিত ছিল। এটি কলকাতার ৮ নম্বর থিয়েটার রোডে অবস্থিত ছিল।",
+      "explanation_html": "মুক্তিযুদ্ধ চলাকালীন সময়ে প্রবাসী গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের অস্থায়ী সচিবালয় (সদর দপ্তর) কলকাতায় অবস্থিত ছিল। এটি কলকাতার ৮ নম্বর থিয়েটার রোডে অবস্থিত ছিল।"
+    },
+    {
+      "id": 70,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "নিচের কোনটি বাংলাদেশের শিল্প সংক্রান্ত অর্থনৈতিক কর্মকান্ড নয়?",
+      "question_html": "<div>নিচের কোনটি বাংলাদেশের শিল্প সংক্রান্ত অর্থনৈতিক কর্মকান্ড নয়?</div>",
+      "options": {
+        "A": "মাছ চাষ",
+        "B": "বস্ত্র",
+        "C": "পাট",
+        "D": "সিমেন্ট"
+      },
+      "options_html": {
+        "A": "মাছ চাষ",
+        "B": "বস্ত্র",
+        "C": "পাট",
+        "D": "সিমেন্ট"
+      },
+      "correct_answer": "A",
+      "explanation_text": "বাংলাদেশে শিল্প সংক্রান্ত অর্থনৈতিক কর্মকাণ্ড বলতে মূলত উৎপাদনশীল খাতকে বোঝানো হয় যেখানে কাঁচামালকে প্রক্রিয়াজাত করে নতুন পণ্য তৈরি করা হয়, যেমন: বস্ত্র, পাটজাত পণ্য, সিমেন্ট ইত্যাদি। মাছ চাষ কৃষি ও মৎস্য খাতের অন্তর্গত, যা প্রাথমিক উৎপাদন খাতে পড়ে।",
+      "explanation_html": "বাংলাদেশে শিল্প সংক্রান্ত অর্থনৈতিক কর্মকাণ্ড বলতে মূলত উৎপাদনশীল খাতকে বোঝানো হয় যেখানে কাঁচামালকে প্রক্রিয়াজাত করে নতুন পণ্য তৈরি করা হয়, যেমন: বস্ত্র, পাটজাত পণ্য, সিমেন্ট ইত্যাদি। মাছ চাষ কৃষি ও মৎস্য খাতের অন্তর্গত, যা প্রাথমিক উৎপাদন খাতে পড়ে।"
+    },
+    {
+      "id": 71,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাক্যের অন্তর্গত শব্দের পারস্পরিক সম্পর্ক ব্যাকরণের কোন অংশে আলোচিত হয়?",
+      "question_html": "<div>বাক্যের অন্তর্গত শব্দের পারস্পরিক সম্পর্ক ব্যাকরণের কোন অংশে আলোচিত হয়?</div>",
+      "options": {
+        "A": "সন্ধি",
+        "B": "পদ",
+        "C": "কাল",
+        "D": "কারক"
+      },
+      "options_html": {
+        "A": "সন্ধি",
+        "B": "পদ",
+        "C": "কাল",
+        "D": "কারক"
+      },
+      "correct_answer": "D",
+      "explanation_text": "‘কারক’ শব্দটির অর্থ যা ক্রিয়া সম্পাদন করে। বাক্যের অন্তর্গত শব্দের (বিশেষত বিশেষ্য বা সর্বনাম পদের) সঙ্গে ক্রিয়াপদের যে পারস্পরিক সম্পর্ক তা ব্যাকরণের কারক অংশে আলোচিত হয়।",
+      "explanation_html": "‘কারক’ শব্দটির অর্থ যা ক্রিয়া সম্পাদন করে। বাক্যের অন্তর্গত শব্দের (বিশেষত বিশেষ্য বা সর্বনাম পদের) সঙ্গে ক্রিয়াপদের যে পারস্পরিক সম্পর্ক তা ব্যাকরণের কারক অংশে আলোচিত হয়।"
+    },
+    {
+      "id": 72,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বর্তমান বিশ্বের কতটি দেশ জাতিসংঘের সদস্য?",
+      "question_html": "<div>বর্তমান বিশ্বের কতটি দেশ জাতিসংঘের সদস্য?</div>",
+      "options": {
+        "A": "১৮৩",
+        "B": "১৮৮",
+        "C": "১৯৩",
+        "D": "১৯৭"
+      },
+      "options_html": {
+        "A": "১৮৩",
+        "B": "১৮৮",
+        "C": "১৯৩",
+        "D": "১৯৭"
+      },
+      "correct_answer": "C",
+      "explanation_text": "",
+      "explanation_html": ""
+    },
+    {
+      "id": 73,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "এশীয় দেশসমূহের মধ্যে কোনটি বিশ্বের উন্নত দেশ?",
+      "question_html": "<div>এশীয় দেশসমূহের মধ্যে কোনটি বিশ্বের উন্নত দেশ?</div>",
+      "options": {
+        "A": "চীন",
+        "B": "ভারত",
+        "C": "জাপান",
+        "D": "সিঙ্গাপুর"
+      },
+      "options_html": {
+        "A": "চীন",
+        "B": "ভারত",
+        "C": "জাপান",
+        "D": "সিঙ্গাপুর"
+      },
+      "correct_answer": "C",
+      "explanation_text": "বিশ্বের উন্নত দেশের সংস্থা জি-৭। জি-৭ এর মোট সদস্য ৭টি। যথা: যুক্তরাষ্ট্র, যুক্তরাজ্য, জাপান, জার্মানি, কানাডা, ইতালি ও ফ্রান্স। জি-৭ এর একমাত্র এশীয় দেশ জাপান। সিঙ্গাপুর উন্নত দেশ হলেও প্রদত্ত অপশন অনুযায়ী জাপান এশীয় দেশসমূহের মধ্যে উন্নত দেশ।",
+      "explanation_html": "বিশ্বের উন্নত দেশের সংস্থা জি-৭। জি-৭ এর মোট সদস্য ৭টি। যথা: যুক্তরাষ্ট্র, যুক্তরাজ্য, জাপান, জার্মানি, কানাডা, ইতালি ও ফ্রান্স। জি-৭ এর একমাত্র এশীয় দেশ জাপান। সিঙ্গাপুর উন্নত দেশ হলেও প্রদত্ত অপশন অনুযায়ী জাপান এশীয় দেশসমূহের মধ্যে উন্নত দেশ।"
+    },
+    {
+      "id": 74,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "অনুভূতিজাত দ্বিরুক্ত শব্দ কোনটি?",
+      "question_html": "<div>অনুভূতিজাত দ্বিরুক্ত শব্দ কোনটি?</div>",
+      "options": {
+        "A": "ছমছম",
+        "B": "ঝমঝম",
+        "C": "টিকটিক",
+        "D": "ঠিক ঠিক"
+      },
+      "options_html": {
+        "A": "ছমছম",
+        "B": "ঝমঝম",
+        "C": "টিকটিক",
+        "D": "ঠিক ঠিক"
+      },
+      "correct_answer": "A",
+      "explanation_text": "একই শব্দ পর পর দুবার ব্যবহার করে গঠিত হয় দ্বিরুক্ত শব্দ। এর ফলে সেই শব্দজোড় দ্বারা অতিরিক্ত ভাব প্রকাশ পায়। যেমন-অনুভূতি বা ভাব বুঝাতে: ভয়ে গাছম ছমকরছে।ফোঁড়াটাটন টনকরছে।",
+      "explanation_html": "একই শব্দ পর পর দুবার ব্যবহার করে গঠিত হয় দ্বিরুক্ত শব্দ। এর ফলে সেই শব্দজোড় দ্বারা অতিরিক্ত ভাব প্রকাশ পায়। যেমন-<br/>\r\nঅনুভূতি বা ভাব বুঝাতে: ভয়ে গা <u>ছম ছম</u> করছে।<br/>\r\nফোঁড়াটা <u>টন টন</u> করছে।"
+    },
+    {
+      "id": 75,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘আজ চারদিক হতে বণিক শোষণকারীর জাত, ও ভাই জোঁকের মতন শুষছে রক্ত, কাড়ছে থালার ভাত।’ -কার লেখা?",
+      "question_html": "<div>‘আজ চারদিক হতে বণিক শোষণকারীর জাত, ও ভাই জোঁকের মতন শুষছে রক্ত, কাড়ছে থালার ভাত।’ -কার লেখা?</div>",
+      "options": {
+        "A": "রবীন্দ্রনাথ ঠাকুর",
+        "B": "কাজী নজরুল ইসলাম",
+        "C": "গোলাম মোস্তফা",
+        "D": "সত্যেন্দ্রনাথ দত্ত"
+      },
+      "options_html": {
+        "A": "রবীন্দ্রনাথ ঠাকুর",
+        "B": "কাজী নজরুল ইসলাম",
+        "C": "গোলাম মোস্তফা",
+        "D": "সত্যেন্দ্রনাথ দত্ত"
+      },
+      "correct_answer": "B",
+      "explanation_text": "এই কবিতাটি কাজী নজরুল ইসলামের ‘কৃষাণের গান’ কবিতার অংশ, যা কবির ‘সর্বহারা’ (১৯২৬) কাব্যগ্রন্থের অন্তর্গত। এখানে, কবি শোষক ধনিক-বণিক শ্রেণির অত্যাচারের বিরুদ্ধে কৃষকদের জাগরণের আহবান জানিয়েছেন।",
+      "explanation_html": "এই কবিতাটি কাজী নজরুল ইসলামের ‘কৃষাণের গান’ কবিতার অংশ, যা কবির ‘সর্বহারা’ (১৯২৬) কাব্যগ্রন্থের অন্তর্গত। এখানে, কবি শোষক ধনিক-বণিক শ্রেণির অত্যাচারের বিরুদ্ধে কৃষকদের জাগরণের আহবান জানিয়েছেন।"
+    },
+    {
+      "id": 76,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "যদি \\(U={\\{1,2,3,4,5,6,7,8,9,10\\}}, \\mathrm P={\\{1,2,5\\}}\\) এবং \\(\\mathrm Q={\\{6,7\\}}\\) হয় তবে \\(\\mathrm {P∩Q'}\\) এর মান কত?",
+      "question_html": "<div>যদি \\(U={\\{1,2,3,4,5,6,7,8,9,10\\}}, \\mathrm P={\\{1,2,5\\}}\\) এবং \\(\\mathrm Q={\\{6,7\\}}\\) হয় তবে \\(\\mathrm {P∩Q'}\\) এর মান কত?</div>",
+      "options": {
+        "A": "P",
+        "B": "Q",
+        "C": "Q’",
+        "D": "P’"
+      },
+      "options_html": {
+        "A": "P",
+        "B": "Q",
+        "C": "Q’",
+        "D": "P’"
+      },
+      "correct_answer": "A",
+      "explanation_text": "দেওয়া আছে, \\(\\mathrm{U={1,2,3,4,5,6,7,8,9,10},} \\)\\(\\mathrm{P={1,2,5} } \\) এবং \\(\\mathrm{Q={6,7} } \\)তাহলে, \\(\\mathrm{Q' =U-Q} \\)\\(\\mathrm{={1,2,3,4,5,6,7,8,9,10}-{6,7}\\\\={1,2,3,4,5,8,9,10} \\\\∴P∩Q' ={1,2,5}∩{1,2,3,4,5,8 ,9,10} ={1,2,5}=P } \\)",
+      "explanation_html": "দেওয়া আছে, \\(\\mathrm{U={1,2,3,4,5,6,7,8,9,10},} \\)<br/>\r\n\\(\\mathrm{P={1,2,5} } \\) এবং \\(\\mathrm{Q={6,7} } \\)<br/>\r\nতাহলে, \\(\\mathrm{Q' =U-Q} \\)<br/>\r\n\\(\\mathrm{={1,2,3,4,5,6,7,8,9,10}-{6,7}\\\\<br/>\r\n={1,2,3,4,5,8,9,10} \\\\<br/>\r\n∴P∩Q' ={1,2,5}∩{1,2,3,4,5,8 ,9,10} ={1,2,5}=P } \\)"
+    },
+    {
+      "id": 77,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কোন বানানটি প্রমিত?",
+      "question_html": "<div>কোন বানানটি প্রমিত?</div>",
+      "options": {
+        "A": "পশ্চাদপদ",
+        "B": "পশ্চাৎগামী",
+        "C": "পশ্চাদ্‌ভূমি",
+        "D": "পশ্চাৎবর্তী"
+      },
+      "options_html": {
+        "A": "পশ্চাদপদ",
+        "B": "পশ্চাৎগামী",
+        "C": "পশ্চাদ্‌ভূমি",
+        "D": "পশ্চাৎবর্তী"
+      },
+      "correct_answer": "C",
+      "explanation_text": "প্রমিত বানান: পশ্চাদ্‌ভূমি, যার সন্ধিবিচ্ছেদ- পশ্চাৎ + ভূমি, শব্দটি বিশেষ্যপদ যা সংস্কৃত ভাষা থেকে এসেছে। শব্দটির অর্থ- পটভূমি।",
+      "explanation_html": "প্রমিত বানান: পশ্চাদ্‌ভূমি, যার সন্ধিবিচ্ছেদ- পশ্চাৎ + ভূমি, শব্দটি বিশেষ্যপদ যা সংস্কৃত ভাষা থেকে এসেছে। শব্দটির অর্থ- পটভূমি।"
+    },
+    {
+      "id": 78,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বিশ্বস্বাস্থ্য সংস্থা কত সালে বাংলাদেশকে পোলিও মুক্ত ঘোষণা করে?",
+      "question_html": "<div>বিশ্বস্বাস্থ্য সংস্থা কত সালে বাংলাদেশকে পোলিও মুক্ত ঘোষণা করে?</div>",
+      "options": {
+        "A": "১৯৯৮",
+        "B": "২০০৪",
+        "C": "২০১৪",
+        "D": "২০১৯"
+      },
+      "options_html": {
+        "A": "১৯৯৮",
+        "B": "২০০৪",
+        "C": "২০১৪",
+        "D": "২০১৯"
+      },
+      "correct_answer": "C",
+      "explanation_text": "বিশ্ব স্বাস্থ্য সংস্থা (WHO) ১৯৮৮ সালে পোলিওমুক্ত বিশ্ব গড়ার লক্ষ্যে বিশ্ব পোলিও নির্মূলকরণ উদ্যোগ গ্রহণ করে। তবে বিশ্ব স্বাস্থ্য সংস্থা ২০১৪ সালে বাংলাদেশকে পোলিওমুক্ত ঘোষণা করে।",
+      "explanation_html": "বিশ্ব স্বাস্থ্য সংস্থা (WHO) ১৯৮৮ সালে পোলিওমুক্ত বিশ্ব গড়ার লক্ষ্যে বিশ্ব পোলিও নির্মূলকরণ উদ্যোগ গ্রহণ করে। তবে বিশ্ব স্বাস্থ্য সংস্থা ২০১৪ সালে বাংলাদেশকে পোলিওমুক্ত ঘোষণা করে।"
+    },
+    {
+      "id": 79,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলা অব্যয়ীভাব সমাসের উদাহরণ ব্যাকরণের কোন অংশের অন্তর্ভুক্ত করা যায়?",
+      "question_html": "<div>বাংলা অব্যয়ীভাব সমাসের উদাহরণ ব্যাকরণের কোন অংশের অন্তর্ভুক্ত করা যায়?</div>",
+      "options": {
+        "A": "সন্ধি",
+        "B": "উপসর্গ",
+        "C": "কারক",
+        "D": "প্রত্যয়"
+      },
+      "options_html": {
+        "A": "সন্ধি",
+        "B": "উপসর্গ",
+        "C": "কারক",
+        "D": "প্রত্যয়"
+      },
+      "correct_answer": "B",
+      "explanation_text": "যে সমাসে পূর্বপদে অব্যয় বা উপসর্গ থাকে, উত্তরপদে বিশেষ্য থাকে এবং অব্যয়ের অর্থ প্রধান হয়ে দেখা দেয় তাকে অব্যয়ীভাব সমাস বলে। বাংলা ভাষায় ব্যবহৃত অব্যয়সূচক শব্দাংশকেও উপসর্গ বলে। তাই উপসর্গযোগে গঠিত সব শব্দই অব্যয়ীভাব সমাস হয়। অব্যয়ীভাব সমাসের উদাহরণ: আ (উপসর্গ) + কণ্ঠ = আকণ্ঠ; পরি (উপসর্গ) + পূর্ণ = পরিপূর্ণ; উপ (উপসর্গ) + গ্রহ = উপগ্রহ।",
+      "explanation_html": "যে সমাসে পূর্বপদে অব্যয় বা উপসর্গ থাকে, উত্তরপদে বিশেষ্য থাকে এবং অব্যয়ের অর্থ প্রধান হয়ে দেখা দেয় তাকে অব্যয়ীভাব সমাস বলে। বাংলা ভাষায় ব্যবহৃত অব্যয়সূচক শব্দাংশকেও উপসর্গ বলে। তাই উপসর্গযোগে গঠিত সব শব্দই অব্যয়ীভাব সমাস হয়। অব্যয়ীভাব সমাসের উদাহরণ: আ (উপসর্গ) + কণ্ঠ = আকণ্ঠ; পরি (উপসর্গ) + পূর্ণ = পরিপূর্ণ; উপ (উপসর্গ) + গ্রহ = উপগ্রহ।"
+    },
+    {
+      "id": 80,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "জাতিসংঘ কবে আনুষ্ঠানিকভাবে আত্মপ্রকাশ করে?",
+      "question_html": "<div>জাতিসংঘ কবে আনুষ্ঠানিকভাবে আত্মপ্রকাশ করে?</div>",
+      "options": {
+        "A": "২৪ অক্টোবর, ১৯৪৫",
+        "B": "২৮ নভেম্বর, ১৯৪৩",
+        "C": "২৮ জানুয়ারি, ১৯৪৩",
+        "D": "২৪ ডিসেম্বর, ১৯৪৫"
+      },
+      "options_html": {
+        "A": "২৪ অক্টোবর, ১৯৪৫",
+        "B": "২৮ নভেম্বর, ১৯৪৩",
+        "C": "২৮ জানুয়ারি, ১৯৪৩",
+        "D": "২৪ ডিসেম্বর, ১৯৪৫"
+      },
+      "correct_answer": "A",
+      "explanation_text": "বিশ্ব শান্তি প্রতিষ্ঠা, বিভিন্ন জাতি বা দেশের মধ্যে সম্প্রীতি স্থাপন, অর্থনৈতিক, সামাজিক ও সাংস্কৃতিক সহযোগিতা ও জাতি, ধর্ম, বর্ণ নির্বিশেষ সবার স্বাধীনতা ও মৌলিক অধিকারের প্রতি সম্মান গড়ে তোলার লক্ষ্যে জাতিসংঘ প্রতিষ্ঠিত হয় ২৪ অক্টোবর, ১৯৪৫ সালে। প্রতিষ্ঠাকালীন সদস্য ছিল ৫১টি। বর্তমানে জাতিসংঘের মোট সদস্য ১৯৩টি (সর্বশেষ সদস্য দক্ষিণ সুদান)। বর্তমান জাতিসংঘের মহাসচিব অ্যান্তোনিও গুতেরেস।",
+      "explanation_html": "বিশ্ব শান্তি প্রতিষ্ঠা, বিভিন্ন জাতি বা দেশের মধ্যে সম্প্রীতি স্থাপন, অর্থনৈতিক, সামাজিক ও সাংস্কৃতিক সহযোগিতা ও জাতি, ধর্ম, বর্ণ নির্বিশেষ সবার স্বাধীনতা ও মৌলিক অধিকারের প্রতি সম্মান গড়ে তোলার লক্ষ্যে জাতিসংঘ প্রতিষ্ঠিত হয় ২৪ অক্টোবর, ১৯৪৫ সালে। প্রতিষ্ঠাকালীন সদস্য ছিল ৫১টি। বর্তমানে জাতিসংঘের মোট সদস্য ১৯৩টি (সর্বশেষ সদস্য দক্ষিণ সুদান)। বর্তমান জাতিসংঘের মহাসচিব অ্যান্তোনিও গুতেরেস।"
+    },
+    {
+      "id": 81,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের জাতীয় আয়ের (জিডিপি-র) কত শতাংশ কৃষি থেকে আসে?",
+      "question_html": "<div>বাংলাদেশের জাতীয় আয়ের (জিডিপি-র) কত শতাংশ কৃষি থেকে আসে?</div>",
+      "options": {
+        "A": "১২.৪০%",
+        "B": "১২.৮৯%",
+        "C": "১৩.০২%",
+        "D": "১৩.৩৫%"
+      },
+      "options_html": {
+        "A": "১২.৪০%",
+        "B": "১২.৮৯%",
+        "C": "১৩.০২%",
+        "D": "১৩.৩৫%"
+      },
+      "correct_answer": "BLANK",
+      "explanation_text": "অর্থনৈতিক সমীক্ষা ২০২৫ অনুযায়ী ২০২৪-২৫ অর্থবছরে বর্তমানে বাংলাদেশের জাতীয় আয়ে জিডিপি’র ১০.৯৪% কৃষি, ৩৭.৪৪% শিল্প এবং ৫১.৬২% সেবা খাত থেকে আসে।",
+      "explanation_html": "অর্থনৈতিক সমীক্ষা ২০২৫ অনুযায়ী ২০২৪-২৫ অর্থবছরে বর্তমানে বাংলাদেশের জাতীয় আয়ে জিডিপি’র ১০.৯৪% কৃষি, ৩৭.৪৪% শিল্প এবং ৫১.৬২% সেবা খাত থেকে আসে।"
+    },
+    {
+      "id": 82,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশ ১৯৭৪ সালে জাতিসংঘের কততম সদস্য রাষ্ট্র হিসেবে অন্তর্ভুক্ত হয়?",
+      "question_html": "<div>বাংলাদেশ ১৯৭৪ সালে জাতিসংঘের কততম সদস্য রাষ্ট্র হিসেবে অন্তর্ভুক্ত হয়?</div>",
+      "options": {
+        "A": "১২৬তম",
+        "B": "১৩০তম",
+        "C": "১৩৬তম",
+        "D": "১৩৯তম"
+      },
+      "options_html": {
+        "A": "১২৬তম",
+        "B": "১৩০তম",
+        "C": "১৩৬তম",
+        "D": "১৩৯তম"
+      },
+      "correct_answer": "C",
+      "explanation_text": "১৭ সেপ্টেম্বর, ১৯৭৪ জাতিসংঘের ২৯তম অধিবেশনে ৩টি দেশ সদস্যপদ লাভ করে। এগুলো হচ্ছে- ‘বাংলাদেশ’, ‘গ্রানাডা’ এবং ‘গিনি বিসাউ’। এর পূর্বে জাতিসংঘের সদস্য দেশ ছিল ১৩৫টি। ১৯৭৪ সালের সদস্যপদ লাভকারী দেশ ৩টি নিয়ে জাতিসংঘের সদস্য সংখ্যা দাঁড়ায় ১৩৮টিতে। তবে বর্ণক্রমানুসারে নাম আসায় বাংলাদেশ ১৩৬তম, গ্রানাডা ১৩৭ তম এবং গিনি বিসাউ ১৩৮তম সদস্যপদ লাভ করে।",
+      "explanation_html": "১৭ সেপ্টেম্বর, ১৯৭৪ জাতিসংঘের ২৯তম অধিবেশনে ৩টি দেশ সদস্যপদ লাভ করে। এগুলো হচ্ছে- ‘বাংলাদেশ’, ‘গ্রানাডা’ এবং ‘গিনি বিসাউ’। এর পূর্বে জাতিসংঘের সদস্য দেশ ছিল ১৩৫টি। ১৯৭৪ সালের সদস্যপদ লাভকারী দেশ ৩টি নিয়ে জাতিসংঘের সদস্য সংখ্যা দাঁড়ায় ১৩৮টিতে। তবে বর্ণক্রমানুসারে নাম আসায় বাংলাদেশ ১৩৬তম, গ্রানাডা ১৩৭ তম এবং গিনি বিসাউ ১৩৮তম সদস্যপদ লাভ করে।"
+    },
+    {
+      "id": 83,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের সংবিধানের কত নং অনুচ্ছেদে চিন্তা, বিবেক ও বাকস্বাধীনতা নাগরিকের মৌলিক অধিকার হিসেবে স্বীকৃত?",
+      "question_html": "<div style=\"text-align: justify;\">বাংলাদেশের সংবিধানের কত নং অনুচ্ছেদে চিন্তা, বিবেক ও বাকস্বাধীনতা নাগরিকের মৌলিক অধিকার হিসেবে স্বীকৃত?</div>",
+      "options": {
+        "A": "১৫",
+        "B": "২৭",
+        "C": "৩৭",
+        "D": "৩৯"
+      },
+      "options_html": {
+        "A": "১৫",
+        "B": "২৭",
+        "C": "৩৭",
+        "D": "৩৯"
+      },
+      "correct_answer": "D",
+      "explanation_text": "",
+      "explanation_html": ""
+    },
+    {
+      "id": 84,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "নিচের চিত্রে BC এর মান কত?",
+      "question_html": "<div>নিচের চিত্রে BC এর মান কত?</div>",
+      "options": {
+        "A": "9 মিটার",
+        "B": "6 মিটার",
+        "C": "4 মিটার",
+        "D": "3 মিটার"
+      },
+      "options_html": {
+        "A": "9 মিটার",
+        "B": "6 মিটার",
+        "C": "4 মিটার",
+        "D": "3 মিটার"
+      },
+      "correct_answer": "A",
+      "explanation_text": "যেহেতু, C হলো ভারসাম্য কেন্দ্র।সুতরাং, AC প্রান্তের ওজন \\(\\mathrm{×AC} \\) প্রান্তের দূরত্ব =BC প্রান্তের ওজন × BC প্রান্তের দূরত্ব\\(\\mathrm{⇒6×6=4×x \\\\⇒x={36\\over 4}} \\)\\(\\mathrm{∴x=9} \\) মিটার।",
+      "explanation_html": "যেহেতু, C হলো ভারসাম্য কেন্দ্র। <br/>\r\nসুতরাং, AC প্রান্তের ওজন \\(\\mathrm{×AC} \\) প্রান্তের দূরত্ব =BC প্রান্তের ওজন × BC প্রান্তের দূরত্ব<br/>\r\n\\(\\mathrm{⇒6×6=4×x \\\\<br/>\r\n⇒x={36\\over 4}} \\)<br/>\r\n\\(\\mathrm{∴x=9} \\) মিটার।"
+    },
+    {
+      "id": 85,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কোনটি বিশেষণ?",
+      "question_html": "<div>কোনটি বিশেষণ?</div>",
+      "options": {
+        "A": "সৎ",
+        "B": "একতা",
+        "C": "দর্শন",
+        "D": "জনতা"
+      },
+      "options_html": {
+        "A": "সৎ",
+        "B": "একতা",
+        "C": "দর্শন",
+        "D": "জনতা"
+      },
+      "correct_answer": "A",
+      "explanation_text": "বিশেষণ পদ হলো সেই শব্দ, যা কোনো বিশেষ্য বা সর্বনাম পদের দোষ, গুণ, অবস্থা, সংখ্যা, পরিমাণ নির্দেশ করে। সৎ: বিশেষণ (গুণবাচক); একতা: বিশেষ্য (গুণবাচক); দর্শন: বিশেষ্য (ভাববাচক); জনতা: বিশেষ্য (সমষ্টিবাচক)।",
+      "explanation_html": "বিশেষণ পদ হলো সেই শব্দ, যা কোনো বিশেষ্য বা সর্বনাম পদের দোষ, গুণ, অবস্থা, সংখ্যা, পরিমাণ নির্দেশ করে। সৎ: বিশেষণ (গুণবাচক); একতা: বিশেষ্য (গুণবাচক); দর্শন: বিশেষ্য (ভাববাচক); জনতা: বিশেষ্য (সমষ্টিবাচক)।"
+    },
+    {
+      "id": 86,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "\\(\\mathrm k\\) এর মান কত হলে \\(\\mathrm {kx^2+3x+4}\\) রাশিটি পূর্ণবর্গ হবে?",
+      "question_html": "<div>\\(\\mathrm k\\) এর মান কত হলে \\(\\mathrm {kx^2+3x+4}\\) রাশিটি পূর্ণবর্গ হবে? </div>",
+      "options": {
+        "A": "\\(- \\frac {16}{9}\\)",
+        "B": "\\(- \\frac {9}{16}\\)",
+        "C": "\\(\\frac {9}{16}\\)",
+        "D": "\\(\\frac {16}{9}\\)"
+      },
+      "options_html": {
+        "A": "\\(- \\frac {16}{9}\\)",
+        "B": "\\(- \\frac {9}{16}\\)",
+        "C": "\\(\\frac {9}{16}\\)",
+        "D": "\\(\\frac {16}{9}\\)"
+      },
+      "correct_answer": "C",
+      "explanation_text": "আমরা জানি, যদি নিশ্চায়ক = 0 হয়, তবে দ্বিঘাত সমীকরণ পূর্ণবর্গ হয়।অর্থাৎ, \\(\\mathrm{b^2-4ac=0}\\)\\(\\mathrm{⇒(3)^2-4×k×4=0}\\)     [এখানে, a = k, b = 3 এবং c = 4]\\(\\mathrm{⇒9-16k=0\\\\⇒16k=9 \\\\∴ k={9\\over 16}}\\)",
+      "explanation_html": "আমরা জানি, যদি নিশ্চায়ক = 0 হয়, তবে দ্বিঘাত সমীকরণ পূর্ণবর্গ হয়।<br/>\r\nঅর্থাৎ, \\(\\mathrm{b^2-4ac=0}\\)<br/>\r\n\\(\\mathrm{⇒(3)^2-4×k×4=0}\\)     [এখানে, a = k, b = 3 এবং c = 4]<br/>\r\n\\(\\mathrm{⇒9-16k=0\\\\<br/>\r\n⇒16k=9 \\\\<br/>\r\n∴ k={9\\over 16}}\\)"
+    },
+    {
+      "id": 87,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "ছড়ার ছন্দকে কী বলে?",
+      "question_html": "<div>ছড়ার ছন্দকে কী বলে?</div>",
+      "options": {
+        "A": "স্বরবৃত্ত",
+        "B": "মাত্রাবৃত্ত",
+        "C": "অক্ষরবৃত্ত",
+        "D": "গদ্যছন্দ"
+      },
+      "options_html": {
+        "A": "স্বরবৃত্ত",
+        "B": "মাত্রাবৃত্ত",
+        "C": "অক্ষরবৃত্ত",
+        "D": "গদ্যছন্দ"
+      },
+      "correct_answer": "A",
+      "explanation_text": "যে ছন্দ যুগ্মধ্বনি সব সময় একমাত্রা গণনা করা হয় এবং প্রত্যেক পর্বের প্রথম শব্দের আদিতে শ্বাসাঘাত পড়ে তাকে স্বরবৃত্ত ছন্দ বলে। স্বরবৃত্তে মুক্তাক্ষর ও বদ্ধাক্ষর সর্বত্র একমাত্রা হয়। স্বরবৃত্ত ছন্দকে-দলবৃত্ত বা লৌকিক বা ছড়ার ছন্দ বা শ্বসাঘাত প্রধান ছন্দ বা প্রাকৃত বাংলার ছন্দ বলা হয়। ছড়া সাধারণত স্বরবৃত্ত ছন্দে লেখা হয়। এই ছন্দে মূল পর্বে মাত্রার সংখ্যা ৪।",
+      "explanation_html": "যে ছন্দ যুগ্মধ্বনি সব সময় একমাত্রা গণনা করা হয় এবং প্রত্যেক পর্বের প্রথম শব্দের আদিতে শ্বাসাঘাত পড়ে তাকে স্বরবৃত্ত ছন্দ বলে। স্বরবৃত্তে মুক্তাক্ষর ও বদ্ধাক্ষর সর্বত্র একমাত্রা হয়। স্বরবৃত্ত ছন্দকে-দলবৃত্ত বা লৌকিক বা ছড়ার ছন্দ বা শ্বসাঘাত প্রধান ছন্দ বা প্রাকৃত বাংলার ছন্দ বলা হয়। ছড়া সাধারণত স্বরবৃত্ত ছন্দে লেখা হয়। এই ছন্দে মূল পর্বে মাত্রার সংখ্যা ৪।"
+    },
+    {
+      "id": 88,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "একটি দেশের মোট আয়তনের কত শতাংশ বনভূমি থাকা প্রয়োজন?",
+      "question_html": "<div>একটি দেশের মোট আয়তনের কত শতাংশ বনভূমি থাকা প্রয়োজন?</div>",
+      "options": {
+        "A": "১৫-২০%",
+        "B": "২০-২৫%",
+        "C": "৩০-৩৫%",
+        "D": "৩৫-৪০%"
+      },
+      "options_html": {
+        "A": "১৫-২০%",
+        "B": "২০-২৫%",
+        "C": "৩০-৩৫%",
+        "D": "৩৫-৪০%"
+      },
+      "correct_answer": "B",
+      "explanation_text": "বিশেষজ্ঞদের মতে, পরিবেশের ভারসাম্য রক্ষায় কোনো একটি দেশের মোট ভূমির ২৫% বনাঞ্চল থাকা উচিত। বন অধিদপ্তরের তথ্যানুসারে বর্তমানে বাংলাদেশের বনাঞ্চলের পরিমাণ মোট ভূমির ১৫.৫৮%। বিভাগ অনুসারে বাংলাদেশের সবচেয়ে বেশি বনভূমি রয়েছে চট্টগ্রাম বিভাগে। বাংলাদেশের পরিবেশের ভারসাম্য রক্ষার জন্য প্রয়োজনীয় বনভূমি আছে মাত্র ৭টি জেলায়। ২৯টি জেলায় কোনো রাষ্ট্রীয় বনভূমি নেই। বাংলাদেশের বনভূমির পরিমাণ বৃদ্ধির জন্য ১৯৯৪ সাল থেকে জাতীয় বৃক্ষ মেলা শুরু হয়।",
+      "explanation_html": "বিশেষজ্ঞদের মতে, পরিবেশের ভারসাম্য রক্ষায় কোনো একটি দেশের মোট ভূমির ২৫% বনাঞ্চল থাকা উচিত। বন অধিদপ্তরের তথ্যানুসারে বর্তমানে বাংলাদেশের বনাঞ্চলের পরিমাণ মোট ভূমির ১৫.৫৮%। বিভাগ অনুসারে বাংলাদেশের সবচেয়ে বেশি বনভূমি রয়েছে চট্টগ্রাম বিভাগে। বাংলাদেশের পরিবেশের ভারসাম্য রক্ষার জন্য প্রয়োজনীয় বনভূমি আছে মাত্র ৭টি জেলায়। ২৯টি জেলায় কোনো রাষ্ট্রীয় বনভূমি নেই। বাংলাদেশের বনভূমির পরিমাণ বৃদ্ধির জন্য ১৯৯৪ সাল থেকে জাতীয় বৃক্ষ মেলা শুরু হয়।"
+    },
+    {
+      "id": 89,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "ইসমাইল হোসেন সিরাজীর কোন কাব্যটি বাজেয়াপ্ত হয়?",
+      "question_html": "<div>ইসমাইল হোসেন সিরাজীর কোন কাব্যটি বাজেয়াপ্ত হয়?</div>",
+      "options": {
+        "A": "‘অনল প্রবাহ’",
+        "B": "‘আকাঙ্ক্ষা’",
+        "C": "‘উদ্বোধন’",
+        "D": "‘নব উদ্দীপনা’"
+      },
+      "options_html": {
+        "A": "‘অনল প্রবাহ’",
+        "B": "‘আকাঙ্ক্ষা’",
+        "C": "‘উদ্বোধন’",
+        "D": "‘নব উদ্দীপনা’"
+      },
+      "correct_answer": "A",
+      "explanation_text": "মুসলিম পুনর্জাগরণবাদী কবি ও রাজনীতিবিদ সৈয়দ ইসমাইল হোসেন সিরাজী (১৮৮০-১৯৩১)। অনলস্রাবী সাহিত্য সৃষ্টি তাঁর বৈশিষ্ট্য। জাতীয় জাগরণমূলক কাব্য সৃষ্টিতে তিনি ছিলেন স্বতঃস্ফূর্ত এবং কাজী নজরুল ইসলামের পূর্বসূরি। ‘অনল প্রবাহ’ (১৯০০) তাঁর বিখ্যাত মুসলিম জাগরণমূলক কাব্য। ‘যা চলে গেছে তাঁর জন্য শোক বৃথা বরং জাতির হৃত গৌরব উদ্ধারের প্রচেষ্টাই মুখ্য’ এই বাণীতে মুসলমানদের দুরবস্থা ও অধঃপতন ব্যক্ত করে ইংরেজদের বিরুদ্ধে ক্ষোভ ও রোষ প্রকাশ করা হয়েছে এই কাব্যে। গ্রন্থটি ১৯০৯ খ্রিষ্টাব্দে ফেব্রুয়ারি মাসে ইংরেজ সরকার কর্তৃক বাজেয়াপ্ত হয় এবং তাঁর প্রতি গ্রেফতারি পরোয়ানা জারি করা হয়। আত্মসমর্পণের পর ব্রিটিশ সরকারের প্রতি বিদ্বেষ পোষণ করার কারণে তাঁর দুই বছর সশ্রম কারাদণ্ড হয়। সৈয়দ ইসমাইল হোসেন সিরাজীর সাহিত্যকর্ম:কাব্যঅনল প্রবাহ, স্পেনবিজয় কাব্য, উচ্ছ্বাস, উদ্বোধনউপন্যাসতারাবাঈ (১৯০৮), রায়নন্দিনী (১৯১৮), ফিরোজা বেগমভ্রমণকাহিনিতুরস্ক ভ্রমণপ্রবন্ধতুর্কি নারী জীবন, স্বজাতি প্রেম, স্পেনীয় মুসলমান সভ্যতা",
+      "explanation_html": "মুসলিম পুনর্জাগরণবাদী কবি ও রাজনীতিবিদ সৈয়দ ইসমাইল হোসেন সিরাজী (১৮৮০-১৯৩১)। অনলস্রাবী সাহিত্য সৃষ্টি তাঁর বৈশিষ্ট্য। জাতীয় জাগরণমূলক কাব্য সৃষ্টিতে তিনি ছিলেন স্বতঃস্ফূর্ত এবং কাজী নজরুল ইসলামের পূর্বসূরি। ‘অনল প্রবাহ’ (১৯০০) তাঁর বিখ্যাত মুসলিম জাগরণমূলক কাব্য। ‘যা চলে গেছে তাঁর জন্য শোক বৃথা বরং জাতির হৃত গৌরব উদ্ধারের প্রচেষ্টাই মুখ্য’ এই বাণীতে মুসলমানদের দুরবস্থা ও অধঃপতন ব্যক্ত করে ইংরেজদের বিরুদ্ধে ক্ষোভ ও রোষ প্রকাশ করা হয়েছে এই কাব্যে। গ্রন্থটি ১৯০৯ খ্রিষ্টাব্দে ফেব্রুয়ারি মাসে ইংরেজ সরকার কর্তৃক বাজেয়াপ্ত হয় এবং তাঁর প্রতি গ্রেফতারি পরোয়ানা জারি করা হয়। আত্মসমর্পণের পর ব্রিটিশ সরকারের প্রতি বিদ্বেষ পোষণ করার কারণে তাঁর দুই বছর সশ্রম কারাদণ্ড হয়। সৈয়দ ইসমাইল হোসেন সিরাজীর সাহিত্যকর্ম:"
+    },
+    {
+      "id": 90,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "যদি \\(\\mathrm {log_{10}⁡x=-3}\\) হয়, তবে \\(\\mathrm x\\) এর মান কত?",
+      "question_html": "<div>যদি \\(\\mathrm {log_{10}⁡x=-3}\\) হয়, তবে \\(\\mathrm x\\) এর মান কত? </div>",
+      "options": {
+        "A": "0.1",
+        "B": "0.01",
+        "C": "0.001",
+        "D": "0.0001"
+      },
+      "options_html": {
+        "A": "0.1",
+        "B": "0.01",
+        "C": "0.001",
+        "D": "0.0001"
+      },
+      "correct_answer": "C",
+      "explanation_text": "দেওয়া আছে, \\(\\mathrm{log_{10}⁡x=-3}\\)\\(\\mathrm{⇒x=10^{-3} ~~~~~ [log_a⁡x=p}\\) হলে, \\(\\mathrm{x=a^p}\\)]\\(\\mathrm{⇒x={1\\over 10^3} ={1\\over 1000 }\\\\∴x=0.001}\\)",
+      "explanation_html": "দেওয়া আছে, \\(\\mathrm{log_{10}⁡x=-3}\\)<br/>\r\n\\(\\mathrm{⇒x=10^{-3} ~~~~~ [log_a⁡x=p}\\) হলে, \\(\\mathrm{x=a^p}\\)]<br/>\r\n\\(\\mathrm{⇒x={1\\over 10^3} ={1\\over 1000 }\\\\<br/>\r\n∴x=0.001}\\)"
+    },
+    {
+      "id": 91,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "একটি চৌবাচ্চার দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে ৩ মিটার, ৪ মিটার ও ৫ মিটার হলে, এতে কত লিটার বিশুদ্ধ পানি ধরবে?",
+      "question_html": "<div>একটি চৌবাচ্চার দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে ৩ মিটার, ৪ মিটার ও ৫ মিটার হলে, এতে কত লিটার বিশুদ্ধ পানি ধরবে?</div>",
+      "options": {
+        "A": "৬০০০০০",
+        "B": "৬০০০০",
+        "C": "৬০০০",
+        "D": "৬০০"
+      },
+      "options_html": {
+        "A": "৬০০০০০",
+        "B": "৬০০০০",
+        "C": "৬০০০",
+        "D": "৬০০"
+      },
+      "correct_answer": "B",
+      "explanation_text": "দেওয়া আছে, চৌবাচ্চার দৈর্ঘ্য = 3 মিটার\\(\\mathrm{= 3 × 100} \\)সে.মি.= 300 সে.মি.প্রস্থ = 4 মিটার \\(\\mathrm{= 4 × 100 = 400  }\\)সে.মি.এবং উচ্চতা = 5 মিটার \\(\\mathrm{= 5 × 100 = 500 }\\)সে.মি.সুতরাং চৌবাচ্চার আয়তন \\(\\mathrm{=(300×400×500) =60000000}\\) ঘন সে.মি.",
+      "explanation_html": "দেওয়া আছে, চৌবাচ্চার দৈর্ঘ্য = 3 মিটার<br/>\r\n\\(\\mathrm{= 3 × 100} \\)সে.মি. <br/>\r\n= 300 সে.মি.<br/>\r\nপ্রস্থ = 4 মিটার \\(\\mathrm{= 4 × 100 = 400  }\\)সে.মি.<br/>\r\nএবং উচ্চতা = 5 মিটার \\(\\mathrm{= 5 × 100 = 500 }\\)সে.মি.<br/>\r\nসুতরাং চৌবাচ্চার আয়তন \\(\\mathrm{=(300×400×500) =60000000}\\) ঘন সে.মি."
+    },
+    {
+      "id": 92,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "\\(\\frac {1}{\\mathrm x-1}+\\frac {2}{\\mathrm x-2}=\\frac {3}{\\mathrm x-3}\\) এর সমাধান-",
+      "question_html": "<div>\\(\\frac {1}{\\mathrm x-1}+\\frac {2}{\\mathrm x-2}=\\frac {3}{\\mathrm x-3}\\) এর সমাধান-</div>",
+      "options": {
+        "A": "\\(\\frac {3}{2}\\)",
+        "B": "\\(\\frac {2}{3}\\)",
+        "C": "\\(\\frac {5}{1}\\)",
+        "D": "\\(\\frac {2}{5}\\)"
+      },
+      "options_html": {
+        "A": "\\(\\frac {3}{2}\\)",
+        "B": "\\(\\frac {2}{3}\\)",
+        "C": "\\(\\frac {5}{1}\\)",
+        "D": "\\(\\frac {2}{5}\\)"
+      },
+      "correct_answer": "A",
+      "explanation_text": "\\(\\mathrm{ {1\\over x-1}+{2\\over x-2}={3\\over x-3} \\\\⇒{1\\over x-1}+{2\\over x-2}={1+2\\over x-3}\\\\⇒{1\\over x-1}+{2\\over x-2}={1\\over x-3}+{2\\over x-3} \\\\⇒{1\\over x-1}-{1\\over x-3}={2\\over x-3}-{2\\over x-2} \\\\⇒{x-3-x+1\\over (x-1)(x-3)} ={2(x-2)-2(x-3)\\over (x-3)(x-2)}   \\\\⇒{-2\\over x-1}={2x-4-2x+6\\over x-2} \\\\⇒{-2\\over x-1}={2\\over x-2} \\\\⇒{-1\\over x-1}={1\\over x-2} \\\\⇒x-1=-x+2 \\\\⇒x+x=2+1\\\\⇒2x=3\\\\∴x=\\frac 32 }\\)",
+      "explanation_html": "\\(\\mathrm{ {1\\over x-1}+{2\\over x-2}={3\\over x-3} \\\\<br/>\r\n⇒{1\\over x-1}+{2\\over x-2}={1+2\\over x-3}\\\\<br/>\r\n⇒{1\\over x-1}+{2\\over x-2}={1\\over x-3}+{2\\over x-3} \\\\<br/>\r\n⇒{1\\over x-1}-{1\\over x-3}={2\\over x-3}-{2\\over x-2} \\\\<br/>\r\n⇒{x-3-x+1\\over (x-1)(x-3)} ={2(x-2)-2(x-3)\\over (x-3)(x-2)}   \\\\<br/>\r\n⇒{-2\\over x-1}={2x-4-2x+6\\over x-2} \\\\<br/>\r\n⇒{-2\\over x-1}={2\\over x-2} \\\\<br/>\r\n⇒{-1\\over x-1}={1\\over x-2} \\\\<br/>\r\n⇒x-1=-x+2 \\\\<br/>\r\n⇒x+x=2+1\\\\<br/>\r\n⇒2x=3\\\\<br/>\r\n∴x=\\frac 32 }\\)"
+    },
+    {
+      "id": 93,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "Choose the correct sentecnce.",
+      "question_html": "<div>Choose the correct sentecnce.</div>",
+      "options": {
+        "A": "Where have you born?",
+        "B": "Where are you born?",
+        "C": "Where were you born",
+        "D": "Where did you born?"
+      },
+      "options_html": {
+        "A": "Where have you born?",
+        "B": "Where are you born?",
+        "C": "Where were you born",
+        "D": "Where did you born?"
+      },
+      "correct_answer": "C",
+      "explanation_text": "",
+      "explanation_html": ""
+    },
+    {
+      "id": 94,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "যদি \\(\\mathrm {x : y = 4 : 3, y : z = 5 : 4}\\) এবং \\(\\mathrm x = 200\\) হয়, তবে \\(\\mathrm z\\) এর মান কত?",
+      "question_html": "<div>যদি \\(\\mathrm {x : y = 4 : 3, y : z = 5 : 4}\\) এবং \\(\\mathrm x = 200\\) হয়, তবে \\(\\mathrm z\\) এর মান কত?</div>",
+      "options": {
+        "A": "\\(\\frac {100}{3}\\)",
+        "B": "\\(\\frac {800}{3}\\)",
+        "C": "150",
+        "D": "120"
+      },
+      "options_html": {
+        "A": "\\(\\frac {100}{3}\\)",
+        "B": "\\(\\frac {800}{3}\\)",
+        "C": "150",
+        "D": "120"
+      },
+      "correct_answer": "D",
+      "explanation_text": "দেওয়া আছে, \\(\\mathrm {x∶y=4∶3} \\)\\(\\mathrm {y∶z=5∶4\\\\∴x:y:z=(4×5):(5×3):(4×3)\\\\=20:15:12 } \\)এখন, x, y ও z এর অনুপাতকে 10 দ্বারা গুণ করে পাই,\\(\\mathrm {x:y:z=(20×10):(15×10):(12×10) \\\\=200:150:120} \\)তাহলে, \\(\\mathrm {x=200} \\) হলে, \\(\\mathrm {z=120} \\).",
+      "explanation_html": "দেওয়া আছে, \\(\\mathrm {x∶y=4∶3} \\)<br/>\r\n\\(\\mathrm {y∶z=5∶4\\\\<br/>\r\n∴x:y:z=(4×5):(5×3):(4×3)\\\\<br/>\r\n=20:15:12 } \\)<br/>\r\nএখন, x, y ও z এর অনুপাতকে 10 দ্বারা গুণ করে পাই,<br/>\r\n\\(\\mathrm {x:y:z=(20×10):(15×10):(12×10) \\\\<br/>\r\n=200:150:120} \\)<br/>\r\nতাহলে, \\(\\mathrm {x=200} \\) হলে, \\(\\mathrm {z=120} \\)."
+    },
+    {
+      "id": 95,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘শ্রীকৃষ্ণকীর্তন’ কাব্যের প্রথম খণ্ডের নাম কী?",
+      "question_html": "<div>‘শ্রীকৃষ্ণকীর্তন’ কাব্যের প্রথম খণ্ডের নাম কী?</div>",
+      "options": {
+        "A": "জন্মখণ্ড",
+        "B": "তাম্বুলখণ্ড",
+        "C": "দানখণ্ড",
+        "D": "রাধাবিরহ"
+      },
+      "options_html": {
+        "A": "জন্মখণ্ড",
+        "B": "তাম্বুলখণ্ড",
+        "C": "দানখণ্ড",
+        "D": "রাধাবিরহ"
+      },
+      "correct_answer": "A",
+      "explanation_text": "শ্রীকৃষ্ণকীর্তন কাব্য বাংলা সাহিত্যের মধ্যযুগের প্রথম নিদর্শন এবং সর্বজন স্বীকৃত ও খাঁটি বাংলা ভাষায় রচিত প্রথম একক কাব্যগ্রন্থ। ১৯০৯ সালে বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ পশ্চিমবঙ্গের বাঁকুড়া জেলার কাঁকিল্যা গ্রামের শ্রী দেবেন্দ্রনাথ মুখোপাধ্যায়ের বাড়ির গোয়ালঘর হতে এই গ্রন্থটি উদ্ধার করেন। ১৯১৬ সালে বঙ্গীয় সাহিত্য পরিষদ থেকে গ্রন্থটি ‘শ্রীকৃষ্ণকীর্তন’ নামে প্রকাশিত হয়। এ কাব্যের রচয়িতা বড়ু চণ্ডীদাস (মধ্যযুগের আদি কবি)। তিনি মোট ১৩টি খণ্ডে ‘শ্রীকৃষ্ণকীর্তন’ কাব্য রচনা করেন। পুরো কাব্যটি আবর্তিত হয়েছে রাধা-কৃষ্ণের প্রেম নিবেদন, দেহ সম্ভোগ, দুঃখভোগ ইত্যাদির মধ্য দিয়ে। ‘শ্রীকৃষ্ণকীর্তন’ কাব্যের ১৩টি খণ্ড হলো: জন্মখণ্ড, তাম্বুলখণ্ড, দানখণ্ড, নৌকাখণ্ড, ভারখণ্ড, ছত্রখণ্ড, বৃন্দাবনখণ্ড, কালীয়দমনখণ্ড, যমুনাখণ্ড, হারখণ্ড, বাণখণ্ড, বংশীখণ্ড, রাধাবিরহ।",
+      "explanation_html": "শ্রীকৃষ্ণকীর্তন কাব্য বাংলা সাহিত্যের মধ্যযুগের প্রথম নিদর্শন এবং সর্বজন স্বীকৃত ও খাঁটি বাংলা ভাষায় রচিত প্রথম একক কাব্যগ্রন্থ। ১৯০৯ সালে বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ পশ্চিমবঙ্গের বাঁকুড়া জেলার কাঁকিল্যা গ্রামের শ্রী দেবেন্দ্রনাথ মুখোপাধ্যায়ের বাড়ির গোয়ালঘর হতে এই গ্রন্থটি উদ্ধার করেন। ১৯১৬ সালে বঙ্গীয় সাহিত্য পরিষদ থেকে গ্রন্থটি ‘শ্রীকৃষ্ণকীর্তন’ নামে প্রকাশিত হয়। এ কাব্যের রচয়িতা বড়ু চণ্ডীদাস (মধ্যযুগের আদি কবি)। তিনি মোট ১৩টি খণ্ডে ‘শ্রীকৃষ্ণকীর্তন’ কাব্য রচনা করেন। পুরো কাব্যটি আবর্তিত হয়েছে রাধা-কৃষ্ণের প্রেম নিবেদন, দেহ সম্ভোগ, দুঃখভোগ ইত্যাদির মধ্য দিয়ে। ‘শ্রীকৃষ্ণকীর্তন’ কাব্যের ১৩টি খণ্ড হলো: জন্মখণ্ড, তাম্বুলখণ্ড, দানখণ্ড, নৌকাখণ্ড, ভারখণ্ড, ছত্রখণ্ড, বৃন্দাবনখণ্ড, কালীয়দমনখণ্ড, যমুনাখণ্ড, হারখণ্ড, বাণখণ্ড, বংশীখণ্ড, রাধাবিরহ।"
+    },
+    {
+      "id": 96,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলামতি কি?",
+      "question_html": "<div>বাংলামতি কি?</div>",
+      "options": {
+        "A": "এক প্রকার ধান",
+        "B": "এক প্রকার গম",
+        "C": "এক প্রকার আম",
+        "D": "একটি নদীর নাম"
+      },
+      "options_html": {
+        "A": "এক প্রকার ধান",
+        "B": "এক প্রকার গম",
+        "C": "এক প্রকার আম",
+        "D": "একটি নদীর নাম"
+      },
+      "correct_answer": "A",
+      "explanation_text": "বাংলামতি, হীরা, ময়না, হরি, সোনার বাংলা, ইরাটম, ব্রিশাইল, চান্দিনাম, মালা, সুপার রাইস, মুক্তা, প্রগতি, আশা, বিপ্লব, দুলাভোগ, আলোক-৬২১০, নারিকা-১, সোনার বাংলা-১, মালাইরি ইত্যাদি উন্নত জাতের ধানের নাম।",
+      "explanation_html": "বাংলামতি, হীরা, ময়না, হরি, সোনার বাংলা, ইরাটম, ব্রিশাইল, চান্দিনাম, মালা, সুপার রাইস, মুক্তা, প্রগতি, আশা, বিপ্লব, দুলাভোগ, আলোক-৬২১০, নারিকা-১, সোনার বাংলা-১, মালাইরি ইত্যাদি উন্নত জাতের ধানের নাম।"
+    },
+    {
+      "id": 97,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "\\(\\mathrm {log2 + log4 + log8 +}\\) … ধারাটির অষ্টম পদ কোনটি?",
+      "question_html": "<div>\\(\\mathrm {log2 + log4 + log8 +}\\) … ধারাটির অষ্টম পদ কোনটি?</div>",
+      "options": {
+        "A": "log256",
+        "B": "log128",
+        "C": "log64",
+        "D": "log32"
+      },
+      "options_html": {
+        "A": "log256",
+        "B": "log128",
+        "C": "log64",
+        "D": "log32"
+      },
+      "correct_answer": "A",
+      "explanation_text": "\\(\\mathrm{log⁡2+log⁡4+log⁡8+ …………… }\\)এখানে, ১ম পদ \\(\\mathrm{=log⁡2 }\\)২য় পদ \\(\\mathrm{= log⁡4=log⁡2^2 =2log⁡2 }\\)৩য় পদ \\(\\mathrm{= log⁡8=log⁡2^3 =3log⁡2}\\)সুতরাং ৮ম পদ \\(\\mathrm{=8log⁡2=log⁡2^8 =log⁡256}\\)",
+      "explanation_html": "\\(\\mathrm{log⁡2+log⁡4+log⁡8+ …………… }\\)<br/>\r\nএখানে, ১ম পদ \\(\\mathrm{=log⁡2 }\\)<br/>\r\n২য় পদ \\(\\mathrm{= log⁡4=log⁡2^2 =2log⁡2 }\\)<br/>\r\n৩য় পদ \\(\\mathrm{= log⁡8=log⁡2^3 =3log⁡2}\\)<br/>\r\nসুতরাং ৮ম পদ \\(\\mathrm{=8log⁡2=log⁡2^8 =log⁡256}\\)"
+    },
+    {
+      "id": 98,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের সরকারের আয়ের উৎস কোনটি?",
+      "question_html": "<div>বাংলাদেশের সরকারের আয়ের উৎস কোনটি?</div>",
+      "options": {
+        "A": "আবগারি শুল্ক",
+        "B": "মূল্য সংযোজন কর",
+        "C": "জরিমানা ও শান্তিমূলক ফি",
+        "D": "উপরের সবগুলো"
+      },
+      "options_html": {
+        "A": "আবগারি শুল্ক",
+        "B": "মূল্য সংযোজন কর",
+        "C": "জরিমানা ও শান্তিমূলক ফি",
+        "D": "উপরের সবগুলো"
+      },
+      "correct_answer": "D",
+      "explanation_text": "কর রাজস্ব: বাংলাদেশ সরকারের রাজস্ব আয়ের প্রধান উৎস কর। উদাহরণ- আয় ও মুনাফা কর; আমদানি শুল্ক; মূল্য সংযোজন কর (VAT); আবগারি শুল্ক; সম্পূরক শুল্ক; যানবাহন কর; ভূমি রাজস্ব; নন জুডিশিয়াল স্ট্যাম্প বিক্রয় ইত্যাদি।কর-বহির্ভূত রাজস্ব: সরকার কর ছাড়াও অন্যান্য উৎস থেকে রাজস্ব উপার্জন করে। এগুলোকে কর বহির্ভূত রাজস্ব বলে। উদাহরণ- লভ্যাংশ ও মুনাফা; সুদ (সরকারি ঋণ থেকে); প্রশাসনিক রাজস্ব (প্রশাসনিক ফি, জরিমানা, দণ্ড ও বাজেয়াপ্তকরণ ইত্যাদি); অন্যান্য কর-বহির্ভূত রাজস্ব (রেলওয়ে, ডাক বিভাগ, সেবা বাবদ প্রাপ্তি, টোল, মাশুল, ফি ইত্যাদি)।",
+      "explanation_html": "কর রাজস্ব: বাংলাদেশ সরকারের রাজস্ব আয়ের প্রধান উৎস কর। উদাহরণ- আয় ও মুনাফা কর; আমদানি শুল্ক; মূল্য সংযোজন কর (VAT); আবগারি শুল্ক; সম্পূরক শুল্ক; যানবাহন কর; ভূমি রাজস্ব; নন জুডিশিয়াল স্ট্যাম্প বিক্রয় ইত্যাদি।<br/>\r\nকর-বহির্ভূত রাজস্ব: সরকার কর ছাড়াও অন্যান্য উৎস থেকে রাজস্ব উপার্জন করে। এগুলোকে কর বহির্ভূত রাজস্ব বলে। উদাহরণ- লভ্যাংশ ও মুনাফা; সুদ (সরকারি ঋণ থেকে); প্রশাসনিক রাজস্ব (প্রশাসনিক ফি, জরিমানা, দণ্ড ও বাজেয়াপ্তকরণ ইত্যাদি); অন্যান্য কর-বহির্ভূত রাজস্ব (রেলওয়ে, ডাক বিভাগ, সেবা বাবদ প্রাপ্তি, টোল, মাশুল, ফি ইত্যাদি)।"
+    },
+    {
+      "id": 99,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "অক্টোবর সমাজতান্ত্রিক বিপ্লব কত খ্রিস্টাব্দে সংঘটিত হয়?",
+      "question_html": "<div>অক্টোবর সমাজতান্ত্রিক বিপ্লব কত খ্রিস্টাব্দে সংঘটিত হয়?</div>",
+      "options": {
+        "A": "১৯১৭",
+        "B": "১৮৫৭",
+        "C": "১৮৪৯",
+        "D": "১৭৫৭"
+      },
+      "options_html": {
+        "A": "১৯১৭",
+        "B": "১৮৫৭",
+        "C": "১৮৪৯",
+        "D": "১৭৫৭"
+      },
+      "correct_answer": "A",
+      "explanation_text": "১৯১৭ সালে রাশিয়ায় বলশেভিক ও ভ্লাদিমির লেনিনের নেতৃত্বে একটি বিপ্লব সংঘটিত হয় যা অক্টোবর সমাজতান্ত্রিক বিপ্লব বা বলশেভিক বিপ্লব বা অক্টোবর বিপ্লব নামে পরিচিত।",
+      "explanation_html": "১৯১৭ সালে রাশিয়ায় বলশেভিক ও ভ্লাদিমির লেনিনের নেতৃত্বে একটি বিপ্লব সংঘটিত হয় যা অক্টোবর সমাজতান্ত্রিক বিপ্লব বা বলশেভিক বিপ্লব বা অক্টোবর বিপ্লব নামে পরিচিত।"
+    },
+    {
+      "id": 100,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "২ ঘণ্টা ৪০ মিনিট ৬ ঘণ্টার কত অংশ?",
+      "question_html": "<div>২ ঘণ্টা ৪০ মিনিট ৬ ঘণ্টার কত অংশ?</div>",
+      "options": {
+        "A": "\\(\\frac {১}{৬}\\)",
+        "B": "\\(\\frac {১}{৫}\\)",
+        "C": "\\(\\frac {৪}{৯}\\)",
+        "D": "\\(\\frac {১}{২}\\)"
+      },
+      "options_html": {
+        "A": "\\(\\frac {১}{৬}\\)",
+        "B": "\\(\\frac {১}{৫}\\)",
+        "C": "\\(\\frac {৪}{৯}\\)",
+        "D": "\\(\\frac {১}{২}\\)"
+      },
+      "correct_answer": "C",
+      "explanation_text": "2 ঘণ্টা 40 মিনিট \\(\\mathrm{=60×2+40=160} \\) মিনিটএবং 6 ঘণ্টা \\(\\mathrm{=6×60=360} \\) মিনিটতাহলে, 360 এর x অংশ =160\\(\\mathrm{⇒x={160\\over 360} \\\\∴x=\\frac 49} \\)",
+      "explanation_html": "2 ঘণ্টা 40 মিনিট \\(\\mathrm{=60×2+40=160} \\) মিনিট<br/>\r\nএবং 6 ঘণ্টা \\(\\mathrm{=6×60=360} \\) মিনিট<br/>\r\nতাহলে, 360 এর x অংশ =160<br/>\r\n\\(\\mathrm{⇒x={160\\over 360} \\\\<br/>\r\n∴x=\\frac 49} \\)"
+    }
+  ]
+}
