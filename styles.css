@@ -493,25 +493,7 @@ body {
   margin-bottom: 0.4rem;
 }
 
-/* Responsive */
-@media (max-width: 900px) {
-  .header-container {
-    flex-wrap: wrap;
-    gap: 0.75rem;
-  }
-  .main-navbar {
-    overflow-x: auto;
-    width: 100%;
-    padding-bottom: 0.35rem;
-    gap: 0.85rem;
-  }
-  .qb-cards-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .qb-header-pill {
-    padding: 0.5rem 2rem;
-    font-size: 1.3rem;
-}
+/* 7. UNIFIED ACADEMY HOME VIEW STYLES */
 
 /* 7. UNIFIED ACADEMY HOME VIEW STYLES */
 .portal-home-container {
@@ -739,21 +721,261 @@ body {
   line-height: 1.5;
 }
 
-/* Responsive */
-@media (max-width: 992px) {
-  .portal-stats-grid,
-  .portal-features-grid {
-    grid-template-columns: repeat(2, 1fr);
+/* ========================================================
+   8. COMPREHENSIVE RESPONSIVE DESIGN (Mobile, Tablet, Desktop)
+   ======================================================== */
+
+/* Touch and fluid tap enhancements */
+.qb-exam-card, .btn-show-more, .subject-pill, .option-item, .portal-cta-btn, .header-tool-btn, .nav-item-link {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Formula & media responsiveness */
+.katex-display, .katex {
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+  padding: 0.25rem 0;
+}
+
+.question-text img, .explanation-box img, .option-item img, .modal-body img {
+  max-width: 100% !important;
+  height: auto !important;
+  border-radius: 6px;
+}
+
+/* --- Tablets & Smaller Laptops (max-width: 1024px) --- */
+@media (max-width: 1024px) {
+  .qb-main-layout {
+    grid-template-columns: 1fr;
+    gap: 2rem;
   }
-  .portal-hero-title {
-    font-size: 1.8rem;
+  
+  .qb-sidebar-col {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+  
+  .qb-cards-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .exam-content-split {
+    grid-template-columns: 1fr;
+  }
+
+  .exam-omr-sidebar {
+    position: static;
+    max-height: 280px;
+    margin-top: 1.5rem;
   }
 }
 
-@media (max-width: 600px) {
+/* --- Phablets & Large Mobiles (max-width: 768px) --- */
+@media (max-width: 768px) {
+  .topNav-section {
+    padding: 6px 10px;
+  }
+
+  .topNav-section h2 {
+    font-size: 0.92rem;
+    line-height: 1.3;
+  }
+
+  .header-container {
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    padding: 0.5rem 0.85rem;
+  }
+
+  .header-logo-img {
+    height: 36px;
+  }
+
+  .abm-badge-brand {
+    font-size: 0.72rem;
+    padding: 0.2rem 0.5rem;
+  }
+
+  .main-navbar {
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 0.35rem;
+    gap: 0.5rem;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .main-navbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .nav-item-link {
+    font-size: 0.85rem;
+    padding: 0.35rem 0.8rem;
+    border-radius: 20px;
+    background: var(--bg-surface-secondary);
+  }
+
+  .nav-item-link.active {
+    background: var(--primary-red);
+    color: #ffffff;
+  }
+
+  .qb-page-container, 
+  .portal-home-container {
+    padding: 1.25rem 0.75rem 3rem;
+  }
+
+  .qb-header-pill {
+    font-size: 1.15rem;
+    padding: 0.45rem 1.75rem;
+  }
+
+  .qb-cards-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.65rem;
+  }
+
+  .qb-exam-card {
+    padding: 0.85rem 0.65rem;
+    min-height: 95px;
+  }
+
+  .qb-exam-card h4 {
+    font-size: 1.1rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .portal-hero-section {
+    padding: 2.2rem 1rem 1.8rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+  }
+
+  .portal-hero-title {
+    font-size: 1.6rem;
+  }
+
+  .portal-hero-subtitle {
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .portal-hero-ctas {
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+
+  .portal-cta-btn {
+    width: 100%;
+    justify-content: center;
+    padding: 0.75rem 1.25rem;
+    font-size: 0.92rem;
+  }
+
   .portal-stats-grid,
   .portal-features-grid {
     grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
+
+  /* Exam Modal Responsive */
+  .modal-sticky-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.65rem;
+    padding: 0.65rem 0.85rem;
+  }
+
+  .modal-sticky-header > div:last-child {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .exam-mode-banner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.65rem;
+    padding: 0.65rem 0.85rem;
+  }
+
+  .exam-timer-box {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .exam-modal-body {
+    padding: 0.85rem 0.65rem 4rem;
+  }
+
+  .exam-tools-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.65rem;
+  }
+
+  .question-item-card {
+    padding: 1rem 0.85rem;
+  }
+
+  .options-grid {
+    grid-template-columns: 1fr !important;
+    gap: 0.5rem;
+  }
+
+  .option-btn {
+    padding: 0.75rem 0.85rem;
+    font-size: 0.92rem;
+    width: 100%;
+    text-align: left;
+  }
+
+  /* Modals sizing */
+  .content-modal-box {
+    width: 95vw;
+    max-height: 90vh;
+    padding: 1.25rem 0.85rem;
+  }
+
+  .exam-result-card {
+    padding: 1.5rem 1rem;
+    width: 95vw;
+  }
+
+  .result-metrics-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.65rem;
   }
 }
+
+/* --- Extra Small Phones (max-width: 420px) --- */
+@media (max-width: 420px) {
+  .qb-cards-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .header-tools {
+    gap: 0.35rem;
+  }
+
+  .header-tool-btn {
+    width: 34px;
+    height: 34px;
+    font-size: 0.85rem;
+  }
+
+  .portal-hero-title {
+    font-size: 1.4rem;
+  }
+
+  .result-metrics-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 
