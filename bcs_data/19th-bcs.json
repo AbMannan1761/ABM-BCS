@@ -1,0 +1,1310 @@
+{
+  "meta": {
+    "id": "19th-bcs",
+    "name": "19th BCS",
+    "sub": "Special",
+    "date": "1997-07-11"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "গবাদি পশুর জাত উন্নয়নে পাক ভারত উপমহাদেশে কোন ব্রিটিশ প্রথম অগ্রণী ভূমিকা পালন করেন?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 1</h4>\n<p class=\"description\"><div>গবাদি পশুর জাত উন্নয়নে পাক ভারত উপমহাদেশে কোন ব্রিটিশ প্রথম অগ্রণী ভূমিকা পালন করেন?</div>\n</p>\n</div>",
+      "options": {
+        "A": "মি.জে. এইচ বি হেলেন",
+        "B": "লর্ড লিনলিথগো",
+        "C": "লর্ড ক্লাইভ",
+        "D": "ওয়ারেন হেস্টিংস"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_1\">\n<span class=\"options_label question_a_1\">A</span>\n<input class=\"question\" id=\"question_a_1\" name=\"question_1\" type=\"radio\" value=\"A\"/>\n<span>মি.জে. এইচ বি হেলেন</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_1\">\n<span class=\"options_label question_b_1\">B</span>\n<input class=\"question\" id=\"question_b_1\" name=\"question_1\" type=\"radio\" value=\"B\"/>\n<span>লর্ড লিনলিথগো</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_1\">\n<span class=\"options_label question_c_1\">C</span>\n<input class=\"question\" id=\"question_c_1\" name=\"question_1\" type=\"radio\" value=\"C\"/>\n<span>লর্ড ক্লাইভ</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_1\">\n<span class=\"options_label question_d_1\">D</span>\n<input class=\"question\" id=\"question_d_1\" name=\"question_1\" type=\"radio\" value=\"D\"/>\n<span>ওয়ারেন হেস্টিংস</span>\n</label>\n</li>"
+      },
+      "correct_answer": "B",
+      "explanation_text": "গবাদি পশুর জাত উন্নয়নে পাক-ভারত উপমহাদেশে প্রথম অগ্রণী ভূমিকা পালন করেন লর্ড লিনলিথগো। তিনি ছিলেন একজন ব্রিটিশ ইউনিয়নবাদী রাজনীতিবিদ, কৃষিবিদ এবং ঔপনিবেশিক প্রশাসক। তিনি ১৯৩৬ থেকে ১৯৪৩ সাল পর্যন্ত ভারতের গভর্নর জেনারেল এবং ভাইসরয়ের দায়িত্ব পালন করেছিলেন।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">গবাদি পশুর জাত উন্নয়নে পাক-ভারত উপমহাদেশে প্রথম অগ্রণী ভূমিকা পালন করেন লর্ড লিনলিথগো। তিনি ছিলেন একজন ব্রিটিশ ইউনিয়নবাদী রাজনীতিবিদ, কৃষিবিদ এবং ঔপনিবেশিক প্রশাসক। তিনি ১৯৩৬ থেকে ১৯৪৩ সাল পর্যন্ত ভারতের গভর্নর জেনারেল এবং ভাইসরয়ের দায়িত্ব পালন করেছিলেন।</p>\n</div>"
+    },
+    {
+      "id": 2,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের কোন অঞ্চলে গো-চারণের জন্য বাথান আছে?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 2</h4>\n<p class=\"description\"><div>বাংলাদেশের কোন অঞ্চলে গো-চারণের জন্য বাথান আছে?</div>\n</p>\n</div>",
+      "options": {
+        "A": "সিরাজগঞ্জ",
+        "B": "দিনাজপুর",
+        "C": "বরিশাল",
+        "D": "ফরিদপুর"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_2\">\n<span class=\"options_label question_a_2\">A</span>\n<input class=\"question\" id=\"question_a_2\" name=\"question_2\" type=\"radio\" value=\"A\"/>\n<span>সিরাজগঞ্জ</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_2\">\n<span class=\"options_label question_b_2\">B</span>\n<input class=\"question\" id=\"question_b_2\" name=\"question_2\" type=\"radio\" value=\"B\"/>\n<span>দিনাজপুর</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_2\">\n<span class=\"options_label question_c_2\">C</span>\n<input class=\"question\" id=\"question_c_2\" name=\"question_2\" type=\"radio\" value=\"C\"/>\n<span>বরিশাল</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_2\">\n<span class=\"options_label question_d_2\">D</span>\n<input class=\"question\" id=\"question_d_2\" name=\"question_2\" type=\"radio\" value=\"D\"/>\n<span>ফরিদপুর</span>\n</label>\n</li>"
+      },
+      "correct_answer": "A",
+      "explanation_text": "বাংলাদেশে গো-চারণের জন্য বাথান রয়েছে দুটি জেলায়। যথা-পাবনা ও সিরাজগঞ্জ।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">বাংলাদেশে গো-চারণের জন্য বাথান রয়েছে দুটি জেলায়। যথা-পাবনা ও সিরাজগঞ্জ।</p>\n</div>"
+    },
+    {
+      "id": 3,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বিশ্বব্যাংকের ১৯৯৭ সালের হিসাব অনুসারে বাংলাদেশের মানুষের মাথাপিছু আয় কত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 3</h4>\n<p class=\"description\"><div>বিশ্বব্যাংকের ১৯৯৭ সালের হিসাব অনুসারে বাংলাদেশের মানুষের মাথাপিছু আয় কত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "২০০ মার্কিন ডলার",
+        "B": "২২৫ মার্কিন ডলার",
+        "C": "২৪০ মার্কিন ডলার",
+        "D": "২৬০ মার্কিন ডলার"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_3\">\n<span class=\"options_label question_a_3\">A</span>\n<input class=\"question\" id=\"question_a_3\" name=\"question_3\" type=\"radio\" value=\"A\"/>\n<span>২০০ মার্কিন ডলার</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_3\">\n<span class=\"options_label question_b_3\">B</span>\n<input class=\"question\" id=\"question_b_3\" name=\"question_3\" type=\"radio\" value=\"B\"/>\n<span>২২৫ মার্কিন ডলার</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_3\">\n<span class=\"options_label question_c_3\">C</span>\n<input class=\"question\" id=\"question_c_3\" name=\"question_3\" type=\"radio\" value=\"C\"/>\n<span>২৪০ মার্কিন ডলার</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_3\">\n<span class=\"options_label question_d_3\">D</span>\n<input class=\"question\" id=\"question_d_3\" name=\"question_3\" type=\"radio\" value=\"D\"/>\n<span>২৬০ মার্কিন ডলার</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "বাংলাদেশ অর্থনৈতিক সমীক্ষা (সাময়িক) ২০২৫ অনুযায়ী বাংলাদেশের মাথাপিছু আয় ২৮২০ মার্কিন ডলার।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">বাংলাদেশ অর্থনৈতিক সমীক্ষা (সাময়িক) ২০২৫ অনুযায়ী বাংলাদেশের মাথাপিছু আয় ২৮২০ মার্কিন ডলার।</p>\n</div>"
+    },
+    {
+      "id": 4,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের পার্বত্য শান্তিচুক্তি স্বাক্ষরিত হয়-",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 4</h4>\n<p class=\"description\"><div>বাংলাদেশের পার্বত্য শান্তিচুক্তি স্বাক্ষরিত হয়-</div>\n</p>\n</div>",
+      "options": {
+        "A": "২ ডিসেম্বর, ১৯৯৭",
+        "B": "৩ ডিসেম্বর, ১৯৯৭",
+        "C": "২২ ডিসেম্বর, ১৯৯৭",
+        "D": "৩ জানুয়ারি, ১৯৯৮"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_4\">\n<span class=\"options_label question_a_4\">A</span>\n<input class=\"question\" id=\"question_a_4\" name=\"question_4\" type=\"radio\" value=\"A\"/>\n<span>২ ডিসেম্বর, ১৯৯৭</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_4\">\n<span class=\"options_label question_b_4\">B</span>\n<input class=\"question\" id=\"question_b_4\" name=\"question_4\" type=\"radio\" value=\"B\"/>\n<span>৩ ডিসেম্বর, ১৯৯৭</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_4\">\n<span class=\"options_label question_c_4\">C</span>\n<input class=\"question\" id=\"question_c_4\" name=\"question_4\" type=\"radio\" value=\"C\"/>\n<span>২২ ডিসেম্বর, ১৯৯৭</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_4\">\n<span class=\"options_label question_d_4\">D</span>\n<input class=\"question\" id=\"question_d_4\" name=\"question_4\" type=\"radio\" value=\"D\"/>\n<span>৩ জানুয়ারি, ১৯৯৮</span>\n</label>\n</li>"
+      },
+      "correct_answer": "A",
+      "explanation_text": "পাহাড়িদের স্বতন্ত্র জনগোষ্ঠী হিসাবে চিহ্নিত করে সংরক্ষণশীল নীতিভিত্তিক কিছু সুবিধা নিশ্চিত করা হয় ১৯৯৭ সালের ২ ডিসেম্বর সম্পাদিত এক শান্তিচুক্তির মাধ্যমে। এ চুক্তিতে বাংলাদেশ সরকারের পক্ষে স্বাক্ষর করেন আবুল হাসনাত আবদুল্লাহ এবং পাহাড়িদের প্রতিনিধিত্ব করেন জ্যোতিরিন্দ্র বোধিপ্রিয় লারমা ওরফে সন্তু লারমা।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>পাহাড়িদের স্বতন্ত্র জনগোষ্ঠী হিসাবে চিহ্নিত করে সংরক্ষণশীল নীতিভিত্তিক কিছু সুবিধা নিশ্চিত করা হয় ১৯৯৭ সালের ২ ডিসেম্বর সম্পাদিত এক শান্তিচুক্তির মাধ্যমে। এ চুক্তিতে বাংলাদেশ সরকারের পক্ষে স্বাক্ষর করেন আবুল হাসনাত আবদুল্লাহ এবং পাহাড়িদের প্রতিনিধিত্ব করেন জ্যোতিরিন্দ্র বোধিপ্রিয় লারমা ওরফে সন্তু লারমা।</div>\n</div>"
+    },
+    {
+      "id": 5,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "জাতিসংঘের সদর দপ্তর কোথায় অবস্থিত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 5</h4>\n<p class=\"description\"><div>জাতিসংঘের সদর দপ্তর কোথায় অবস্থিত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "জেনেভা",
+        "B": "নিউইয়র্ক",
+        "C": "হেগ",
+        "D": "প্যারিস"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_5\">\n<span class=\"options_label question_a_5\">A</span>\n<input class=\"question\" id=\"question_a_5\" name=\"question_5\" type=\"radio\" value=\"A\"/>\n<span>জেনেভা</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_5\">\n<span class=\"options_label question_b_5\">B</span>\n<input class=\"question\" id=\"question_b_5\" name=\"question_5\" type=\"radio\" value=\"B\"/>\n<span>নিউইয়র্ক</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_5\">\n<span class=\"options_label question_c_5\">C</span>\n<input class=\"question\" id=\"question_c_5\" name=\"question_5\" type=\"radio\" value=\"C\"/>\n<span>হেগ</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_5\">\n<span class=\"options_label question_d_5\">D</span>\n<input class=\"question\" id=\"question_d_5\" name=\"question_5\" type=\"radio\" value=\"D\"/>\n<span>প্যারিস</span>\n</label>\n</li>"
+      },
+      "correct_answer": "B",
+      "explanation_text": "",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div><img src=\"/media/Images/Question/19th-bcs/1.jpg\"/></div>\n</div>"
+    },
+    {
+      "id": 6,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের সবচেয়ে গুরুত্বপূর্ণ খনিজসম্পদ কোনটি ?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 6</h4>\n<p class=\"description\"><div>বাংলাদেশের সবচেয়ে গুরুত্বপূর্ণ খনিজসম্পদ কোনটি ?</div>\n</p>\n</div>",
+      "options": {
+        "A": "কয়লা",
+        "B": "চুনাপাথর",
+        "C": "সাদামাটি",
+        "D": "গ্যাস"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_6\">\n<span class=\"options_label question_a_6\">A</span>\n<input class=\"question\" id=\"question_a_6\" name=\"question_6\" type=\"radio\" value=\"A\"/>\n<span>কয়লা</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_6\">\n<span class=\"options_label question_b_6\">B</span>\n<input class=\"question\" id=\"question_b_6\" name=\"question_6\" type=\"radio\" value=\"B\"/>\n<span>চুনাপাথর</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_6\">\n<span class=\"options_label question_c_6\">C</span>\n<input class=\"question\" id=\"question_c_6\" name=\"question_6\" type=\"radio\" value=\"C\"/>\n<span>সাদামাটি</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_6\">\n<span class=\"options_label question_d_6\">D</span>\n<input class=\"question\" id=\"question_d_6\" name=\"question_6\" type=\"radio\" value=\"D\"/>\n<span>গ্যাস</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "বাংলাদেশের সবচেয়ে গুরুত্বপূর্ণ খনিজ সম্পদ হলো – প্রাকৃতিক গ্যাস। প্রাকৃতিক গ্যাসের প্রধান উপাদান মিথেন। প্রাকৃতিক গ্যাস পেট্রোলিয়াম জাতীয় পদার্থ। এ পর্যন্ত বাংলাদেশে ২৮টি গ্যাস ক্ষেত্রে আবিষ্কৃত হয়েছে। বাংলাদেশে প্রথম গ্যাসক্ষেত্র আবিষ্কৃত হয় ১৯৫৫ সালে এবং উত্তোলন শুরু হয় ১৯৫৭ সালে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>বাংলাদেশের সবচেয়ে গুরুত্বপূর্ণ খনিজ সম্পদ হলো – প্রাকৃতিক গ্যাস। প্রাকৃতিক গ্যাসের প্রধান উপাদান মিথেন। প্রাকৃতিক গ্যাস পেট্রোলিয়াম জাতীয় পদার্থ। এ পর্যন্ত বাংলাদেশে ২৮টি গ্যাস ক্ষেত্রে আবিষ্কৃত হয়েছে। বাংলাদেশে প্রথম গ্যাসক্ষেত্র আবিষ্কৃত হয় ১৯৫৫ সালে এবং উত্তোলন শুরু হয় ১৯৫৭ সালে।</div>\n</div>"
+    },
+    {
+      "id": 7,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "যুক্তরাষ্ট্রে ক্রীতদাস প্রথা বিলোপকারী প্রেসিডেন্টের নাম কি?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 7</h4>\n<p class=\"description\"><div>যুক্তরাষ্ট্রে ক্রীতদাস প্রথা বিলোপকারী প্রেসিডেন্টের নাম কি?</div>\n</p>\n</div>",
+      "options": {
+        "A": "জর্জ ওয়াশিংটন",
+        "B": "আব্রাহাম লিংকন",
+        "C": "রুজভেল্ট",
+        "D": "কেনেডি"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_7\">\n<span class=\"options_label question_a_7\">A</span>\n<input class=\"question\" id=\"question_a_7\" name=\"question_7\" type=\"radio\" value=\"A\"/>\n<span>জর্জ ওয়াশিংটন</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_7\">\n<span class=\"options_label question_b_7\">B</span>\n<input class=\"question\" id=\"question_b_7\" name=\"question_7\" type=\"radio\" value=\"B\"/>\n<span>আব্রাহাম লিংকন</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_7\">\n<span class=\"options_label question_c_7\">C</span>\n<input class=\"question\" id=\"question_c_7\" name=\"question_7\" type=\"radio\" value=\"C\"/>\n<span>রুজভেল্ট</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_7\">\n<span class=\"options_label question_d_7\">D</span>\n<input class=\"question\" id=\"question_d_7\" name=\"question_7\" type=\"radio\" value=\"D\"/>\n<span>কেনেডি</span>\n</label>\n</li>"
+      },
+      "correct_answer": "B",
+      "explanation_text": "যুক্তরাষ্ট্রের প্রেসিডেন্ট আব্রাহাম লিংকন ১৮৬৩ সালে ক্রীতদাস প্রথা বিলুপ্ত করেন। আব্রাহাম লিংকনের বিখ্যাত উক্তি হলো- “Democracy is the Government of the people by the people and for the people” এছাড়াও তিনি গেটিসবার্গ ভাষণ দিয়েছিলেন যা ছিল ২ মিনিট স্থায়ী। মার্কিন যুক্তরাষ্ট্রের প্রতিষ্ঠাতা জনক জর্জ ওয়াশিংটন। ‘নিউ ডিল’ ব্যবস্থার প্রবর্তক হলেন ফ্রাঙ্কলিন ডি রুজভেল্ট।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">যুক্তরাষ্ট্রের প্রেসিডেন্ট আব্রাহাম লিংকন ১৮৬৩ সালে ক্রীতদাস প্রথা বিলুপ্ত করেন। আব্রাহাম লিংকনের বিখ্যাত উক্তি হলো- “Democracy is the Government of the people by the people and for the people” এছাড়াও তিনি গেটিসবার্গ ভাষণ দিয়েছিলেন যা ছিল ২ মিনিট স্থায়ী। মার্কিন যুক্তরাষ্ট্রের প্রতিষ্ঠাতা জনক জর্জ ওয়াশিংটন। ‘নিউ ডিল’ ব্যবস্থার প্রবর্তক হলেন ফ্রাঙ্কলিন ডি রুজভেল্ট।</p>\n</div>"
+    },
+    {
+      "id": 8,
+      "canonical_subject": "GENERAL-SCIENCE",
+      "subject_info": {
+        "bn": "সাধারণ বিজ্ঞান",
+        "icon": "🔬",
+        "color": "#d97706"
+      },
+      "question_text": "বহুমূত্র রোগে কোন হরমোনের দরকার?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 8</h4>\n<p class=\"description\"><div>বহুমূত্র রোগে কোন হরমোনের দরকার?</div>\n</p>\n</div>",
+      "options": {
+        "A": "ইনসুলিন",
+        "B": "থাইরক্সিন",
+        "C": "এনড্রোজেন",
+        "D": "এস্ট্রোজেন"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_8\">\n<span class=\"options_label question_a_8\">A</span>\n<input class=\"question\" id=\"question_a_8\" name=\"question_8\" type=\"radio\" value=\"A\"/>\n<span>ইনসুলিন</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_8\">\n<span class=\"options_label question_b_8\">B</span>\n<input class=\"question\" id=\"question_b_8\" name=\"question_8\" type=\"radio\" value=\"B\"/>\n<span>থাইরক্সিন</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_8\">\n<span class=\"options_label question_c_8\">C</span>\n<input class=\"question\" id=\"question_c_8\" name=\"question_8\" type=\"radio\" value=\"C\"/>\n<span>এনড্রোজেন</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_8\">\n<span class=\"options_label question_d_8\">D</span>\n<input class=\"question\" id=\"question_d_8\" name=\"question_8\" type=\"radio\" value=\"D\"/>\n<span>এস্ট্রোজেন</span>\n</label>\n</li>"
+      },
+      "correct_answer": "A",
+      "explanation_text": "অগ্ন্যাশয়ের বিটা কোষ থেকে নিঃসৃত ইনসুলিন হরমোন রক্তে গ্লুকোজের পরিমাণ কমায়। রক্তে এই ইনসুলিন হরমোন কমে গেলে গ্লুকোজের পরিমাণ বেড়ে যায় যাকে হাইপারগ্লাইসেমিয়া বলে। এর ফলে ঘন ঘন ক্ষুধা, পিপাসা ও প্রস্রাবের চাপ লাগে যাকে ডায়াবেটিস বা বহুমূত্র রোগ বলে। এই রোগের জন্য ইনসুলিন হরমোন চামড়ার নিচে দেওয়া হয়।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>অগ্ন্যাশয়ের বিটা কোষ থেকে নিঃসৃত ইনসুলিন হরমোন রক্তে গ্লুকোজের পরিমাণ কমায়। রক্তে এই ইনসুলিন হরমোন কমে গেলে গ্লুকোজের পরিমাণ বেড়ে যায় যাকে হাইপারগ্লাইসেমিয়া বলে। এর ফলে ঘন ঘন ক্ষুধা, পিপাসা ও প্রস্রাবের চাপ লাগে যাকে ডায়াবেটিস বা বহুমূত্র রোগ বলে। এই রোগের জন্য ইনসুলিন হরমোন চামড়ার নিচে দেওয়া হয়।</div>\n</div>"
+    },
+    {
+      "id": 9,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশে একজন ভোটারের সর্বনিম্ন বয়স কত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 9</h4>\n<p class=\"description\"><div>বাংলাদেশে একজন ভোটারের সর্বনিম্ন বয়স কত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "১৬ বছর",
+        "B": "১৮ বছর",
+        "C": "২০ বছর",
+        "D": "২১ বছর"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_9\">\n<span class=\"options_label question_a_9\">A</span>\n<input class=\"question\" id=\"question_a_9\" name=\"question_9\" type=\"radio\" value=\"A\"/>\n<span>১৬ বছর</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_9\">\n<span class=\"options_label question_b_9\">B</span>\n<input class=\"question\" id=\"question_b_9\" name=\"question_9\" type=\"radio\" value=\"B\"/>\n<span>১৮ বছর</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_9\">\n<span class=\"options_label question_c_9\">C</span>\n<input class=\"question\" id=\"question_c_9\" name=\"question_9\" type=\"radio\" value=\"C\"/>\n<span>২০ বছর</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_9\">\n<span class=\"options_label question_d_9\">D</span>\n<input class=\"question\" id=\"question_d_9\" name=\"question_9\" type=\"radio\" value=\"D\"/>\n<span>২১ বছর</span>\n</label>\n</li>"
+      },
+      "correct_answer": "B",
+      "explanation_text": "বাংলাদেশের সংবিধানের ১২২(২) (খ) অনুচ্ছেদ অনুযায়ী বাংলাদেশের ভোটার হওয়ার সর্বনিম্ন বয়স ১৮ বছর। বাংলাদেশে সংসদ সদস্য হওয়ার ন্যূনতম বয়স ২৫ বছর এবং রাষ্ট্রপতি হওয়ার ন্যূনতম বয়স ৩৫ বছর।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>বাংলাদেশের সংবিধানের ১২২(২) (খ) অনুচ্ছেদ অনুযায়ী বাংলাদেশের ভোটার হওয়ার সর্বনিম্ন বয়স ১৮ বছর। বাংলাদেশে সংসদ সদস্য হওয়ার ন্যূনতম বয়স ২৫ বছর এবং রাষ্ট্রপতি হওয়ার ন্যূনতম বয়স ৩৫ বছর।</div>\n</div>"
+    },
+    {
+      "id": 10,
+      "canonical_subject": "GENERAL-SCIENCE",
+      "subject_info": {
+        "bn": "সাধারণ বিজ্ঞান",
+        "icon": "🔬",
+        "color": "#d97706"
+      },
+      "question_text": "গ্রিন হাউজ ইফেক্টের পরিণতিতে বাংলাদেশের সবচেয়ে গুরুতর ক্ষতি কি হবে?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 10</h4>\n<p class=\"description\"><div>গ্রিন হাউজ ইফেক্টের পরিণতিতে বাংলাদেশের সবচেয়ে গুরুতর ক্ষতি কি হবে?</div>\n</p>\n</div>",
+      "options": {
+        "A": "উত্তাপ অনেক বেড়ে যাবে",
+        "B": "বৃষ্টিপাত কমে যাবে",
+        "C": "নিম্নভূমি নিমজ্জিত হবে",
+        "D": "সাইক্লোনের প্রবণতা বাড়বে"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_10\">\n<span class=\"options_label question_a_10\">A</span>\n<input class=\"question\" id=\"question_a_10\" name=\"question_10\" type=\"radio\" value=\"A\"/>\n<span>উত্তাপ অনেক বেড়ে যাবে</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_10\">\n<span class=\"options_label question_b_10\">B</span>\n<input class=\"question\" id=\"question_b_10\" name=\"question_10\" type=\"radio\" value=\"B\"/>\n<span>বৃষ্টিপাত কমে যাবে</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_10\">\n<span class=\"options_label question_c_10\">C</span>\n<input class=\"question\" id=\"question_c_10\" name=\"question_10\" type=\"radio\" value=\"C\"/>\n<span>নিম্নভূমি নিমজ্জিত হবে</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_10\">\n<span class=\"options_label question_d_10\">D</span>\n<input class=\"question\" id=\"question_d_10\" name=\"question_10\" type=\"radio\" value=\"D\"/>\n<span>সাইক্লোনের প্রবণতা বাড়বে</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "গ্রিন হাউজের প্রভাবে পৃথিবীর তাপমাত্রা বৃদ্ধি পাচ্ছে। এর প্রভাবে আগামী ২০৩০ সাল নাগাদ বায়ুমণ্ডলে তাপমাত্রা বৃদ্ধিকারী গ্যাসের পরিমাণ দ্বিগুণ বৃদ্ধি পাবে। এর ফলে মেরু অঞ্চলের বরফ গলে যাবে এবং সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি পাবে। ফলে বাংলাদেশের সমুদ্র উপকূলবর্তী অঞ্চলের অধিকাংশ নিমজ্জিত হবে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>গ্রিন হাউজের প্রভাবে পৃথিবীর তাপমাত্রা বৃদ্ধি পাচ্ছে। এর প্রভাবে আগামী ২০৩০ সাল নাগাদ বায়ুমণ্ডলে তাপমাত্রা বৃদ্ধিকারী গ্যাসের পরিমাণ দ্বিগুণ বৃদ্ধি পাবে। এর ফলে মেরু অঞ্চলের বরফ গলে যাবে এবং সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি পাবে। ফলে বাংলাদেশের সমুদ্র উপকূলবর্তী অঞ্চলের অধিকাংশ নিমজ্জিত হবে।</div>\n</div>"
+    },
+    {
+      "id": 11,
+      "canonical_subject": "GENERAL-SCIENCE",
+      "subject_info": {
+        "bn": "সাধারণ বিজ্ঞান",
+        "icon": "🔬",
+        "color": "#d97706"
+      },
+      "question_text": "ওজোন স্তরের ফাটলের জন্য মুখ্যত দায়ী কোন গ্যাস?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 11</h4>\n<p class=\"description\"><div>ওজোন স্তরের ফাটলের জন্য মুখ্যত দায়ী কোন গ্যাস?</div>\n</p>\n</div>",
+      "options": {
+        "A": "ক্লোরোফ্লোরো কার্বন",
+        "B": "কার্বন মনোক্সাইড",
+        "C": "কার্বন ডাইঅক্সাইড",
+        "D": "মিথেন"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_11\">\n<span class=\"options_label question_a_11\">A</span>\n<input class=\"question\" id=\"question_a_11\" name=\"question_11\" type=\"radio\" value=\"A\"/>\n<span>ক্লোরোফ্লোরো কার্বন</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_11\">\n<span class=\"options_label question_b_11\">B</span>\n<input class=\"question\" id=\"question_b_11\" name=\"question_11\" type=\"radio\" value=\"B\"/>\n<span>কার্বন মনোক্সাইড</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_11\">\n<span class=\"options_label question_c_11\">C</span>\n<input class=\"question\" id=\"question_c_11\" name=\"question_11\" type=\"radio\" value=\"C\"/>\n<span>কার্বন ডাইঅক্সাইড</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_11\">\n<span class=\"options_label question_d_11\">D</span>\n<input class=\"question\" id=\"question_d_11\" name=\"question_11\" type=\"radio\" value=\"D\"/>\n<span>মিথেন</span>\n</label>\n</li>"
+      },
+      "correct_answer": "A",
+      "explanation_text": "ক্লোরোফ্লোরো কার্বন বায়ুমন্ডলের ওজোনস্তরে পৌঁছে ওজোনের সঙ্গে বিক্রিয়া করে অক্সিজেনে পরিণত করে \\({\\mathrm{(CFC+ O_3→O_2+…….)}}\\)। এর ফলে ওজোনস্তর হালকা বা ফুটো হয়ে যায়। এ ফাটল দিয়ে মহাজাগতিক বিভিন্ন রশ্মি পৃথিবীতে এসে জীবজগতের ক্ষতিসাধন করে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>ক্লোরোফ্লোরো কার্বন বায়ুমন্ডলের ওজোনস্তরে পৌঁছে ওজোনের সঙ্গে বিক্রিয়া করে অক্সিজেনে পরিণত করে \\({\\mathrm{(CFC+ O_3→O_2+…….)}}\\)। এর ফলে ওজোনস্তর হালকা বা ফুটো হয়ে যায়। এ ফাটল দিয়ে মহাজাগতিক বিভিন্ন রশ্মি পৃথিবীতে এসে জীবজগতের ক্ষতিসাধন করে।</div>\n</div>"
+    },
+    {
+      "id": 12,
+      "canonical_subject": "GEOGRAPHY",
+      "subject_info": {
+        "bn": "ভূগোল ও দুর্যোগ ব্যবস্থাপনা",
+        "icon": "🗺️",
+        "color": "#0d9488"
+      },
+      "question_text": "কোনো দেশের পরিবেশের ভারসাম্য রক্ষার জন্য বনাঞ্চল প্রয়োজন মোট ভূমির–",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 12</h4>\n<p class=\"description\"><div>কোনো দেশের পরিবেশের ভারসাম্য রক্ষার জন্য বনাঞ্চল প্রয়োজন মোট ভূমির–</div>\n</p>\n</div>",
+      "options": {
+        "A": "১৬ শতাংশ",
+        "B": "২০ শতাংশ",
+        "C": "২৫ শতাংশ",
+        "D": "৩০ শতাংশ"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_12\">\n<span class=\"options_label question_a_12\">A</span>\n<input class=\"question\" id=\"question_a_12\" name=\"question_12\" type=\"radio\" value=\"A\"/>\n<span>১৬ শতাংশ</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_12\">\n<span class=\"options_label question_b_12\">B</span>\n<input class=\"question\" id=\"question_b_12\" name=\"question_12\" type=\"radio\" value=\"B\"/>\n<span>২০ শতাংশ</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_12\">\n<span class=\"options_label question_c_12\">C</span>\n<input class=\"question\" id=\"question_c_12\" name=\"question_12\" type=\"radio\" value=\"C\"/>\n<span>২৫ শতাংশ</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_12\">\n<span class=\"options_label question_d_12\">D</span>\n<input class=\"question\" id=\"question_d_12\" name=\"question_12\" type=\"radio\" value=\"D\"/>\n<span>৩০ শতাংশ</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "পরিবেশ বিশেষজ্ঞদের মত অনুসারে, যেকোনো দেশের ভারসাম্য রক্ষার জন্য মোট ভূমির ২৫% বনভূমি থাকা আবশ্যক। বর্তমানে বাংলাদেশে বনভূমির পরিমাণ সরকারি হিসাব অনুযায়ী ১৭.০৮% (প্রায়)। FAO-এর মতে বাংলাদেশে বনভূমি রয়েছে মোট ভূমির ১১% (প্রায়)।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>পরিবেশ বিশেষজ্ঞদের মত অনুসারে, যেকোনো দেশের ভারসাম্য রক্ষার জন্য মোট ভূমির ২৫% বনভূমি থাকা আবশ্যক। বর্তমানে বাংলাদেশে বনভূমির পরিমাণ সরকারি হিসাব অনুযায়ী ১৭.০৮% (প্রায়)। FAO-এর মতে বাংলাদেশে বনভূমি রয়েছে মোট ভূমির ১১% (প্রায়)।</div>\n</div>"
+    },
+    {
+      "id": 13,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশে শহীদ বুদ্ধিজীবী দিবস-",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 13</h4>\n<p class=\"description\"><div>বাংলাদেশে শহীদ বুদ্ধিজীবী দিবস-</div>\n</p>\n</div>",
+      "options": {
+        "A": "১৪ ডিসেম্বর",
+        "B": "১৬ ডিসেম্বর",
+        "C": "২১ ডিসেম্বর",
+        "D": "২৩ ডিসেম্বর"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_13\">\n<span class=\"options_label question_a_13\">A</span>\n<input class=\"question\" id=\"question_a_13\" name=\"question_13\" type=\"radio\" value=\"A\"/>\n<span>১৪ ডিসেম্বর</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_13\">\n<span class=\"options_label question_b_13\">B</span>\n<input class=\"question\" id=\"question_b_13\" name=\"question_13\" type=\"radio\" value=\"B\"/>\n<span>১৬ ডিসেম্বর</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_13\">\n<span class=\"options_label question_c_13\">C</span>\n<input class=\"question\" id=\"question_c_13\" name=\"question_13\" type=\"radio\" value=\"C\"/>\n<span>২১ ডিসেম্বর</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_13\">\n<span class=\"options_label question_d_13\">D</span>\n<input class=\"question\" id=\"question_d_13\" name=\"question_13\" type=\"radio\" value=\"D\"/>\n<span>২৩ ডিসেম্বর</span>\n</label>\n</li>"
+      },
+      "correct_answer": "A",
+      "explanation_text": "বাংলাদেশে মুক্তিযুদ্ধে বাঙালিদের জয় নিশ্চিত দেখে পাকবাহিনী ১৯৭১ সালের ১৪ ডিসেম্বর নির্বিচারে বহু বুদ্ধিজীবীকে হত্যা করে। তাই তাদের স্মরণে ১৪ ডিসেম্বরকে ‘শহিদ বুদ্ধিজীবী দিবস’ হিসাবে পালন করা হয়।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>বাংলাদেশে মুক্তিযুদ্ধে বাঙালিদের জয় নিশ্চিত দেখে পাকবাহিনী ১৯৭১ সালের ১৪ ডিসেম্বর নির্বিচারে বহু বুদ্ধিজীবীকে হত্যা করে। তাই তাদের স্মরণে ১৪ ডিসেম্বরকে ‘শহিদ বুদ্ধিজীবী দিবস’ হিসাবে পালন করা হয়।</div>\n</div>"
+    },
+    {
+      "id": 14,
+      "canonical_subject": "GENERAL-SCIENCE",
+      "subject_info": {
+        "bn": "সাধারণ বিজ্ঞান",
+        "icon": "🔬",
+        "color": "#d97706"
+      },
+      "question_text": "মানুষের ক্রোমোজোমের সংখ্যা কত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 14</h4>\n<p class=\"description\"><div>মানুষের ক্রোমোজোমের সংখ্যা কত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "২০ জোড়া",
+        "B": "২২ জোড়া",
+        "C": "২৩ জোড়া",
+        "D": "২৫ জোড়া"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_14\">\n<span class=\"options_label question_a_14\">A</span>\n<input class=\"question\" id=\"question_a_14\" name=\"question_14\" type=\"radio\" value=\"A\"/>\n<span>২০ জোড়া</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_14\">\n<span class=\"options_label question_b_14\">B</span>\n<input class=\"question\" id=\"question_b_14\" name=\"question_14\" type=\"radio\" value=\"B\"/>\n<span>২২ জোড়া</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_14\">\n<span class=\"options_label question_c_14\">C</span>\n<input class=\"question\" id=\"question_c_14\" name=\"question_14\" type=\"radio\" value=\"C\"/>\n<span>২৩ জোড়া</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_14\">\n<span class=\"options_label question_d_14\">D</span>\n<input class=\"question\" id=\"question_d_14\" name=\"question_14\" type=\"radio\" value=\"D\"/>\n<span>২৫ জোড়া</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "মানুষের ক্রোমোজোমের সংখ্যা ২৩ জোড়া। এর মধ্যে ২২ জোড়া’ ‘অটোজোম’ এবং ১ জোড়া ‘সেক্স ক্রোমোজোম’। সেক্স ক্রোমোজোম সন্তান-সন্ততির লিঙ্গ নির্ধারণ করে। মহিলাদের সেক্স ক্রোমোজোম XX এবং পুরুষের XY।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>মানুষের ক্রোমোজোমের সংখ্যা ২৩ জোড়া। এর মধ্যে ২২ জোড়া’ ‘অটোজোম’ এবং ১ জোড়া ‘সেক্স ক্রোমোজোম’। সেক্স ক্রোমোজোম সন্তান-সন্ততির লিঙ্গ নির্ধারণ করে। মহিলাদের সেক্স ক্রোমোজোম XX এবং পুরুষের XY।</div>\n</div>"
+    },
+    {
+      "id": 15,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "উত্তরা গণভবন কোথায় অবস্থিত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 15</h4>\n<p class=\"description\"><div>উত্তরা গণভবন কোথায় অবস্থিত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "রাজশাহী",
+        "B": "নওগাঁ",
+        "C": "বগুড়া",
+        "D": "নাটোর"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_15\">\n<span class=\"options_label question_a_15\">A</span>\n<input class=\"question\" id=\"question_a_15\" name=\"question_15\" type=\"radio\" value=\"A\"/>\n<span>রাজশাহী</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_15\">\n<span class=\"options_label question_b_15\">B</span>\n<input class=\"question\" id=\"question_b_15\" name=\"question_15\" type=\"radio\" value=\"B\"/>\n<span>নওগাঁ</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_15\">\n<span class=\"options_label question_c_15\">C</span>\n<input class=\"question\" id=\"question_c_15\" name=\"question_15\" type=\"radio\" value=\"C\"/>\n<span>বগুড়া</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_15\">\n<span class=\"options_label question_d_15\">D</span>\n<input class=\"question\" id=\"question_d_15\" name=\"question_15\" type=\"radio\" value=\"D\"/>\n<span>নাটোর</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "নাটোর জেলা শহর থেকে ২.৪ কিলোমিটার দূরে অবস্থিত দিঘাপাতিয়া মহারাজাদের বাসস্থান দিঘাপাতিয়া রাজবাড়ির বর্তমান নাম উত্তরা গণভবন।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">নাটোর জেলা শহর থেকে ২.৪ কিলোমিটার দূরে অবস্থিত দিঘাপাতিয়া মহারাজাদের বাসস্থান দিঘাপাতিয়া রাজবাড়ির বর্তমান নাম উত্তরা গণভবন।</p>\n</div>"
+    },
+    {
+      "id": 16,
+      "canonical_subject": "BANGLA",
+      "subject_info": {
+        "bn": "বাংলা ভাষা ও সাহিত্য",
+        "icon": "📚",
+        "color": "#2563eb"
+      },
+      "question_text": "‘বিদ্রোহী’ কবিতাটি কবি নজরুল ইসলামের কোন কাব্যগ্রন্থের অন্তর্গত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 16</h4>\n<p class=\"description\"><div>‘বিদ্রোহী’ কবিতাটি কবি নজরুল ইসলামের কোন কাব্যগ্রন্থের অন্তর্গত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "অগ্নিবীণা",
+        "B": "বিষের বাঁশি",
+        "C": "দোলন চাঁপা",
+        "D": "বাঁধনহারা"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_16\">\n<span class=\"options_label question_a_16\">A</span>\n<input class=\"question\" id=\"question_a_16\" name=\"question_16\" type=\"radio\" value=\"A\"/>\n<span>অগ্নিবীণা</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_16\">\n<span class=\"options_label question_b_16\">B</span>\n<input class=\"question\" id=\"question_b_16\" name=\"question_16\" type=\"radio\" value=\"B\"/>\n<span>বিষের বাঁশি</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_16\">\n<span class=\"options_label question_c_16\">C</span>\n<input class=\"question\" id=\"question_c_16\" name=\"question_16\" type=\"radio\" value=\"C\"/>\n<span>দোলন চাঁপা</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_16\">\n<span class=\"options_label question_d_16\">D</span>\n<input class=\"question\" id=\"question_d_16\" name=\"question_16\" type=\"radio\" value=\"D\"/>\n<span>বাঁধনহারা</span>\n</label>\n</li>"
+      },
+      "correct_answer": "A",
+      "explanation_text": "১৯২২ সালে প্রকাশিত ‘অগ্নিবীণা’ কাজী নজরুল ইসলাম রচিত প্রথম কাব্যগ্রন্হ। এই গ্রন্থে ১২টি কবিতা সংকলিত হয়েছে। যথা- প্রলয়োল্লাস, বিদ্রোহী, রক্তাম্বরধারিণী মা, আগমনী, ধূমকেতু, কামালপাশা, আনোয়ার, রণভেরী, সাত-ইল-আরব, খেয়াপারের তরণী, কোরবানী ও মোহররম।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>১৯২২ সালে প্রকাশিত ‘অগ্নিবীণা’ কাজী নজরুল ইসলাম রচিত প্রথম কাব্যগ্রন্হ। এই গ্রন্থে ১২টি কবিতা সংকলিত হয়েছে। যথা- প্রলয়োল্লাস, বিদ্রোহী, রক্তাম্বরধারিণী মা, আগমনী, ধূমকেতু, কামালপাশা, আনোয়ার, রণভেরী, সাত-ইল-আরব, খেয়াপারের তরণী, কোরবানী ও মোহররম।</div>\n</div>"
+    },
+    {
+      "id": 17,
+      "canonical_subject": "GENERAL-SCIENCE",
+      "subject_info": {
+        "bn": "সাধারণ বিজ্ঞান",
+        "icon": "🔬",
+        "color": "#d97706"
+      },
+      "question_text": "কোন জারক রস পাকস্থলীতে দুগ্ধ জমাট বাঁধায়?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 17</h4>\n<p class=\"description\"><div>কোন জারক রস পাকস্থলীতে দুগ্ধ জমাট বাঁধায়?</div>\n</p>\n</div>",
+      "options": {
+        "A": "পেপসিন",
+        "B": "এমাইলেজ",
+        "C": "রেনিন",
+        "D": "ট্রিপসিন"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_17\">\n<span class=\"options_label question_a_17\">A</span>\n<input class=\"question\" id=\"question_a_17\" name=\"question_17\" type=\"radio\" value=\"A\"/>\n<span>পেপসিন</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_17\">\n<span class=\"options_label question_b_17\">B</span>\n<input class=\"question\" id=\"question_b_17\" name=\"question_17\" type=\"radio\" value=\"B\"/>\n<span>এমাইলেজ</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_17\">\n<span class=\"options_label question_c_17\">C</span>\n<input class=\"question\" id=\"question_c_17\" name=\"question_17\" type=\"radio\" value=\"C\"/>\n<span>রেনিন</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_17\">\n<span class=\"options_label question_d_17\">D</span>\n<input class=\"question\" id=\"question_d_17\" name=\"question_17\" type=\"radio\" value=\"D\"/>\n<span>ট্রিপসিন</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "পাকস্থলীতে বিদ্যমান রেনিন এনজাইম দুগ্ধ প্রোটিন কেসিনকে প্যারাকেসিনে পরিণত করে। এর ফলে দুধ জমাট বাঁধে। ‘ট্রিপসিন’ এবং ‘পেপসিন’ নামক এনজাইম প্রোটিন পরিপাকে এবং ‘এমাইলেজ’ কার্বোহাইড্রেট পরিপাকে সহায়তা করে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>পাকস্থলীতে বিদ্যমান রেনিন এনজাইম দুগ্ধ প্রোটিন কেসিনকে প্যারাকেসিনে পরিণত করে। এর ফলে দুধ জমাট বাঁধে। ‘ট্রিপসিন’ এবং ‘পেপসিন’ নামক এনজাইম প্রোটিন পরিপাকে এবং ‘এমাইলেজ’ কার্বোহাইড্রেট পরিপাকে সহায়তা করে।</div>\n</div>"
+    },
+    {
+      "id": 18,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "১৯৯৮ বিশ্বকাপ ফুটবলে গোল্ডেন বুট পান কে?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 18</h4>\n<p class=\"description\"><div>১৯৯৮ বিশ্বকাপ ফুটবলে গোল্ডেন বুট পান কে?</div>\n</p>\n</div>",
+      "options": {
+        "A": "রোনালদো",
+        "B": "জিদান",
+        "C": "সুকের",
+        "D": "বেবেতা"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_18\">\n<span class=\"options_label question_a_18\">A</span>\n<input class=\"question\" id=\"question_a_18\" name=\"question_18\" type=\"radio\" value=\"A\"/>\n<span>রোনালদো</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_18\">\n<span class=\"options_label question_b_18\">B</span>\n<input class=\"question\" id=\"question_b_18\" name=\"question_18\" type=\"radio\" value=\"B\"/>\n<span>জিদান</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_18\">\n<span class=\"options_label question_c_18\">C</span>\n<input class=\"question\" id=\"question_c_18\" name=\"question_18\" type=\"radio\" value=\"C\"/>\n<span>সুকের</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_18\">\n<span class=\"options_label question_d_18\">D</span>\n<input class=\"question\" id=\"question_d_18\" name=\"question_18\" type=\"radio\" value=\"D\"/>\n<span>বেবেতা</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "সর্বশেষ ২০২২ বিশ্বকাপে গোল্ডেন বুট পান সর্বোচ্চ ৮ গোলদাতা ফ্রান্সের কিলিয়ান এমবাপ্পে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">সর্বশেষ ২০২২ বিশ্বকাপে গোল্ডেন বুট পান সর্বোচ্চ ৮ গোলদাতা ফ্রান্সের কিলিয়ান এমবাপ্পে।</p>\n</div>"
+    },
+    {
+      "id": 19,
+      "canonical_subject": "GENERAL-SCIENCE",
+      "subject_info": {
+        "bn": "সাধারণ বিজ্ঞান",
+        "icon": "🔬",
+        "color": "#d97706"
+      },
+      "question_text": "বিশ্ব খাদ্য ও কৃষি সংস্থার সদর দপ্তর কোথায় অবস্থিত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 19</h4>\n<p class=\"description\"><div>বিশ্ব খাদ্য ও কৃষি সংস্থার সদর দপ্তর কোথায় অবস্থিত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "জেনেভা",
+        "B": "প্যারিস",
+        "C": "লন্ডন",
+        "D": "রোম"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_19\">\n<span class=\"options_label question_a_19\">A</span>\n<input class=\"question\" id=\"question_a_19\" name=\"question_19\" type=\"radio\" value=\"A\"/>\n<span>জেনেভা</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_19\">\n<span class=\"options_label question_b_19\">B</span>\n<input class=\"question\" id=\"question_b_19\" name=\"question_19\" type=\"radio\" value=\"B\"/>\n<span>প্যারিস</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_19\">\n<span class=\"options_label question_c_19\">C</span>\n<input class=\"question\" id=\"question_c_19\" name=\"question_19\" type=\"radio\" value=\"C\"/>\n<span>লন্ডন</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_19\">\n<span class=\"options_label question_d_19\">D</span>\n<input class=\"question\" id=\"question_d_19\" name=\"question_19\" type=\"radio\" value=\"D\"/>\n<span>রোম</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "১৯৪৫ সালের ১৬ অক্টোবর কুইবেকে অনুষ্ঠিত এক সম্মেলনে জাতিসংঘ খাদ্য ও কৃষি সংস্থা (FAO) প্রতিষ্ঠিত হয়। এর সদর দপ্তর ইতালির রোমে এবং সদস্য রাষ্ট্র ১৯৪টি।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>১৯৪৫ সালের ১৬ অক্টোবর কুইবেকে অনুষ্ঠিত এক সম্মেলনে জাতিসংঘ খাদ্য ও কৃষি সংস্থা (FAO) প্রতিষ্ঠিত হয়। এর সদর দপ্তর ইতালির রোমে এবং সদস্য রাষ্ট্র ১৯৪টি।</div>\n</div>"
+    },
+    {
+      "id": 20,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "‘আমার ভাইয়ের রক্তে রাঙ্গানো ২১শে ফেব্রুয়ারি’ গানের রচয়িতা কে?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 20</h4>\n<p class=\"description\"><div>‘আমার ভাইয়ের রক্তে রাঙ্গানো ২১শে ফেব্রুয়ারি’ গানের রচয়িতা কে?</div>\n</p>\n</div>",
+      "options": {
+        "A": "আব্দুল গাফ্ফার চৌধুরী",
+        "B": "আলতাফ মাহমুদ",
+        "C": "আব্দুল লতিফ",
+        "D": "আব্দুল আলীম"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_20\">\n<span class=\"options_label question_a_20\">A</span>\n<input class=\"question\" id=\"question_a_20\" name=\"question_20\" type=\"radio\" value=\"A\"/>\n<span>আব্দুল গাফ্ফার চৌধুরী</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_20\">\n<span class=\"options_label question_b_20\">B</span>\n<input class=\"question\" id=\"question_b_20\" name=\"question_20\" type=\"radio\" value=\"B\"/>\n<span>আলতাফ মাহমুদ</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_20\">\n<span class=\"options_label question_c_20\">C</span>\n<input class=\"question\" id=\"question_c_20\" name=\"question_20\" type=\"radio\" value=\"C\"/>\n<span>আব্দুল লতিফ</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_20\">\n<span class=\"options_label question_d_20\">D</span>\n<input class=\"question\" id=\"question_d_20\" name=\"question_20\" type=\"radio\" value=\"D\"/>\n<span>আব্দুল আলীম</span>\n</label>\n</li>"
+      },
+      "correct_answer": "A",
+      "explanation_text": "গানটির (একুশে ফেব্রুয়ারি) গীতিকার/রচয়িতা আব্দুল গাফ্‌ফার চৌধুরী (১৯৩৪-২০২২)। তিনি একাধারে সাংবাদিক ও লেখক ছিলেন। ভাষা আন্দোলনের প্রথম প্রকাশিত লিফলেটে এটি ‘একুশের গান’ শিরোনামে প্রকাশিত হয়। বিখ্যাত এ গানটি প্রথম প্রকাশিত হয় হাসান হাফিজুর রহমান সম্পাদিত ‘একুশে ফেব্রুয়ারি’ (১৯৫৩) গ্রন্থে। আবদুল গাফফার চৌধুরী রচিত উপন্যাস- চন্দ্রদ্বীপের উপাখ্যান, নাম না জানা ভোর, নীল যমুনা ও শেষ রজনীর চাঁদ। তাঁর সম্পাদিত গ্রন্থ- বাংলাদেশ কথা কয়, ডানপিটে শওকত (শিশুতোষ)।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">গানটির (একুশে ফেব্রুয়ারি) গীতিকার/রচয়িতা আব্দুল গাফ্‌ফার চৌধুরী (১৯৩৪-২০২২)। তিনি একাধারে সাংবাদিক ও লেখক ছিলেন। ভাষা আন্দোলনের প্রথম প্রকাশিত লিফলেটে এটি ‘একুশের গান’ শিরোনামে প্রকাশিত হয়। বিখ্যাত এ গানটি প্রথম প্রকাশিত হয় হাসান হাফিজুর রহমান সম্পাদিত ‘একুশে ফেব্রুয়ারি’ (১৯৫৩) গ্রন্থে। আবদুল গাফফার চৌধুরী রচিত উপন্যাস- চন্দ্রদ্বীপের উপাখ্যান, নাম না জানা ভোর, নীল যমুনা ও শেষ রজনীর চাঁদ। তাঁর সম্পাদিত গ্রন্থ- বাংলাদেশ কথা কয়, ডানপিটে শওকত (শিশুতোষ)।</p>\n</div>"
+    },
+    {
+      "id": 21,
+      "canonical_subject": "BANGLA",
+      "subject_info": {
+        "bn": "বাংলা ভাষা ও সাহিত্য",
+        "icon": "📚",
+        "color": "#2563eb"
+      },
+      "question_text": "রবীন্দ্রনাথ ঠাকুরের ছদ্মনাম হলো-",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 21</h4>\n<p class=\"description\"><div>রবীন্দ্রনাথ ঠাকুরের ছদ্মনাম হলো-</div>\n</p>\n</div>",
+      "options": {
+        "A": "পরশুরাম",
+        "B": "নীললোহিত",
+        "C": "ভানুসিংহ ঠাকুর",
+        "D": "গাজী মিয়া"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_21\">\n<span class=\"options_label question_a_21\">A</span>\n<input class=\"question\" id=\"question_a_21\" name=\"question_21\" type=\"radio\" value=\"A\"/>\n<span>পরশুরাম</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_21\">\n<span class=\"options_label question_b_21\">B</span>\n<input class=\"question\" id=\"question_b_21\" name=\"question_21\" type=\"radio\" value=\"B\"/>\n<span>নীললোহিত</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_21\">\n<span class=\"options_label question_c_21\">C</span>\n<input class=\"question\" id=\"question_c_21\" name=\"question_21\" type=\"radio\" value=\"C\"/>\n<span>ভানুসিংহ ঠাকুর</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_21\">\n<span class=\"options_label question_d_21\">D</span>\n<input class=\"question\" id=\"question_d_21\" name=\"question_21\" type=\"radio\" value=\"D\"/>\n<span>গাজী মিয়া</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div><img src=\"/media/Images/Question/19th-bcs/2.jpg\"/></div>\n</div>"
+    },
+    {
+      "id": 22,
+      "canonical_subject": "BANGLA",
+      "subject_info": {
+        "bn": "বাংলা ভাষা ও সাহিত্য",
+        "icon": "📚",
+        "color": "#2563eb"
+      },
+      "question_text": "‘দ্য লিবারেশন অব বাংলাদেশ’ গ্রন্থের রচয়িতা-",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 22</h4>\n<p class=\"description\"><div>‘দ্য লিবারেশন অব বাংলাদেশ’ গ্রন্থের রচয়িতা-</div>\n</p>\n</div>",
+      "options": {
+        "A": "রফিকুল ইসলাম",
+        "B": "রশীদ করিম",
+        "C": "মেজর জেনারেল সুখওয়ান্ত সিং",
+        "D": "কর্নেল সিদ্দিক মালিক"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_22\">\n<span class=\"options_label question_a_22\">A</span>\n<input class=\"question\" id=\"question_a_22\" name=\"question_22\" type=\"radio\" value=\"A\"/>\n<span>রফিকুল ইসলাম</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_22\">\n<span class=\"options_label question_b_22\">B</span>\n<input class=\"question\" id=\"question_b_22\" name=\"question_22\" type=\"radio\" value=\"B\"/>\n<span>রশীদ করিম</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_22\">\n<span class=\"options_label question_c_22\">C</span>\n<input class=\"question\" id=\"question_c_22\" name=\"question_22\" type=\"radio\" value=\"C\"/>\n<span>মেজর জেনারেল সুখওয়ান্ত সিং</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_22\">\n<span class=\"options_label question_d_22\">D</span>\n<input class=\"question\" id=\"question_d_22\" name=\"question_22\" type=\"radio\" value=\"D\"/>\n<span>কর্নেল সিদ্দিক মালিক</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "১৯৭৮ সালে প্রকাশিত ভারতীয় সেনাবাহিনীর মেজর জেনারেল সুখওয়ান্ত সিং ইংরেজি ভাষার ‘The Liberation of Bangladesh’ গ্রন্হটি রচনা করেন।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>১৯৭৮ সালে প্রকাশিত ভারতীয় সেনাবাহিনীর মেজর জেনারেল সুখওয়ান্ত সিং ইংরেজি ভাষার ‘The Liberation of Bangladesh’ গ্রন্হটি রচনা করেন।</div>\n</div>"
+    },
+    {
+      "id": 23,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাগেরহাটে খান জাহান আলীর প্রতিষ্ঠিত মসজিদটি কত গম্বুজ বিশিষ্ট?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 23</h4>\n<p class=\"description\"><div>বাগেরহাটে খান জাহান আলীর প্রতিষ্ঠিত মসজিদটি কত গম্বুজ বিশিষ্ট?</div>\n</p>\n</div>",
+      "options": {
+        "A": "আশি",
+        "B": "একাশি",
+        "C": "ষাট",
+        "D": "চৌষট্টি"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_23\">\n<span class=\"options_label question_a_23\">A</span>\n<input class=\"question\" id=\"question_a_23\" name=\"question_23\" type=\"radio\" value=\"A\"/>\n<span>আশি</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_23\">\n<span class=\"options_label question_b_23\">B</span>\n<input class=\"question\" id=\"question_b_23\" name=\"question_23\" type=\"radio\" value=\"B\"/>\n<span>একাশি</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_23\">\n<span class=\"options_label question_c_23\">C</span>\n<input class=\"question\" id=\"question_c_23\" name=\"question_23\" type=\"radio\" value=\"C\"/>\n<span>ষাট</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_23\">\n<span class=\"options_label question_d_23\">D</span>\n<input class=\"question\" id=\"question_d_23\" name=\"question_23\" type=\"radio\" value=\"D\"/>\n<span>চৌষট্টি</span>\n</label>\n</li>"
+      },
+      "correct_answer": "B",
+      "explanation_text": "বাগেরহাটের ষাটগম্বুজ মসজিদটি সুলতানি আমলে নির্মিত। খান জাহান আলী কর্তৃক মসজিদটি নির্মিত হয়। বাংলাদেশের প্রাচীন আমলের মসজিদগুলোর মধ্যে এটি বৃহত্তম। ‘ষাটগম্বুজ’ নাম হলেও এ মসজিদের গম্বুজসংখ্যা ৮১টি। ওপরে ৭৭টি এবং চারকোণে ৪টি।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>বাগেরহাটের ষাটগম্বুজ মসজিদটি সুলতানি আমলে নির্মিত। খান জাহান আলী কর্তৃক মসজিদটি নির্মিত হয়। বাংলাদেশের প্রাচীন আমলের মসজিদগুলোর মধ্যে এটি বৃহত্তম। ‘ষাটগম্বুজ’ নাম হলেও এ মসজিদের গম্বুজসংখ্যা ৮১টি। ওপরে ৭৭টি এবং চারকোণে ৪টি।</div>\n</div>"
+    },
+    {
+      "id": 24,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "স্বাধীনতা যুদ্ধের সময় বাংলাদেশ কতগুলো সেক্টরে বিভক্ত ছিল?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 24</h4>\n<p class=\"description\"><div>স্বাধীনতা যুদ্ধের সময় বাংলাদেশ কতগুলো সেক্টরে বিভক্ত ছিল?</div>\n</p>\n</div>",
+      "options": {
+        "A": "১৯টি",
+        "B": "৯টি",
+        "C": "৮টি",
+        "D": "১১টি"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_24\">\n<span class=\"options_label question_a_24\">A</span>\n<input class=\"question\" id=\"question_a_24\" name=\"question_24\" type=\"radio\" value=\"A\"/>\n<span>১৯টি</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_24\">\n<span class=\"options_label question_b_24\">B</span>\n<input class=\"question\" id=\"question_b_24\" name=\"question_24\" type=\"radio\" value=\"B\"/>\n<span>৯টি</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_24\">\n<span class=\"options_label question_c_24\">C</span>\n<input class=\"question\" id=\"question_c_24\" name=\"question_24\" type=\"radio\" value=\"C\"/>\n<span>৮টি</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_24\">\n<span class=\"options_label question_d_24\">D</span>\n<input class=\"question\" id=\"question_d_24\" name=\"question_24\" type=\"radio\" value=\"D\"/>\n<span>১১টি</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "মুক্তিযুদ্ধ চলাকালীন ৪ এপ্রিল সিলেটে মুক্তিফৌজ গঠিত হয় এবং ৯ এপ্রিল এর নামকরণ করা হয় মুক্তিবাহিনী। পরবর্তীতে জুলাই মাসে সেনাপতি এম.এ.জি ওসমানী প্রধানমন্ত্রী তাজউদ্দিন আহমদের পরামর্শে সমগ্র বাংলাদেশকে ১১টি সেক্টর ও ৩টি ব্রিগেডে ভাগ করেন।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>মুক্তিযুদ্ধ চলাকালীন ৪ এপ্রিল সিলেটে মুক্তিফৌজ গঠিত হয় এবং ৯ এপ্রিল এর নামকরণ করা হয় মুক্তিবাহিনী। পরবর্তীতে জুলাই মাসে সেনাপতি এম.এ.জি ওসমানী প্রধানমন্ত্রী তাজউদ্দিন আহমদের পরামর্শে সমগ্র বাংলাদেশকে ১১টি সেক্টর ও ৩টি ব্রিগেডে ভাগ করেন।</div>\n</div>"
+    },
+    {
+      "id": 25,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের জাতীয় পাখি-",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 25</h4>\n<p class=\"description\"><div>বাংলাদেশের জাতীয় পাখি-</div>\n</p>\n</div>",
+      "options": {
+        "A": "ময়না",
+        "B": "কাক",
+        "C": "শালিক",
+        "D": "দোয়েল"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_25\">\n<span class=\"options_label question_a_25\">A</span>\n<input class=\"question\" id=\"question_a_25\" name=\"question_25\" type=\"radio\" value=\"A\"/>\n<span>ময়না</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_25\">\n<span class=\"options_label question_b_25\">B</span>\n<input class=\"question\" id=\"question_b_25\" name=\"question_25\" type=\"radio\" value=\"B\"/>\n<span>কাক</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_25\">\n<span class=\"options_label question_c_25\">C</span>\n<input class=\"question\" id=\"question_c_25\" name=\"question_25\" type=\"radio\" value=\"C\"/>\n<span>শালিক</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_25\">\n<span class=\"options_label question_d_25\">D</span>\n<input class=\"question\" id=\"question_d_25\" name=\"question_25\" type=\"radio\" value=\"D\"/>\n<span>দোয়েল</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div><img src=\"/media/Images/Question/19th-bcs/3.jpg\"/></div>\n</div>"
+    },
+    {
+      "id": 26,
+      "canonical_subject": "GEOGRAPHY",
+      "subject_info": {
+        "bn": "ভূগোল ও দুর্যোগ ব্যবস্থাপনা",
+        "icon": "🗺️",
+        "color": "#0d9488"
+      },
+      "question_text": "রাজশাহীর উত্তরাংশ, বগুড়ার পশ্চিমাংশ, রংপুর ও দিনাজপুরের কিছু অংশ নিয়ে গঠিত-",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 26</h4>\n<p class=\"description\"><div>রাজশাহীর উত্তরাংশ, বগুড়ার পশ্চিমাংশ, রংপুর ও দিনাজপুরের কিছু অংশ নিয়ে গঠিত-</div>\n</p>\n</div>",
+      "options": {
+        "A": "পলল গঠিত সমভূমি",
+        "B": "বরেন্দ্রভূমি",
+        "C": "চলনবিল",
+        "D": "পাহাড়পুর"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_26\">\n<span class=\"options_label question_a_26\">A</span>\n<input class=\"question\" id=\"question_a_26\" name=\"question_26\" type=\"radio\" value=\"A\"/>\n<span>পলল গঠিত সমভূমি</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_26\">\n<span class=\"options_label question_b_26\">B</span>\n<input class=\"question\" id=\"question_b_26\" name=\"question_26\" type=\"radio\" value=\"B\"/>\n<span>বরেন্দ্রভূমি</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_26\">\n<span class=\"options_label question_c_26\">C</span>\n<input class=\"question\" id=\"question_c_26\" name=\"question_26\" type=\"radio\" value=\"C\"/>\n<span>চলনবিল</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_26\">\n<span class=\"options_label question_d_26\">D</span>\n<input class=\"question\" id=\"question_d_26\" name=\"question_26\" type=\"radio\" value=\"D\"/>\n<span>পাহাড়পুর</span>\n</label>\n</li>"
+      },
+      "correct_answer": "B",
+      "explanation_text": "বাংলাদেশে করতোয়া নদীর পশ্চিম তীরের লালমাটি সমৃদ্ধ অঞ্চলকে বরেন্দ্রভূমি বলা হয়। বৃহত্তর বগুড়া ও বৃহত্তর রাজশাহী জেলা এবং দিনাজপুরের দক্ষিণাংশ ও গাইবান্ধার পশ্চিম-দক্ষিণাংশ এর আওতায় পড়েছে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>বাংলাদেশে করতোয়া নদীর পশ্চিম তীরের লালমাটি সমৃদ্ধ অঞ্চলকে বরেন্দ্রভূমি বলা হয়। বৃহত্তর বগুড়া ও বৃহত্তর রাজশাহী জেলা এবং দিনাজপুরের দক্ষিণাংশ ও গাইবান্ধার পশ্চিম-দক্ষিণাংশ এর আওতায় পড়েছে।</div>\n</div>"
+    },
+    {
+      "id": 27,
+      "canonical_subject": "GEOGRAPHY",
+      "subject_info": {
+        "bn": "ভূগোল ও দুর্যোগ ব্যবস্থাপনা",
+        "icon": "🗺️",
+        "color": "#0d9488"
+      },
+      "question_text": "বাংলাদেশের বনাঞ্চলের পরিমাণ মোট ভূমির কত শতাংশ?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 27</h4>\n<p class=\"description\"><div>বাংলাদেশের বনাঞ্চলের পরিমাণ মোট ভূমির কত শতাংশ?</div>\n</p>\n</div>",
+      "options": {
+        "A": "১৯ শতাংশ",
+        "B": "১২ শতাংশ",
+        "C": "১৬ শতাংশ",
+        "D": "৯ শতাংশ"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_27\">\n<span class=\"options_label question_a_27\">A</span>\n<input class=\"question\" id=\"question_a_27\" name=\"question_27\" type=\"radio\" value=\"A\"/>\n<span>১৯ শতাংশ</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_27\">\n<span class=\"options_label question_b_27\">B</span>\n<input class=\"question\" id=\"question_b_27\" name=\"question_27\" type=\"radio\" value=\"B\"/>\n<span>১২ শতাংশ</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_27\">\n<span class=\"options_label question_c_27\">C</span>\n<input class=\"question\" id=\"question_c_27\" name=\"question_27\" type=\"radio\" value=\"C\"/>\n<span>১৬ শতাংশ</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_27\">\n<span class=\"options_label question_d_27\">D</span>\n<input class=\"question\" id=\"question_d_27\" name=\"question_27\" type=\"radio\" value=\"D\"/>\n<span>৯ শতাংশ</span>\n</label>\n</li>"
+      },
+      "correct_answer": "",
+      "explanation_text": "পরিবেশ বিশেষজ্ঞদের মত অনুসারে যেকোনো দেশের ভারসাম্য রক্ষার জন্য মোট ভূমির ২৫% বনভূমি থাকা আবশ্যক। বন অধিদপ্তরের তথ্যানুযায়ী, বর্তমানে বাংলাদেশের মোট আয়তনের ১৫.৫৮ শতাংশ বনভূমি রয়েছে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">পরিবেশ বিশেষজ্ঞদের মত অনুসারে যেকোনো দেশের ভারসাম্য রক্ষার জন্য মোট ভূমির ২৫% বনভূমি থাকা আবশ্যক। বন অধিদপ্তরের তথ্যানুযায়ী, বর্তমানে বাংলাদেশের মোট আয়তনের ১৫.৫৮ শতাংশ বনভূমি রয়েছে।</p>\n</div>"
+    },
+    {
+      "id": 28,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বঙ্গবন্ধু সেতুর দৈর্ঘ্য –",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 28</h4>\n<p class=\"description\"><div>বঙ্গবন্ধু সেতুর দৈর্ঘ্য –</div>\n</p>\n</div>",
+      "options": {
+        "A": "৪.৮ কি.মি.",
+        "B": "৭.২ কি.মি.",
+        "C": "৬ কি.মি.",
+        "D": "৬.২ কি.মি."
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_28\">\n<span class=\"options_label question_a_28\">A</span>\n<input class=\"question\" id=\"question_a_28\" name=\"question_28\" type=\"radio\" value=\"A\"/>\n<span>৪.৮ কি.মি.</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_28\">\n<span class=\"options_label question_b_28\">B</span>\n<input class=\"question\" id=\"question_b_28\" name=\"question_28\" type=\"radio\" value=\"B\"/>\n<span>৭.২ কি.মি.</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_28\">\n<span class=\"options_label question_c_28\">C</span>\n<input class=\"question\" id=\"question_c_28\" name=\"question_28\" type=\"radio\" value=\"C\"/>\n<span>৬ কি.মি.</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_28\">\n<span class=\"options_label question_d_28\">D</span>\n<input class=\"question\" id=\"question_d_28\" name=\"question_28\" type=\"radio\" value=\"D\"/>\n<span>৬.২ কি.মি.</span>\n</label>\n</li>"
+      },
+      "correct_answer": "A",
+      "explanation_text": "নির্মাণাধীন দীর্ঘতম পদ্মা সেতুর পর বাংলাদেশের দীর্ঘতম সেতু বঙ্গবন্ধু সেতু। যমুনা নদীর উপর নির্মিত এই সেতুর দৈর্ঘ্য ৪.৮ কি.মি. ও প্রস্থ ১৮.৫ মি.। সড়ক ও রেলপথ দুটোর সমন্বয়ে নির্মিত এ সেতুর স্প্যান সংখ্যা ৪৯টি এবং পিলার ৫০ টি।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>নির্মাণাধীন দীর্ঘতম পদ্মা সেতুর পর বাংলাদেশের দীর্ঘতম সেতু বঙ্গবন্ধু সেতু। যমুনা নদীর উপর নির্মিত এই সেতুর দৈর্ঘ্য ৪.৮ কি.মি. ও প্রস্থ ১৮.৫ মি.। সড়ক ও রেলপথ দুটোর সমন্বয়ে নির্মিত এ সেতুর স্প্যান সংখ্যা ৪৯টি এবং পিলার ৫০ টি।</div>\n</div>"
+    },
+    {
+      "id": 29,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের নৌ-বাহিনীর প্রতীক কি?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 29</h4>\n<p class=\"description\"><div>বাংলাদেশের নৌ-বাহিনীর প্রতীক কি?</div>\n</p>\n</div>",
+      "options": {
+        "A": "বলাকা",
+        "B": "শাপলা",
+        "C": "নৌকা",
+        "D": "রনতরী"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_29\">\n<span class=\"options_label question_a_29\">A</span>\n<input class=\"question\" id=\"question_a_29\" name=\"question_29\" type=\"radio\" value=\"A\"/>\n<span>বলাকা</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_29\">\n<span class=\"options_label question_b_29\">B</span>\n<input class=\"question\" id=\"question_b_29\" name=\"question_29\" type=\"radio\" value=\"B\"/>\n<span>শাপলা</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_29\">\n<span class=\"options_label question_c_29\">C</span>\n<input class=\"question\" id=\"question_c_29\" name=\"question_29\" type=\"radio\" value=\"C\"/>\n<span>নৌকা</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_29\">\n<span class=\"options_label question_d_29\">D</span>\n<input class=\"question\" id=\"question_d_29\" name=\"question_29\" type=\"radio\" value=\"D\"/>\n<span>রনতরী</span>\n</label>\n</li>"
+      },
+      "correct_answer": "",
+      "explanation_text": "বাংলাদেশ নৌবাহিনীর প্রতীক কাছিবেষ্টিত নোঙর ও এর উপর শাপলা। শাপলা বাংলাদেশের জাতীয় ফুল। বিমান বাংলাদেশ এয়ারলাইন্সের প্রতীক উদীয়মান সূর্যের মধ্যে উড়ন্ত বলাকা।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">বাংলাদেশ নৌবাহিনীর প্রতীক কাছিবেষ্টিত নোঙর ও এর উপর শাপলা। শাপলা বাংলাদেশের জাতীয় ফুল। বিমান বাংলাদেশ এয়ারলাইন্সের প্রতীক উদীয়মান সূর্যের মধ্যে উড়ন্ত বলাকা।</p>\n</div>"
+    },
+    {
+      "id": 30,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের লোকশিল্প জাদুঘর কোথায় অবস্থিত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 30</h4>\n<p class=\"description\"><div>বাংলাদেশের লোকশিল্প জাদুঘর কোথায় অবস্থিত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "ময়মনসিংহে",
+        "B": "বগুড়ায়",
+        "C": "সোনারগাঁওয়ে",
+        "D": "রাঙামাটিতে"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_30\">\n<span class=\"options_label question_a_30\">A</span>\n<input class=\"question\" id=\"question_a_30\" name=\"question_30\" type=\"radio\" value=\"A\"/>\n<span>ময়মনসিংহে</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_30\">\n<span class=\"options_label question_b_30\">B</span>\n<input class=\"question\" id=\"question_b_30\" name=\"question_30\" type=\"radio\" value=\"B\"/>\n<span>বগুড়ায়</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_30\">\n<span class=\"options_label question_c_30\">C</span>\n<input class=\"question\" id=\"question_c_30\" name=\"question_30\" type=\"radio\" value=\"C\"/>\n<span>সোনারগাঁওয়ে</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_30\">\n<span class=\"options_label question_d_30\">D</span>\n<input class=\"question\" id=\"question_d_30\" name=\"question_30\" type=\"radio\" value=\"D\"/>\n<span>রাঙামাটিতে</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "বাংলাদেশের লোকশিল্পের অতীত কীর্তিসমূহ- নক্‌শী কাঁথা, মাটির পাত্র, বেত, কাঁসা, মসলিন বস্ত্র, তৈজসপত্র ইত্যাদি সংরক্ষণের জন্য নারায়ণগঞ্জ জেলার সোনারগাঁওয়ে লোকশিল্প জাদুঘর স্থাপন করা হয়েছে। ১৯৯৬ সালের ৬ অক্টোবর সোনারগাঁও লোক ও কারুশিল্প ফাউন্ডেশনের নাম পরিবর্তন করে ‘শিল্পাচার্য জয়নুল আবেদিন’ জাদুঘর করা হয়েছে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>বাংলাদেশের লোকশিল্পের অতীত কীর্তিসমূহ- নক্‌শী কাঁথা, মাটির পাত্র, বেত, কাঁসা, মসলিন বস্ত্র, তৈজসপত্র ইত্যাদি সংরক্ষণের জন্য নারায়ণগঞ্জ জেলার সোনারগাঁওয়ে লোকশিল্প জাদুঘর স্থাপন করা হয়েছে। ১৯৯৬ সালের ৬ অক্টোবর সোনারগাঁও লোক ও কারুশিল্প ফাউন্ডেশনের নাম পরিবর্তন করে ‘শিল্পাচার্য জয়নুল আবেদিন’ জাদুঘর করা হয়েছে।</div>\n</div>"
+    },
+    {
+      "id": 31,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "কসোভো কোথায় অবস্থিত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 31</h4>\n<p class=\"description\"><div>কসোভো কোথায় অবস্থিত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "আলবেনিয়ায়",
+        "B": "সার্বিয়ায়",
+        "C": "রুমানিয়ায়",
+        "D": "গ্রিসে"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_31\">\n<span class=\"options_label question_a_31\">A</span>\n<input class=\"question\" id=\"question_a_31\" name=\"question_31\" type=\"radio\" value=\"A\"/>\n<span>আলবেনিয়ায়</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_31\">\n<span class=\"options_label question_b_31\">B</span>\n<input class=\"question\" id=\"question_b_31\" name=\"question_31\" type=\"radio\" value=\"B\"/>\n<span>সার্বিয়ায়</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_31\">\n<span class=\"options_label question_c_31\">C</span>\n<input class=\"question\" id=\"question_c_31\" name=\"question_31\" type=\"radio\" value=\"C\"/>\n<span>রুমানিয়ায়</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_31\">\n<span class=\"options_label question_d_31\">D</span>\n<input class=\"question\" id=\"question_d_31\" name=\"question_31\" type=\"radio\" value=\"D\"/>\n<span>গ্রিসে</span>\n</label>\n</li>"
+      },
+      "correct_answer": "",
+      "explanation_text": "কসোভো ইউরোপের নবীনতম স্বাধীন দেশ, যার রাজধানী প্রিস্টিনা। ১৭ ফেব্রুয়ারি ২০০৮ সালে দেশটি সার্বিয়ার নিকট থেকে স্বাধীনতা ঘোষণা করে। বিশ্বের প্রথম দেশ হিসেবে আফগানিস্তান কসোভোকে স্বীকৃতি দেয়। ২০১৭ সালে বাংলাদেশ কসোভোকে স্বীকৃতি প্রদান করে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">কসোভো ইউরোপের নবীনতম স্বাধীন দেশ, যার রাজধানী প্রিস্টিনা। ১৭ ফেব্রুয়ারি ২০০৮ সালে দেশটি সার্বিয়ার নিকট থেকে স্বাধীনতা ঘোষণা করে। বিশ্বের প্রথম দেশ হিসেবে আফগানিস্তান কসোভোকে স্বীকৃতি দেয়। ২০১৭ সালে বাংলাদেশ কসোভোকে স্বীকৃতি প্রদান করে।</p>\n</div>"
+    },
+    {
+      "id": 32,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "গিল্ডার কোন দেশের মুদ্রার নাম?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 32</h4>\n<p class=\"description\"><div>গিল্ডার কোন দেশের মুদ্রার নাম?</div>\n</p>\n</div>",
+      "options": {
+        "A": "নরওয়ে",
+        "B": "নেদারল্যান্ড",
+        "C": "রুমানিয়া",
+        "D": "গ্রিস"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_32\">\n<span class=\"options_label question_a_32\">A</span>\n<input class=\"question\" id=\"question_a_32\" name=\"question_32\" type=\"radio\" value=\"A\"/>\n<span>নরওয়ে</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_32\">\n<span class=\"options_label question_b_32\">B</span>\n<input class=\"question\" id=\"question_b_32\" name=\"question_32\" type=\"radio\" value=\"B\"/>\n<span>নেদারল্যান্ড</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_32\">\n<span class=\"options_label question_c_32\">C</span>\n<input class=\"question\" id=\"question_c_32\" name=\"question_32\" type=\"radio\" value=\"C\"/>\n<span>রুমানিয়া</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_32\">\n<span class=\"options_label question_d_32\">D</span>\n<input class=\"question\" id=\"question_d_32\" name=\"question_32\" type=\"radio\" value=\"D\"/>\n<span>গ্রিস</span>\n</label>\n</li>"
+      },
+      "correct_answer": "",
+      "explanation_text": "নেদারল্যান্ডের সাবেক মুদ্রার নাম গিল্ডার। ১ জুলাই, ২০০২ স্থানীয় মুদ্রা গিল্ডার সরকারিভাবে বিলুপ্ত হয় এবং ইউরো নেদারল্যান্ডের একক মুদ্রা হিসেবে চালু হয়।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">নেদারল্যান্ডের সাবেক মুদ্রার নাম গিল্ডার। ১ জুলাই, ২০০২ স্থানীয় মুদ্রা গিল্ডার সরকারিভাবে বিলুপ্ত হয় এবং ইউরো নেদারল্যান্ডের একক মুদ্রা হিসেবে চালু হয়।</p>\n</div>"
+    },
+    {
+      "id": 33,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "নেপালের পার্লামেন্টের নাম কি?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 33</h4>\n<p class=\"description\"><div>নেপালের পার্লামেন্টের নাম কি?</div>\n</p>\n</div>",
+      "options": {
+        "A": "সিনেট",
+        "B": "পঞ্চায়েত",
+        "C": "কংগ্রেস",
+        "D": "মজলিস"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_33\">\n<span class=\"options_label question_a_33\">A</span>\n<input class=\"question\" id=\"question_a_33\" name=\"question_33\" type=\"radio\" value=\"A\"/>\n<span>সিনেট</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_33\">\n<span class=\"options_label question_b_33\">B</span>\n<input class=\"question\" id=\"question_b_33\" name=\"question_33\" type=\"radio\" value=\"B\"/>\n<span>পঞ্চায়েত</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_33\">\n<span class=\"options_label question_c_33\">C</span>\n<input class=\"question\" id=\"question_c_33\" name=\"question_33\" type=\"radio\" value=\"C\"/>\n<span>কংগ্রেস</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_33\">\n<span class=\"options_label question_d_33\">D</span>\n<input class=\"question\" id=\"question_d_33\" name=\"question_33\" type=\"radio\" value=\"D\"/>\n<span>মজলিস</span>\n</label>\n</li>"
+      },
+      "correct_answer": "",
+      "explanation_text": "নেপালের দ্বিতীয় গণপরিষদ ১৮ সেপ্টেম্বর, ২০১৫ নতুন সংবিধান গ্রহণ করে এবং ২০ সেপ্টেম্বর তা কার্যকর হয়। নেপালের আইনসভার নাম ফেডারেল পার্লামেন্ট। পঞ্চায়েত নেপালের স্থানীয় সরকার কাঠামো। পাকিস্তানের পার্লামেন্টের নাম মজলিশ-ই-শূরা পাকিস্তান এবং এটি দ্বিকক্ষ বিশিষ্ট। যথা- ১. সিনেট হলো উচ্চকক্ষ ২. জাতীয় সমাবেশ হলো নিম্নকক্ষ। কংগ্রেস হলো আমেরিকার পার্লামেন্ট যা দ্বিকক্ষ বিশিষ্ট আইনসভা। যার উচ্চ কক্ষ সিনেট আর নিম্নকক্ষ হাউস অব রিপ্রেজেন্টেটিভস।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">নেপালের দ্বিতীয় গণপরিষদ ১৮ সেপ্টেম্বর, ২০১৫ নতুন সংবিধান গ্রহণ করে এবং ২০ সেপ্টেম্বর তা কার্যকর হয়। নেপালের আইনসভার নাম ফেডারেল পার্লামেন্ট। পঞ্চায়েত নেপালের স্থানীয় সরকার কাঠামো। পাকিস্তানের পার্লামেন্টের নাম মজলিশ-ই-শূরা পাকিস্তান এবং এটি দ্বিকক্ষ বিশিষ্ট। যথা- ১. সিনেট হলো উচ্চকক্ষ ২. জাতীয় সমাবেশ হলো নিম্নকক্ষ। কংগ্রেস হলো আমেরিকার পার্লামেন্ট যা দ্বিকক্ষ বিশিষ্ট আইনসভা। যার উচ্চ কক্ষ সিনেট আর নিম্নকক্ষ হাউস অব রিপ্রেজেন্টেটিভস।</p>\n</div>"
+    },
+    {
+      "id": 34,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "ইতিহাস বিখ্যাত ট্রয় নগরী কোথায়?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 34</h4>\n<p class=\"description\"><div>ইতিহাস বিখ্যাত ট্রয় নগরী কোথায়?</div>\n</p>\n</div>",
+      "options": {
+        "A": "গ্রিসে",
+        "B": "ইতালিতে",
+        "C": "তুরস্কে",
+        "D": "স্পেনে"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_34\">\n<span class=\"options_label question_a_34\">A</span>\n<input class=\"question\" id=\"question_a_34\" name=\"question_34\" type=\"radio\" value=\"A\"/>\n<span>গ্রিসে</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_34\">\n<span class=\"options_label question_b_34\">B</span>\n<input class=\"question\" id=\"question_b_34\" name=\"question_34\" type=\"radio\" value=\"B\"/>\n<span>ইতালিতে</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_34\">\n<span class=\"options_label question_c_34\">C</span>\n<input class=\"question\" id=\"question_c_34\" name=\"question_34\" type=\"radio\" value=\"C\"/>\n<span>তুরস্কে</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_34\">\n<span class=\"options_label question_d_34\">D</span>\n<input class=\"question\" id=\"question_d_34\" name=\"question_34\" type=\"radio\" value=\"D\"/>\n<span>স্পেনে</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "ট্রয় নগরী তুরস্কে অবস্থিত। ট্রয় নগরীর সাথে মহাবীর হেক্টরের বীরত্ব ও আত্মত্যাগের ইতিহাস জড়িয়ে রয়েছে। সুন্দরী হেলেনকে কেন্দ্র করে সংঘটিত এ যুদ্ধে হেক্টরকে পরাস্ত করে গ্রিকরা ট্রয় নগরী দখল করে আগুন ধরিয়ে দেয়। গ্রিসের ঐতিহাসিক নগরটির নাম স্পার্টা।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>ট্রয় নগরী তুরস্কে অবস্থিত। ট্রয় নগরীর সাথে মহাবীর হেক্টরের বীরত্ব ও আত্মত্যাগের ইতিহাস জড়িয়ে রয়েছে। সুন্দরী হেলেনকে কেন্দ্র করে সংঘটিত এ যুদ্ধে হেক্টরকে পরাস্ত করে গ্রিকরা ট্রয় নগরী দখল করে আগুন ধরিয়ে দেয়। গ্রিসের ঐতিহাসিক নগরটির নাম স্পার্টা।</div>\n</div>"
+    },
+    {
+      "id": 35,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "নাসা কোন দেশের সংস্থা?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 35</h4>\n<p class=\"description\"><div>নাসা কোন দেশের সংস্থা?</div>\n</p>\n</div>",
+      "options": {
+        "A": "জার্মানি",
+        "B": "রাশিয়া",
+        "C": "ফ্রান্স",
+        "D": "যুক্তরাষ্ট্র"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_35\">\n<span class=\"options_label question_a_35\">A</span>\n<input class=\"question\" id=\"question_a_35\" name=\"question_35\" type=\"radio\" value=\"A\"/>\n<span>জার্মানি</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_35\">\n<span class=\"options_label question_b_35\">B</span>\n<input class=\"question\" id=\"question_b_35\" name=\"question_35\" type=\"radio\" value=\"B\"/>\n<span>রাশিয়া</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_35\">\n<span class=\"options_label question_c_35\">C</span>\n<input class=\"question\" id=\"question_c_35\" name=\"question_35\" type=\"radio\" value=\"C\"/>\n<span>ফ্রান্স</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_35\">\n<span class=\"options_label question_d_35\">D</span>\n<input class=\"question\" id=\"question_d_35\" name=\"question_35\" type=\"radio\" value=\"D\"/>\n<span>যুক্তরাষ্ট্র</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "নাসা মার্কিন যুক্তরাষ্ট্রের মহাকাশ গবেষণা সংস্থা। নাসার পূর্ণরূপ হলো National Aeronautics and Space Administration। বর্তমানে বিশ্বব্যাপী মহাকাশ গবেষণা ও অভিযানে এ সংস্থা অগ্রণী ভূমিকা পালন করছে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>নাসা মার্কিন যুক্তরাষ্ট্রের মহাকাশ গবেষণা সংস্থা। নাসার পূর্ণরূপ হলো National Aeronautics and Space Administration। বর্তমানে বিশ্বব্যাপী মহাকাশ গবেষণা ও অভিযানে এ সংস্থা অগ্রণী ভূমিকা পালন করছে।</div>\n</div>"
+    },
+    {
+      "id": 36,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "জনসংখ্যার ভিত্তিতে বিশ্বের সবচেয়ে বড় মুসলিম দেশ কোনটি?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 36</h4>\n<p class=\"description\"><div>জনসংখ্যার ভিত্তিতে বিশ্বের সবচেয়ে বড় মুসলিম দেশ কোনটি?</div>\n</p>\n</div>",
+      "options": {
+        "A": "বাংলাদেশ",
+        "B": "পাকিস্তান",
+        "C": "সৌদি আরব",
+        "D": "ইন্দোনেশিয়া"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_36\">\n<span class=\"options_label question_a_36\">A</span>\n<input class=\"question\" id=\"question_a_36\" name=\"question_36\" type=\"radio\" value=\"A\"/>\n<span>বাংলাদেশ</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_36\">\n<span class=\"options_label question_b_36\">B</span>\n<input class=\"question\" id=\"question_b_36\" name=\"question_36\" type=\"radio\" value=\"B\"/>\n<span>পাকিস্তান</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_36\">\n<span class=\"options_label question_c_36\">C</span>\n<input class=\"question\" id=\"question_c_36\" name=\"question_36\" type=\"radio\" value=\"C\"/>\n<span>সৌদি আরব</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_36\">\n<span class=\"options_label question_d_36\">D</span>\n<input class=\"question\" id=\"question_d_36\" name=\"question_36\" type=\"radio\" value=\"D\"/>\n<span>ইন্দোনেশিয়া</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "জনসংখ্যার ভিত্তিতে বিশ্বের বৃহত্তম মুসলিম দেশ ইন্দোনেশিয়া। ধর্মবিষয়ক গবেষণা প্রতিষ্ঠান পিউ রিসার্চ সেন্টারের তথ্যমতে, ইন্দোনেশিয়ার মোট জনসংখ্যার ২৪ কোটি মুসলিম। পাকিস্তান দ্বিতীয়, মুসলিম জনসংখ্যা জনসংখ্যা ২১ কোটি ৪০ লাখ। ভারত তৃতীয়, মুসলিম জনসংখ্যা প্রায় ২১ কোটি এবং বাংলাদেশের অবস্থান চতুর্থ মুসলিম জনসংখ্যা প্রায় ১৫ কোটি।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>জনসংখ্যার ভিত্তিতে বিশ্বের বৃহত্তম মুসলিম দেশ ইন্দোনেশিয়া। ধর্মবিষয়ক গবেষণা প্রতিষ্ঠান পিউ রিসার্চ সেন্টারের তথ্যমতে, ইন্দোনেশিয়ার মোট জনসংখ্যার ২৪ কোটি মুসলিম। পাকিস্তান দ্বিতীয়, মুসলিম জনসংখ্যা জনসংখ্যা ২১ কোটি ৪০ লাখ। ভারত তৃতীয়, মুসলিম জনসংখ্যা প্রায় ২১ কোটি এবং বাংলাদেশের অবস্থান চতুর্থ মুসলিম জনসংখ্যা প্রায় ১৫ কোটি।</div>\n</div>"
+    },
+    {
+      "id": 37,
+      "canonical_subject": "GENERAL-SCIENCE",
+      "subject_info": {
+        "bn": "সাধারণ বিজ্ঞান",
+        "icon": "🔬",
+        "color": "#d97706"
+      },
+      "question_text": "ভায়াগ্রা কি?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 37</h4>\n<p class=\"description\"><div>ভায়াগ্রা কি?</div>\n</p>\n</div>",
+      "options": {
+        "A": "একটি জলপ্রপাত",
+        "B": "নতুন একটি ঔষধ",
+        "C": "সাড়া জাগানো চলচ্চিত্রের নাম",
+        "D": "নতুন জাহাজের নাম"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_37\">\n<span class=\"options_label question_a_37\">A</span>\n<input class=\"question\" id=\"question_a_37\" name=\"question_37\" type=\"radio\" value=\"A\"/>\n<span>একটি জলপ্রপাত</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_37\">\n<span class=\"options_label question_b_37\">B</span>\n<input class=\"question\" id=\"question_b_37\" name=\"question_37\" type=\"radio\" value=\"B\"/>\n<span>নতুন একটি ঔষধ</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_37\">\n<span class=\"options_label question_c_37\">C</span>\n<input class=\"question\" id=\"question_c_37\" name=\"question_37\" type=\"radio\" value=\"C\"/>\n<span>সাড়া জাগানো চলচ্চিত্রের নাম</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_37\">\n<span class=\"options_label question_d_37\">D</span>\n<input class=\"question\" id=\"question_d_37\" name=\"question_37\" type=\"radio\" value=\"D\"/>\n<span>নতুন জাহাজের নাম</span>\n</label>\n</li>"
+      },
+      "correct_answer": "B",
+      "explanation_text": "সিলডেনাফিল সাইট্রেট যা ভায়াগ্রা এবং অন্যান্য বাণিজ্যিক নামে বিক্রি হয়ে থাকে এমন একটি ঔষধ যা পুরুষের ধ্বজভঙ্গের (ইরেকটাইল ডিসফাংশান) ক্ষেত্রে ব্যবহার করা হয়। এছাড়াও হৃদপিণ্ডের ধমনির উচ্চ রক্তচাপের চিকিৎসায়ও ব্যবহৃত হয়ে থাকে। এটি ফাইজার কোম্পানির বিজ্ঞানী এন্ড্রু বেল, ডেভিড ব্রাউন এবং নিকোলাস টেরেট ১৯৯৮ সালে আবিষ্কার করেন।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">সিলডেনাফিল সাইট্রেট যা ভায়াগ্রা এবং অন্যান্য বাণিজ্যিক নামে বিক্রি হয়ে থাকে এমন একটি ঔষধ যা পুরুষের ধ্বজভঙ্গের (ইরেকটাইল ডিসফাংশান) ক্ষেত্রে ব্যবহার করা হয়। এছাড়াও হৃদপিণ্ডের ধমনির উচ্চ রক্তচাপের চিকিৎসায়ও ব্যবহৃত হয়ে থাকে। এটি ফাইজার কোম্পানির বিজ্ঞানী এন্ড্রু বেল, ডেভিড ব্রাউন এবং নিকোলাস টেরেট ১৯৯৮ সালে আবিষ্কার করেন।</p>\n</div>"
+    },
+    {
+      "id": 38,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "এশীয় উন্নয়ন ব্যাংকের প্রধান কার্যালয় কোথায়?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 38</h4>\n<p class=\"description\"><div>এশীয় উন্নয়ন ব্যাংকের প্রধান কার্যালয় কোথায়?</div>\n</p>\n</div>",
+      "options": {
+        "A": "ব্যাংকক",
+        "B": "সিঙ্গাপুর",
+        "C": "টোকিও",
+        "D": "ম্যানিলা"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_38\">\n<span class=\"options_label question_a_38\">A</span>\n<input class=\"question\" id=\"question_a_38\" name=\"question_38\" type=\"radio\" value=\"A\"/>\n<span>ব্যাংকক</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_38\">\n<span class=\"options_label question_b_38\">B</span>\n<input class=\"question\" id=\"question_b_38\" name=\"question_38\" type=\"radio\" value=\"B\"/>\n<span>সিঙ্গাপুর</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_38\">\n<span class=\"options_label question_c_38\">C</span>\n<input class=\"question\" id=\"question_c_38\" name=\"question_38\" type=\"radio\" value=\"C\"/>\n<span>টোকিও</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_38\">\n<span class=\"options_label question_d_38\">D</span>\n<input class=\"question\" id=\"question_d_38\" name=\"question_38\" type=\"radio\" value=\"D\"/>\n<span>ম্যানিলা</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "Asian Development Bank (ADB) প্রতিষ্ঠিত হয় ২২ আগস্ট, ১৯৬৬ সালে। এর প্রতিষ্ঠাকালীন সদস্য ছিল ৩১টি এবং বর্তমান সদস্য ৬৯টি। এর সদর দপ্তর ম্যানিলা (ফিলিপাইন)। বাংলাদেশ এর সদস্যপদ লাভ করে ১৯৭৩ সালে। ADB এর প্রেসিডেন্ট সবসময় একজন জাপানিজ হবেন। ১৯ ডিসেম্বর, ১৯৬৬ সাল থেকে আনুষ্ঠানিক লেনদেন শুরু হয়।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">Asian Development Bank (ADB) প্রতিষ্ঠিত হয় ২২ আগস্ট, ১৯৬৬ সালে। এর প্রতিষ্ঠাকালীন সদস্য ছিল ৩১টি এবং বর্তমান সদস্য ৬৯টি। এর সদর দপ্তর ম্যানিলা (ফিলিপাইন)। বাংলাদেশ এর সদস্যপদ লাভ করে ১৯৭৩ সালে। ADB এর প্রেসিডেন্ট সবসময় একজন জাপানিজ হবেন। ১৯ ডিসেম্বর, ১৯৬৬ সাল থেকে আনুষ্ঠানিক লেনদেন শুরু হয়।</p>\n</div>"
+    },
+    {
+      "id": 39,
+      "canonical_subject": "COMPUTER-AND-IT",
+      "subject_info": {
+        "bn": "কম্পিউটার ও তথ্যপ্রযুক্তি",
+        "icon": "💻",
+        "color": "#4f46e5"
+      },
+      "question_text": "কম্পিউটার সফট্ওয়ারের জগতে নামকরা প্রতিষ্ঠান কোনটি?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 39</h4>\n<p class=\"description\"><div>কম্পিউটার সফট্ওয়ারের জগতে নামকরা প্রতিষ্ঠান কোনটি?</div>\n</p>\n</div>",
+      "options": {
+        "A": "অলিভেটি",
+        "B": "আইবিএম",
+        "C": "অ্যাপেল ম্যাকিনটশ",
+        "D": "মাইক্রোসফট্"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_39\">\n<span class=\"options_label question_a_39\">A</span>\n<input class=\"question\" id=\"question_a_39\" name=\"question_39\" type=\"radio\" value=\"A\"/>\n<span>অলিভেটি</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_39\">\n<span class=\"options_label question_b_39\">B</span>\n<input class=\"question\" id=\"question_b_39\" name=\"question_39\" type=\"radio\" value=\"B\"/>\n<span>আইবিএম</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_39\">\n<span class=\"options_label question_c_39\">C</span>\n<input class=\"question\" id=\"question_c_39\" name=\"question_39\" type=\"radio\" value=\"C\"/>\n<span>অ্যাপেল ম্যাকিনটশ</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_39\">\n<span class=\"options_label question_d_39\">D</span>\n<input class=\"question\" id=\"question_d_39\" name=\"question_39\" type=\"radio\" value=\"D\"/>\n<span>মাইক্রোসফট্</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "সফটওয়্যার জগতে সবচেয়ে বড় কোম্পানি মাইক্রোসফট পরিচিতি লাভ করে আশির দশকে IBM এর কম্পিউটারের জন্য অপারেটিং সিস্টেম DOS তৈরি করে। এর সদর দপ্তর যুক্তরাষ্ট্রের ওয়াশিংটনে অবস্থিত এবং প্রতিষ্ঠাতা বিল গেটস।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">সফটওয়্যার জগতে সবচেয়ে বড় কোম্পানি মাইক্রোসফট পরিচিতি লাভ করে আশির দশকে IBM এর কম্পিউটারের জন্য অপারেটিং সিস্টেম DOS তৈরি করে। এর সদর দপ্তর যুক্তরাষ্ট্রের ওয়াশিংটনে অবস্থিত এবং প্রতিষ্ঠাতা বিল গেটস।</p>\n</div>"
+    },
+    {
+      "id": 40,
+      "canonical_subject": "INTERNATIONAL-AFFAIRS",
+      "subject_info": {
+        "bn": "আন্তর্জাতিক বিষয়াবলী",
+        "icon": "🌐",
+        "color": "#0284c7"
+      },
+      "question_text": "যুক্তরাষ্ট্র চায় ইসরাইল কত শতাংশ জায়গা ফিলিস্তিনিদের কাছে হস্তান্তর করবে?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 40</h4>\n<p class=\"description\"><div>যুক্তরাষ্ট্র চায় ইসরাইল কত শতাংশ জায়গা ফিলিস্তিনিদের কাছে হস্তান্তর করবে?</div>\n</p>\n</div>",
+      "options": {
+        "A": "১২ শতাংশ",
+        "B": "১০ শতাংশ",
+        "C": "১৩ শতাংশ",
+        "D": "১১ শতাংশ"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_40\">\n<span class=\"options_label question_a_40\">A</span>\n<input class=\"question\" id=\"question_a_40\" name=\"question_40\" type=\"radio\" value=\"A\"/>\n<span>১২ শতাংশ</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_40\">\n<span class=\"options_label question_b_40\">B</span>\n<input class=\"question\" id=\"question_b_40\" name=\"question_40\" type=\"radio\" value=\"B\"/>\n<span>১০ শতাংশ</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_40\">\n<span class=\"options_label question_c_40\">C</span>\n<input class=\"question\" id=\"question_c_40\" name=\"question_40\" type=\"radio\" value=\"C\"/>\n<span>১৩ শতাংশ</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_40\">\n<span class=\"options_label question_d_40\">D</span>\n<input class=\"question\" id=\"question_d_40\" name=\"question_40\" type=\"radio\" value=\"D\"/>\n<span>১১ শতাংশ</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "ওয়েই রিভার চুক্তি অনুসারে যুক্তরাষ্ট্র ইসরাইলি দখলকৃত ভূমির ১৩.৫ শতাংশ ফিলিস্তিনিদের কাছে হস্তান্তরের প্রচেষ্টা নিয়েছিল।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">ওয়েই রিভার চুক্তি অনুসারে যুক্তরাষ্ট্র ইসরাইলি দখলকৃত ভূমির ১৩.৫ শতাংশ ফিলিস্তিনিদের কাছে হস্তান্তরের প্রচেষ্টা নিয়েছিল।</p>\n</div>"
+    },
+    {
+      "id": 41,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশে জিডিপিতে প্রাণিসম্পদে অবদান কত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 41</h4>\n<p class=\"description\"><div>বাংলাদেশে জিডিপিতে প্রাণিসম্পদে অবদান কত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "২%",
+        "B": "১০%",
+        "C": "৬.৫%",
+        "D": "১৫%"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_41\">\n<span class=\"options_label question_a_41\">A</span>\n<input class=\"question\" id=\"question_a_41\" name=\"question_41\" type=\"radio\" value=\"A\"/>\n<span>২%</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_41\">\n<span class=\"options_label question_b_41\">B</span>\n<input class=\"question\" id=\"question_b_41\" name=\"question_41\" type=\"radio\" value=\"B\"/>\n<span>১০%</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_41\">\n<span class=\"options_label question_c_41\">C</span>\n<input class=\"question\" id=\"question_c_41\" name=\"question_41\" type=\"radio\" value=\"C\"/>\n<span>৬.৫%</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_41\">\n<span class=\"options_label question_d_41\">D</span>\n<input class=\"question\" id=\"question_d_41\" name=\"question_41\" type=\"radio\" value=\"D\"/>\n<span>১৫%</span>\n</label>\n</li>"
+      },
+      "correct_answer": "",
+      "explanation_text": "অর্থনৈতিক সমীক্ষা ২০২৫ অনুযায়ী, জিডিপিতে প্রাণিসম্পদের অবদান ১.৮১%।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">অর্থনৈতিক সমীক্ষা ২০২৫ অনুযায়ী, জিডিপিতে প্রাণিসম্পদের অবদান ১.৮১%।</p>\n</div>"
+    },
+    {
+      "id": 42,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বার্তমানে বিদেশ থেকে কত টাকার গুড়োদুধ আমদানি করা হয়?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 42</h4>\n<p class=\"description\"><div>বার্তমানে বিদেশ থেকে কত টাকার গুড়োদুধ আমদানি করা হয়?</div>\n</p>\n</div>",
+      "options": {
+        "A": "৫০০ কোটি টাকা",
+        "B": "৪০০ কোটি টাকা",
+        "C": "৩০০ কোটি টাকা",
+        "D": "১২৫ কোটি টাকা"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_42\">\n<span class=\"options_label question_a_42\">A</span>\n<input class=\"question\" id=\"question_a_42\" name=\"question_42\" type=\"radio\" value=\"A\"/>\n<span>৫০০ কোটি টাকা</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_42\">\n<span class=\"options_label question_b_42\">B</span>\n<input class=\"question\" id=\"question_b_42\" name=\"question_42\" type=\"radio\" value=\"B\"/>\n<span>৪০০ কোটি টাকা</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_42\">\n<span class=\"options_label question_c_42\">C</span>\n<input class=\"question\" id=\"question_c_42\" name=\"question_42\" type=\"radio\" value=\"C\"/>\n<span>৩০০ কোটি টাকা</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_42\">\n<span class=\"options_label question_d_42\">D</span>\n<input class=\"question\" id=\"question_d_42\" name=\"question_42\" type=\"radio\" value=\"D\"/>\n<span>১২৫ কোটি টাকা</span>\n</label>\n</li>"
+      },
+      "correct_answer": "",
+      "explanation_text": "বাংলাদেশ ব্যাংকের সর্বশেষ আমদানি পরিসংখ্যান অনুযায়ী, গত ২০২৩-২৪ অর্থবছরে গুঁড়া দুধ আমদানি হয়েছে প্রায় ৪ হাজার ৮১৯ কোটি টাকার। ২০২৪-২৫ অর্থবছরে আমদানি বেড়ে দাঁড়িয়েছে ৫ হাজার ৫৮৬ কোটি ৩৮ লাখ টাকার।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">বাংলাদেশ ব্যাংকের সর্বশেষ আমদানি পরিসংখ্যান অনুযায়ী, গত ২০২৩-২৪ অর্থবছরে গুঁড়া দুধ আমদানি হয়েছে প্রায় ৪ হাজার ৮১৯ কোটি টাকার। ২০২৪-২৫ অর্থবছরে আমদানি বেড়ে দাঁড়িয়েছে ৫ হাজার ৫৮৬ কোটি ৩৮ লাখ টাকার।</p>\n</div>"
+    },
+    {
+      "id": 43,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের কেন্দ্রীয় গো-প্রজনন খামার কোথায় অবস্থিত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 43</h4>\n<p class=\"description\"><div>বাংলাদেশের কেন্দ্রীয় গো-প্রজনন খামার কোথায় অবস্থিত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "রাজশাহী",
+        "B": "চট্টগ্রাম",
+        "C": "সিলেট",
+        "D": "সাভার"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_43\">\n<span class=\"options_label question_a_43\">A</span>\n<input class=\"question\" id=\"question_a_43\" name=\"question_43\" type=\"radio\" value=\"A\"/>\n<span>রাজশাহী</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_43\">\n<span class=\"options_label question_b_43\">B</span>\n<input class=\"question\" id=\"question_b_43\" name=\"question_43\" type=\"radio\" value=\"B\"/>\n<span>চট্টগ্রাম</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_43\">\n<span class=\"options_label question_c_43\">C</span>\n<input class=\"question\" id=\"question_c_43\" name=\"question_43\" type=\"radio\" value=\"C\"/>\n<span>সিলেট</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_43\">\n<span class=\"options_label question_d_43\">D</span>\n<input class=\"question\" id=\"question_d_43\" name=\"question_43\" type=\"radio\" value=\"D\"/>\n<span>সাভার</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "খামারের নাম অবস্থান গো-প্রজনন ও দুগ্ধ খামার সাভার, ঢাকা কেন্দ্রীয় মুরগি প্রজনন খামার মিরপুর, ঢাকা হাঁস প্রজনন খামার নারায়ণগঞ্জ মহিষ প্রজনন ও উন্নয়ন খামার বাগেরহাট বেসরকারি কুমির প্রজনন কেন্দ্র ভালুকা, ময়মনসিংহ",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; border: 1px solid #777; margin: 10px 0; text-align: left;\">\n<tbody>\n<tr>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; background-color: #f3f4f6; font-weight: bold; text-align: center;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\"><strong>খামারের নাম</strong></p>\n</td>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; background-color: #f3f4f6; font-weight: bold; text-align: center;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\"><strong>অবস্থান</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">গো-প্রজনন ও দুগ্ধ খামার</p>\n</td>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">সাভার, ঢাকা</p>\n</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">কেন্দ্রীয় মুরগি প্রজনন খামার</p>\n</td>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">মিরপুর, ঢাকা</p>\n</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">হাঁস প্রজনন খামার</p>\n</td>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">নারায়ণগঞ্জ</p>\n</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">মহিষ প্রজনন ও উন্নয়ন খামার</p>\n</td>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">বাগেরহাট</p>\n</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">বেসরকারি কুমির প্রজনন কেন্দ্র</p>\n</td>\n<td style=\"border: 1px solid #777; padding: 6px 12px; font-size: inherit; vertical-align: middle; text-align: left;\">\n<p style=\"margin: 2px 0; line-height: 1.5; text-align: justify;\">ভালুকা, ময়মনসিংহ</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>"
+    },
+    {
+      "id": 44,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "বাংলাদেশের জাতীয় পশু কোনটি?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 44</h4>\n<p class=\"description\"><div>বাংলাদেশের জাতীয় পশু কোনটি?</div>\n</p>\n</div>",
+      "options": {
+        "A": "গরু",
+        "B": "ছাগল",
+        "C": "গয়াল",
+        "D": "রয়েল বেঙ্গল টাইগার"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_44\">\n<span class=\"options_label question_a_44\">A</span>\n<input class=\"question\" id=\"question_a_44\" name=\"question_44\" type=\"radio\" value=\"A\"/>\n<span>গরু</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_44\">\n<span class=\"options_label question_b_44\">B</span>\n<input class=\"question\" id=\"question_b_44\" name=\"question_44\" type=\"radio\" value=\"B\"/>\n<span>ছাগল</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_44\">\n<span class=\"options_label question_c_44\">C</span>\n<input class=\"question\" id=\"question_c_44\" name=\"question_44\" type=\"radio\" value=\"C\"/>\n<span>গয়াল</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_44\">\n<span class=\"options_label question_d_44\">D</span>\n<input class=\"question\" id=\"question_d_44\" name=\"question_44\" type=\"radio\" value=\"D\"/>\n<span>রয়েল বেঙ্গল টাইগার</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "বাংলাদেশের জাতীয় পশু রয়েল বেঙ্গল টাইগার প্রধানত বাংলাদেশ ও ভারতের অন্তর্গত বিশ্বের বৃহত্তম ম্যানগ্রোভ বন সুন্দরবনে পাওয়া যায়। বর্তমানে এই রয়েল বেঙ্গল টাইগারের সংখ্যা দিন দিন হ্রাস পাচ্ছে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>বাংলাদেশের জাতীয় পশু রয়েল বেঙ্গল টাইগার প্রধানত বাংলাদেশ ও ভারতের অন্তর্গত বিশ্বের বৃহত্তম ম্যানগ্রোভ বন সুন্দরবনে পাওয়া যায়। বর্তমানে এই রয়েল বেঙ্গল টাইগারের সংখ্যা দিন দিন হ্রাস পাচ্ছে।</div>\n</div>"
+    },
+    {
+      "id": 45,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "রপ্তানি আয়ে বর্তমানে প্রাণিসম্পদের অবদান কত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 45</h4>\n<p class=\"description\"><div>রপ্তানি আয়ে বর্তমানে প্রাণিসম্পদের অবদান কত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "৮ ভাগ",
+        "B": "১০ ভাগ",
+        "C": "১২ ভাগ",
+        "D": "১৩ ভাগ"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_45\">\n<span class=\"options_label question_a_45\">A</span>\n<input class=\"question\" id=\"question_a_45\" name=\"question_45\" type=\"radio\" value=\"A\"/>\n<span>৮ ভাগ</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_45\">\n<span class=\"options_label question_b_45\">B</span>\n<input class=\"question\" id=\"question_b_45\" name=\"question_45\" type=\"radio\" value=\"B\"/>\n<span>১০ ভাগ</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_45\">\n<span class=\"options_label question_c_45\">C</span>\n<input class=\"question\" id=\"question_c_45\" name=\"question_45\" type=\"radio\" value=\"C\"/>\n<span>১২ ভাগ</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_45\">\n<span class=\"options_label question_d_45\">D</span>\n<input class=\"question\" id=\"question_d_45\" name=\"question_45\" type=\"radio\" value=\"D\"/>\n<span>১৩ ভাগ</span>\n</label>\n</li>"
+      },
+      "correct_answer": "",
+      "explanation_text": "Export Promotion Bureau-2025 এর তথ্য অনুযায়ী রপ্তানি আয়ে ২০২৪-২৫ অর্থবছরে প্রাণিসম্পদের অবদান ১০.১৯ শতাংশ।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">Export Promotion Bureau-2025 এর তথ্য অনুযায়ী রপ্তানি আয়ে ২০২৪-২৫ অর্থবছরে প্রাণিসম্পদের অবদান ১০.১৯ শতাংশ।</p>\n</div>"
+    },
+    {
+      "id": 46,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "দেশের রপ্তানি আয়ের মধ্যে চামড়ার অবস্থান কত?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 46</h4>\n<p class=\"description\"><div>দেশের রপ্তানি আয়ের মধ্যে চামড়ার অবস্থান কত?</div>\n</p>\n</div>",
+      "options": {
+        "A": "১ম",
+        "B": "২য়",
+        "C": "৩য়",
+        "D": "৪র্থ"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_46\">\n<span class=\"options_label question_a_46\">A</span>\n<input class=\"question\" id=\"question_a_46\" name=\"question_46\" type=\"radio\" value=\"A\"/>\n<span>১ম</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_46\">\n<span class=\"options_label question_b_46\">B</span>\n<input class=\"question\" id=\"question_b_46\" name=\"question_46\" type=\"radio\" value=\"B\"/>\n<span>২য়</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_46\">\n<span class=\"options_label question_c_46\">C</span>\n<input class=\"question\" id=\"question_c_46\" name=\"question_46\" type=\"radio\" value=\"C\"/>\n<span>৩য়</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_46\">\n<span class=\"options_label question_d_46\">D</span>\n<input class=\"question\" id=\"question_d_46\" name=\"question_46\" type=\"radio\" value=\"D\"/>\n<span>৪র্থ</span>\n</label>\n</li>"
+      },
+      "correct_answer": "B",
+      "explanation_text": "বর্তমানে চামড়া শিল্প বাংলাদেশের দ্বিতীয় প্রধান রপ্তানি পণ্য এবং এ খাত থেকে ২০২৪-২৫ অর্থবছরে ১১৪৫.০৭ মিলিয়ন মার্কিন ডলার আয় হয়। শিল্প আয়ে এ খাতের অবদান ২.৪৫% ও রপ্তানিতে ২.৩৪% এবং দেশের জিডিপিতে অবদান ০.২৫%। [উৎস-অর্থনৈতিক সমীক্ষা: ২০২৫]",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">বর্তমানে চামড়া শিল্প বাংলাদেশের দ্বিতীয় প্রধান রপ্তানি পণ্য এবং এ খাত থেকে ২০২৪-২৫ অর্থবছরে ১১৪৫.০৭ মিলিয়ন মার্কিন ডলার আয় হয়। শিল্প আয়ে এ খাতের অবদান ২.৪৫% ও রপ্তানিতে ২.৩৪% এবং দেশের জিডিপিতে অবদান ০.২৫%। <strong>[উৎস-অর্থনৈতিক সমীক্ষা: ২০২৫]</strong></p>\n</div>"
+    },
+    {
+      "id": 47,
+      "canonical_subject": "GENERAL-SCIENCE",
+      "subject_info": {
+        "bn": "সাধারণ বিজ্ঞান",
+        "icon": "🔬",
+        "color": "#d97706"
+      },
+      "question_text": "ক্লোনিং পদ্ধতিতে জন্মগ্রহণকারী ভেড়ার নাম কি?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 47</h4>\n<p class=\"description\"><div>ক্লোনিং পদ্ধতিতে জন্মগ্রহণকারী ভেড়ার নাম কি?</div>\n</p>\n</div>",
+      "options": {
+        "A": "নেনী",
+        "B": "টমি",
+        "C": "শেলী",
+        "D": "ডলি"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_47\">\n<span class=\"options_label question_a_47\">A</span>\n<input class=\"question\" id=\"question_a_47\" name=\"question_47\" type=\"radio\" value=\"A\"/>\n<span>নেনী</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_47\">\n<span class=\"options_label question_b_47\">B</span>\n<input class=\"question\" id=\"question_b_47\" name=\"question_47\" type=\"radio\" value=\"B\"/>\n<span>টমি</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_47\">\n<span class=\"options_label question_c_47\">C</span>\n<input class=\"question\" id=\"question_c_47\" name=\"question_47\" type=\"radio\" value=\"C\"/>\n<span>শেলী</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_47\">\n<span class=\"options_label question_d_47\">D</span>\n<input class=\"question\" id=\"question_d_47\" name=\"question_47\" type=\"radio\" value=\"D\"/>\n<span>ডলি</span>\n</label>\n</li>"
+      },
+      "correct_answer": "D",
+      "explanation_text": "স্কটল্যান্ডের এডিনবরার রোসলিন ইনস্টিটিউটের সামনে ১৯৯৬ সালের ৫ জুলাই ক্লোন ভেড়া ডলির জন্ম হয়। রোসলিন ইনস্টিটিউটের ভ্রূণতত্ত্ববিদ ড. আয়ান উইলমুট ভেড়াটিকে ক্লোন করেন। ১৯৯৭ সালে ডলির জন্মের বিষয়টি ঘোষণা করা হয়।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>স্কটল্যান্ডের এডিনবরার রোসলিন ইনস্টিটিউটের সামনে ১৯৯৬ সালের ৫ জুলাই ক্লোন ভেড়া ডলির জন্ম হয়। রোসলিন ইনস্টিটিউটের ভ্রূণতত্ত্ববিদ ড. আয়ান উইলমুট ভেড়াটিকে ক্লোন করেন। ১৯৯৭ সালে ডলির জন্মের বিষয়টি ঘোষণা করা হয়।</div>\n</div>"
+    },
+    {
+      "id": 48,
+      "canonical_subject": "GENERAL-SCIENCE",
+      "subject_info": {
+        "bn": "সাধারণ বিজ্ঞান",
+        "icon": "🔬",
+        "color": "#d97706"
+      },
+      "question_text": "প্রাণীর মলমূত্র থেকে ব্যাকটেরিয়ার সাহয্যে ফারমেন্টেশন প্রক্রিয়ায় উৎপন্ন হয়-",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 48</h4>\n<p class=\"description\"><div>প্রাণীর মলমূত্র থেকে ব্যাকটেরিয়ার সাহয্যে ফারমেন্টেশন প্রক্রিয়ায় উৎপন্ন হয়-</div>\n</p>\n</div>",
+      "options": {
+        "A": "ইথেন",
+        "B": "এমোনিয়া",
+        "C": "মিথেন",
+        "D": "বিউটেন"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_48\">\n<span class=\"options_label question_a_48\">A</span>\n<input class=\"question\" id=\"question_a_48\" name=\"question_48\" type=\"radio\" value=\"A\"/>\n<span>ইথেন</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_48\">\n<span class=\"options_label question_b_48\">B</span>\n<input class=\"question\" id=\"question_b_48\" name=\"question_48\" type=\"radio\" value=\"B\"/>\n<span>এমোনিয়া</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_48\">\n<span class=\"options_label question_c_48\">C</span>\n<input class=\"question\" id=\"question_c_48\" name=\"question_48\" type=\"radio\" value=\"C\"/>\n<span>মিথেন</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_48\">\n<span class=\"options_label question_d_48\">D</span>\n<input class=\"question\" id=\"question_d_48\" name=\"question_48\" type=\"radio\" value=\"D\"/>\n<span>বিউটেন</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "ঈস্ট, ব্যাকটেরিয়া প্রভৃতি এনজাইমের প্রভাবে জৈব পদার্থের রাসায়নিক পরিবর্তনের নাম ‘ফারমেন্টেশন’ বা ‘গাঁজন’। গাঁজন প্রক্রিয়ায় প্রাণীর মলমূত্র ও পচা গাছপালা থেকে বায়োগ্যাস উৎপন্ন করা হয়। এর প্রধান উপাদান হলো মিথেন। বায়োগ্যাসে ৬০-৭০% মিথেন থাকে।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">ঈস্ট, ব্যাকটেরিয়া প্রভৃতি এনজাইমের প্রভাবে জৈব পদার্থের রাসায়নিক পরিবর্তনের নাম ‘ফারমেন্টেশন’ বা ‘গাঁজন’। গাঁজন প্রক্রিয়ায় প্রাণীর মলমূত্র ও পচা গাছপালা থেকে বায়োগ্যাস উৎপন্ন করা হয়। এর প্রধান উপাদান হলো মিথেন। বায়োগ্যাসে ৬০-৭০% মিথেন থাকে।</p>\n</div>"
+    },
+    {
+      "id": 49,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "কৃষি বিশ্ববিদ্যালয়ের প্রথম উপাচার্য কে ছিলেন?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 49</h4>\n<p class=\"description\"><div>কৃষি বিশ্ববিদ্যালয়ের প্রথম উপাচার্য কে ছিলেন?</div>\n</p>\n</div>",
+      "options": {
+        "A": "ড. এস ডি চৌধুরী",
+        "B": "ড. কাজী ফজলুর রহিম",
+        "C": "ড. ওসমান গণি",
+        "D": "অধ্যাপক মোসলেহ উদ্দিন আহমেদ"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_49\">\n<span class=\"options_label question_a_49\">A</span>\n<input class=\"question\" id=\"question_a_49\" name=\"question_49\" type=\"radio\" value=\"A\"/>\n<span>ড. এস ডি চৌধুরী</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_49\">\n<span class=\"options_label question_b_49\">B</span>\n<input class=\"question\" id=\"question_b_49\" name=\"question_49\" type=\"radio\" value=\"B\"/>\n<span>ড. কাজী ফজলুর রহিম</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_49\">\n<span class=\"options_label question_c_49\">C</span>\n<input class=\"question\" id=\"question_c_49\" name=\"question_49\" type=\"radio\" value=\"C\"/>\n<span>ড. ওসমান গণি</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_49\">\n<span class=\"options_label question_d_49\">D</span>\n<input class=\"question\" id=\"question_d_49\" name=\"question_49\" type=\"radio\" value=\"D\"/>\n<span>অধ্যাপক মোসলেহ উদ্দিন আহমেদ</span>\n</label>\n</li>"
+      },
+      "correct_answer": "C",
+      "explanation_text": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয় ১৮ আগস্ট, ১৯৬১ সালে ময়মনসিংহে প্রতিষ্ঠিত হয়। ড. ওসমান গণি ছিলেন এ বিশ্ববিদ্যালয়ের প্রথম উপাচার্য এবং বর্তমান উপাচার্য হলেন অধ্যাপক ড. লুৎফুল হাসান।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<div>বাংলাদেশ কৃষি বিশ্ববিদ্যালয় ১৮ আগস্ট, ১৯৬১ সালে ময়মনসিংহে প্রতিষ্ঠিত হয়। ড. ওসমান গণি ছিলেন এ বিশ্ববিদ্যালয়ের প্রথম উপাচার্য এবং বর্তমান উপাচার্য হলেন অধ্যাপক ড. লুৎফুল হাসান।</div>\n</div>"
+    },
+    {
+      "id": 50,
+      "canonical_subject": "BANGLADESH-AFFAIRS",
+      "subject_info": {
+        "bn": "বাংলাদেশ বিষয়াবলী",
+        "icon": "🇧🇩",
+        "color": "#059669"
+      },
+      "question_text": "সাস্প্রতিককালে নোবেল পুরস্কারপ্রাপ্ত কোন কৃষিবিজ্ঞানী বাংলাদেশ সফর করেন?",
+      "question_html": "<div class=\"p-2\">\n<h4>Question 50</h4>\n<p class=\"description\"><div>সাস্প্রতিককালে নোবেল পুরস্কারপ্রাপ্ত কোন কৃষিবিজ্ঞানী বাংলাদেশ সফর করেন?</div>\n</p>\n</div>",
+      "options": {
+        "A": "প্রফেসর ড. আব্দুল সালাম",
+        "B": "প্রফেসর নরম্যান বোরলগ",
+        "C": "ড. আব্দুল কাদের",
+        "D": "ড. স্বামিনাথন"
+      },
+      "options_html": {
+        "A": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_a_50\">\n<span class=\"options_label question_a_50\">A</span>\n<input class=\"question\" id=\"question_a_50\" name=\"question_50\" type=\"radio\" value=\"A\"/>\n<span>প্রফেসর ড. আব্দুল সালাম</span>\n</label>\n</li>",
+        "B": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_b_50\">\n<span class=\"options_label question_b_50\">B</span>\n<input class=\"question\" id=\"question_b_50\" name=\"question_50\" type=\"radio\" value=\"B\"/>\n<span>প্রফেসর নরম্যান বোরলগ</span>\n</label>\n</li>",
+        "C": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_c_50\">\n<span class=\"options_label question_c_50\">C</span>\n<input class=\"question\" id=\"question_c_50\" name=\"question_50\" type=\"radio\" value=\"C\"/>\n<span>ড. আব্দুল কাদের</span>\n</label>\n</li>",
+        "D": "<li>\n<label class=\"d-flex align-items-center\" for=\"question_d_50\">\n<span class=\"options_label question_d_50\">D</span>\n<input class=\"question\" id=\"question_d_50\" name=\"question_50\" type=\"radio\" value=\"D\"/>\n<span>ড. স্বামিনাথন</span>\n</label>\n</li>"
+      },
+      "correct_answer": "B",
+      "explanation_text": "প্রফেসর নরম্যান বোরলগ একজন কৃষিবিজ্ঞানী হয়েও খাদ্য নিরাপত্তা অর্জনে গুরুত্বপূর্ণ অবদান রাখায় ১৯৭০ সালে শান্তিতে নোবেল পুরস্কার লাভ করেন। তাকে সবুজ বিপ্লবের জনক বলা হয়। তিনি ১৯৯৯ সালে বাংলাদেশ সফর করেছিলেন।",
+      "explanation_html": "<div class=\"solve-note mb-2 d-none\">\n<p style=\"text-align: justify;\">প্রফেসর নরম্যান বোরলগ একজন কৃষিবিজ্ঞানী হয়েও খাদ্য নিরাপত্তা অর্জনে গুরুত্বপূর্ণ অবদান রাখায় ১৯৭০ সালে শান্তিতে নোবেল পুরস্কার লাভ করেন। তাকে সবুজ বিপ্লবের জনক বলা হয়। তিনি ১৯৯৯ সালে বাংলাদেশ সফর করেছিলেন।</p>\n</div>"
+    }
+  ]
+}

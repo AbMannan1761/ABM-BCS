@@ -857,13 +857,37 @@
     renderQuestions();
   }
 
-  // --- Render Cadre Stories Modal ---
+  // --- View Switcher: Question Bank vs Academy Home ---
+  function switchMainView(view) {
+    const qbView = document.getElementById('qbMainView');
+    const homeView = document.getElementById('portalHomeView');
+    const navQb = document.getElementById('navTabQuestionBank');
+    const navHome = document.getElementById('navTabHome');
+
+    if (view === 'qb') {
+      if (qbView) qbView.style.display = 'block';
+      if (homeView) homeView.style.display = 'none';
+      if (navQb) navQb.classList.add('active');
+      if (navHome) navHome.classList.remove('active');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } else {
+      if (qbView) qbView.style.display = 'none';
+      if (homeView) homeView.style.display = 'block';
+      if (navHome) navHome.classList.add('active');
+      if (navQb) navQb.classList.remove('active');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      renderHomeTestimonials();
+    }
+  }
+
+  // --- Render Cadre Stories Modal & Home Testimonials ---
   function initCadresModal() {
-    const grid = document.getElementById('cadresGrid');
-    if (!grid || !state.portalData.cadres) return;
+    const gridModal = document.getElementById('cadreTestimonialsGrid') || document.getElementById('cadresGrid');
+    const cadres = state.portalData.cadres || [];
+    if (!cadres.length) return;
 
     let html = '';
-    state.portalData.cadres.forEach(cadre => {
+    cadres.forEach(cadre => {
       html += `
         <div class="cadre-card" style="border:1px solid var(--border-subtle); padding:1rem; border-radius:8px; background:var(--bg-surface);">
           <div style="display:flex; align-items:center; gap:0.75rem; margin-bottom:0.75rem;">
@@ -876,6 +900,61 @@
           </div>
           <div style="font-size:0.88rem; color:var(--text-secondary); line-height:1.5; font-style:italic; background:var(--bg-surface-secondary); padding:0.65rem 0.85rem; border-radius:6px; border-left:3px solid #e31c25;">
             "${cadre.quote}"
+          </div>
+        </div>
+      `;
+    });
+    if (gridModal) gridModal.innerHTML = html;
+  }
+
+  function renderHomeTestimonials() {
+    const gridHome = document.getElementById('homeTestimonialsGrid');
+    if (!gridHome || gridHome.children.length > 0) return;
+    const cadres = (state.portalData.cadres || []).slice(0, 6);
+    let html = '';
+    cadres.forEach(c => {
+      html += `
+        <div class="cadre-card" style="border:1px solid var(--border-subtle); padding:1.25rem; border-radius:10px; background:var(--bg-surface); box-shadow:0 2px 8px rgba(0,0,0,0.04);">
+          <div style="display:flex; align-items:center; gap:0.85rem; margin-bottom:0.85rem;">
+            <img src="${c.img}" alt="${c.name}" style="width:52px; height:52px; border-radius:50%; object-fit:cover; border:2px solid #e31c25;">
+            <div>
+              <h5 style="margin:0; font-size:1.05rem; font-weight:800; color:var(--text-primary);">${c.name}</h5>
+              <span style="font-size:0.78rem; color:#e31c25; font-weight:700;">${c.cadre}</span>
+              <div style="font-size:0.8rem; color:var(--text-muted);">${c.bcs}</div>
+            </div>
+          </div>
+          <p style="font-size:0.9rem; color:var(--text-secondary); line-height:1.5; font-style:italic; margin:0;">
+            "${c.quote}"
+          </p>
+        </div>
+      `;
+    });
+    gridHome.innerHTML = html;
+  }
+
+  // --- Render Courses Modal ---
+  function initCoursesModal() {
+    const grid = document.getElementById('coursesModalGrid');
+    if (!grid || !state.portalData.courses) return;
+
+    let html = '';
+    state.portalData.courses.forEach(c => {
+      html += `
+        <div class="sidebar-course-card" style="border:1px solid var(--border-subtle);">
+          <div class="sidebar-course-ribbon" style="background:${c.featured ? '#e31c25' : '#0284c7'};">
+            ${c.badge || 'বিসিএস প্রস্তুতি'}
+          </div>
+          <div class="sidebar-course-body">
+            <h4>${c.title}</h4>
+            <div style="font-size:0.85rem; color:#059669; font-weight:700; margin-bottom:0.75rem;">
+              ফি: ${c.fee} &nbsp;|&nbsp; শুরু: ${c.startDate}
+            </div>
+            <ul class="sidebar-course-list">
+              ${(c.features || []).map(f => `<li>${f}</li>`).join('')}
+            </ul>
+            <button class="btn-show-more" style="width:100%; margin-top:1rem; justify-content:center; border-radius:6px; font-size:0.88rem;" onclick="alert('${c.title} কোর্সের বিস্তারিত জানতে কল করুন: ০৯৬৬৬৭৭৫৫২২')">
+              এনরোল ও বিস্তারিত
+            </button>
           </div>
         </div>
       `;
@@ -923,37 +1002,83 @@
     area.innerHTML = sHtml;
   }
 
+  // --- Render Notice & Routine Modal ---
+  function initNoticeModal() {
+    const area = document.getElementById('noticeContentArea');
+    if (!area) return;
+    const routine = state.portalData.studyRoutine || [];
+    area.innerHTML = `
+      <div style="background:#eff6ff; border:1px solid #bfdbfe; border-radius:8px; padding:1rem; margin-bottom:1.5rem;">
+        <h4 style="color:#1d4ed8; margin-bottom:0.4rem;"><i class="fa-solid fa-bullhorn"></i> সাম্প্রতিক বিসিএস নোটিশ ও সার্কুলার</h4>
+        <p style="margin:0; font-size:0.9rem; color:#1e40af;">
+          ৫০তম বিসিএস প্রিলিমিনারি পরীক্ষা অনুষ্ঠিত হবে ৩০ জানুয়ারি ২০২৬। আবেদনের সময় ও রুটিন বাংলাদেশ সরকারি কর্ম কমিশন (BPSC) ওয়েবসাইটে প্রকাশিত হয়েছে।
+        </p>
+      </div>
+      <h4 style="font-size:1.1rem; font-weight:800; margin-bottom:0.8rem;">দৈনিক বিসিএস প্রস্তুতি স্টাডি রুটিন:</h4>
+      <div style="display:flex; flex-direction:column; gap:0.75rem;">
+        ${routine.map(r => `
+          <div style="display:flex; justify-content:space-between; align-items:center; padding:0.85rem 1rem; border:1px solid var(--border-subtle); border-radius:8px; background:var(--bg-surface);">
+            <div>
+              <strong style="color:var(--text-primary); font-size:0.95rem;">${r.time}</strong>
+              <div style="font-size:0.85rem; color:#059669; font-weight:600;">${r.focus}</div>
+            </div>
+            <span style="font-size:0.85rem; color:var(--text-secondary); background:var(--bg-surface-secondary); padding:0.25rem 0.65rem; border-radius:6px;">
+              ${r.activity}
+            </span>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
   // --- Setup Event Listeners ---
   function initEvents() {
-    // Nav Links
-    document.getElementById('navSuccess').onclick = () => {
-      document.getElementById('cadresModal').classList.add('open');
-    };
-    document.getElementById('navAboutBcs').onclick = () => {
-      document.getElementById('syllabusModal').classList.add('open');
-    };
-    document.getElementById('navCourses').onclick = () => {
-      alert('আমাদের সকল কোর্স: ৫৩তম Pioneer Batch, ৫২তম Exclusive Exam Batch এবং Book Packages! বিস্তারিত জানতে কল করুন: ০৯৬৬৬৭৭৫৫২২');
-    };
-    document.getElementById('navNotice').onclick = () => {
-      alert('সর্বশেষ নোটিশ: ৫১তম ও ৫২তম বিসিএস পরীক্ষার সময়সূচি ও রেজিস্ট্রেশন চলমান!');
-    };
-    document.getElementById('navMonthly').onclick = () => {
-      alert('মাসিক কারেন্ট অ্যাফেয়ার্স ও সাম্প্রতিক সাধারণ জ্ঞান নিয়মিত আপডেট করা হচ্ছে।');
-    };
-    document.getElementById('navExamCenter').onclick = () => {
-      alert('দেশব্যাপী উদ্ভাস-উন্মেষ ও উত্তরণের সকল শাখা ও এক্সাম সেন্টার তালিকা দেখুন: uttoron.academy/Branch');
-    };
+    // Navigation Tabs Switching (Question Bank vs Home)
+    const navQb = document.getElementById('navTabQuestionBank');
+    if (navQb) navQb.onclick = () => switchMainView('qb');
 
-    // Close 50th BCS Modal
-    document.getElementById('btnClose50thExam').onclick = close50thBcsExam;
+    const navHome = document.getElementById('navTabHome');
+    if (navHome) navHome.onclick = () => switchMainView('home');
 
-    // Sub Tabs inside 50th BCS
-    document.getElementById('modalSubTabStudy').onclick = () => setExamSubMode('study');
-    document.getElementById('modalSubTabExam').onclick = () => setExamSubMode('exam');
+    const navLogo = document.getElementById('navHomeLogo');
+    if (navLogo) navLogo.onclick = () => switchMainView('home');
 
-    // Search Input
-    const sInput = document.getElementById('searchInput');
+    // Hero CTAs
+    const btnGoQb = document.getElementById('btnGoToQuestionBank');
+    if (btnGoQb) btnGoQb.onclick = () => switchMainView('qb');
+
+    const btnQuick50th = document.getElementById('btnLaunch50thQuickExam');
+    if (btnQuick50th) btnQuick50th.onclick = () => loadAndOpenExam('50th-bcs', 'exam');
+
+    const btnHeroSyl = document.getElementById('btnOpenSyllabusHero');
+    if (btnHeroSyl) btnHeroSyl.onclick = () => document.getElementById('syllabusModal').classList.add('open');
+
+    // Modals in Header
+    const navSuccess = document.getElementById('navTabSuccess');
+    if (navSuccess) navSuccess.onclick = () => document.getElementById('successModal').classList.add('open');
+
+    const navCourses = document.getElementById('navTabCourses');
+    if (navCourses) navCourses.onclick = () => document.getElementById('coursesModal').classList.add('open');
+
+    const navSyllabus = document.getElementById('navTabSyllabus');
+    if (navSyllabus) navSyllabus.onclick = () => document.getElementById('syllabusModal').classList.add('open');
+
+    const navNotice = document.getElementById('navTabNotice');
+    if (navNotice) navNotice.onclick = () => document.getElementById('noticeModal').classList.add('open');
+
+    // Close Exam Fullscreen Modal
+    const btnCloseExam = document.getElementById('btnClose50thExam');
+    if (btnCloseExam) btnCloseExam.onclick = closeExamModal;
+
+    // Sub Tabs inside Exam Modal (Study vs Exam)
+    const tabStudy = document.getElementById('modalSubTabStudy');
+    if (tabStudy) tabStudy.onclick = () => setExamSubMode('study');
+
+    const tabExam = document.getElementById('modalSubTabExam');
+    if (tabExam) tabExam.onclick = () => setExamSubMode('exam');
+
+    // Search Input inside Exam
+    const sInput = document.getElementById('examSearchInput');
     if (sInput) {
       sInput.addEventListener('input', (e) => {
         state.searchQuery = e.target.value;
@@ -962,62 +1087,28 @@
       });
     }
 
-    // Jump Input
-    const jBtn = document.getElementById('jumpBtn');
-    const jInput = document.getElementById('jumpInput');
-    if (jBtn && jInput) {
-      const doJump = () => {
-        const num = parseInt(jInput.value, 10);
-        if (num >= 1 && num <= state.allQuestions.length) {
-          if (state.examMode === 'exam') {
-            const card = document.getElementById(`qcard_${num}`);
-            if (card) card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          } else {
-            state.activeSubject = 'ALL';
-            state.searchQuery = '';
-            if (sInput) sInput.value = '';
-            renderSubjectPills();
-            state.currentPage = Math.ceil(num / state.pageSize);
-            renderQuestions();
-            setTimeout(() => {
-              const card = document.getElementById(`qcard_${num}`);
-              if (card) {
-                card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                card.style.outline = '2px solid #e31c25';
-                setTimeout(() => { card.style.outline = 'none'; }, 2000);
-              }
-            }, 100);
-          }
-        }
-      };
-      jBtn.onclick = doJump;
-      jInput.onkeypress = (e) => { if (e.key === 'Enter') doJump(); };
-    }
+    // Exam Submission & Controls
+    const btnSubmit = document.getElementById('btnSubmitExam');
+    if (btnSubmit) btnSubmit.onclick = submitExam;
 
-    // Reset
-    const rBtn = document.getElementById('resetAnswersBtn');
-    if (rBtn) {
-      rBtn.onclick = () => {
-        if (confirm('সব উত্তর রিসেট করতে চান?')) {
-          state.userAnswers = {};
-          renderQuestions();
-        }
+    const btnPause = document.getElementById('btnPauseTimer');
+    if (btnPause) {
+      btnPause.onclick = () => {
+        state.exam.isPaused = !state.exam.isPaused;
+        btnPause.innerHTML = state.exam.isPaused ? `<i class="fa-solid fa-play"></i>` : `<i class="fa-solid fa-pause"></i>`;
       };
     }
 
-    // Pagination
-    document.getElementById('prevPageBtn').onclick = () => {
-      if (state.currentPage > 1) {
-        state.currentPage--;
-        renderQuestions();
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      }
-    };
-    document.getElementById('nextPageBtn').onclick = () => {
-      state.currentPage++;
-      renderQuestions();
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    };
+    const btnReview = document.getElementById('btnReviewExam');
+    if (btnReview) {
+      btnReview.onclick = () => {
+        document.getElementById('examResultOverlay').style.display = 'none';
+        setExamSubMode('study');
+      };
+    }
+
+    const btnRetake = document.getElementById('btnRetakeExam');
+    if (btnRetake) btnRetake.onclick = retakeExam;
 
     // Theme Toggle
     const themeBtn = document.getElementById('themeToggleBtn');
@@ -1044,35 +1135,15 @@
         if (state.soundEnabled) playSound('click');
       };
     }
-
-    // Exam Sidebar Controls
-    document.getElementById('pauseTimerBtn').onclick = () => {
-      state.exam.isPaused = !state.exam.isPaused;
-      document.getElementById('pauseTimerBtn').innerHTML = state.exam.isPaused ? `<i class="fa-solid fa-play"></i>` : `<i class="fa-solid fa-pause"></i>`;
-    };
-
-    document.getElementById('examSubmitBtn').onclick = submitExam;
-
-    document.getElementById('modalReviewBtn').onclick = () => {
-      document.getElementById('resultModal').classList.remove('open');
-      renderQuestions();
-    };
-
-    document.getElementById('modalRetakeBtn').onclick = retakeExam;
-
-    // Logo Click -> Close any open modal
-    document.getElementById('navHomeLogo').onclick = () => {
-      close50thBcsExam();
-      document.getElementById('cadresModal').classList.remove('open');
-      document.getElementById('syllabusModal').classList.remove('open');
-    };
   }
 
   // --- Init ---
   function init() {
     initQuestionBankCards();
     initCadresModal();
+    initCoursesModal();
     initSyllabusModal();
+    initNoticeModal();
     initEvents();
   }
 
