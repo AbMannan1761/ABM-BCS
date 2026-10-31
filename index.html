@@ -387,11 +387,11 @@
         </div>
       </div>
 
-      <div style="display:flex; gap:0.5rem;">
-        <button class="header-tool-btn active" id="modalSubTabStudy" style="width:auto; padding:0.4rem 0.8rem; font-weight:600; font-size:0.85rem;">
+      <div style="display:flex; gap:0.6rem;">
+        <button class="exam-mode-tab-btn active" id="modalSubTabStudy">
           <i class="fa-solid fa-book-open-reader"></i> অনুশীলন মোড
         </button>
-        <button class="header-tool-btn" id="modalSubTabExam" style="width:auto; padding:0.4rem 0.8rem; font-weight:600; font-size:0.85rem;">
+        <button class="exam-mode-tab-btn" id="modalSubTabExam">
           <i class="fa-solid fa-stopwatch-20"></i> মডেল টেস্ট মোড
         </button>
       </div>
@@ -427,6 +427,13 @@
             <i class="fa-solid fa-magnifying-glass"></i>
             <input type="text" id="examSearchInput" placeholder="প্রশ্ন বা উত্তরের কি-ওয়ার্ড খুঁজুন...">
           </div>
+
+          <!-- Direct Reading Mode Toggle: 'উত্তর উন্মুক্ত অবস্থা' -->
+          <button class="btn-reveal-all" id="btnRevealAllAnswers" title="সকল প্রশ্নের সঠিক উত্তর ও ব্যাখ্যা এক ক্লিকে উন্মুক্ত করুন">
+            <i class="fa-solid fa-book-open"></i>
+            <span>উত্তর উন্মুক্ত অবস্থা</span>
+          </button>
+
           <div class="exam-stats-summary" id="examStatsSummary">
             <span>মোট: <strong>২০০</strong></span> | 
             <span>উত্তর দিয়েছেন: <strong id="statAnsweredCount" style="color:#059669;">0</strong></span> | 

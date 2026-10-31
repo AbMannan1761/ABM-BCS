@@ -18,6 +18,7 @@
     
     // Exam / Practice
     examMode: 'study', // 'study' | 'exam'
+    studyRevealAll: false, // true when 'উত্তর উন্মুক্ত অবস্থা' is active
     activeSubject: 'ALL',
     searchQuery: '',
     currentPage: 1,
@@ -479,6 +480,8 @@
           <div class="options-list">
       `;
 
+      const isRevealMode = !isExam && state.studyRevealAll;
+
       ['A', 'B', 'C', 'D'].forEach(letter => {
         const optText = (q.options && q.options[letter]) || (q.options_html && q.options_html[letter]) || '';
         if (!optText) return;
@@ -487,7 +490,7 @@
         if (isExam && !isSubmitted) {
           if (userSelected === letter) optClass += ' selected';
         } else {
-          if (isAnswered || isSubmitted) {
+          if (isAnswered || isSubmitted || isRevealMode) {
             optClass += ' locked';
             if (letter === correctAns || (q.correct_answer_alt && q.correct_answer_alt.includes(letter))) {
               optClass += ' correct';
@@ -512,7 +515,7 @@
       if (!isExam || isSubmitted) {
         const hasExplanation = (q.explanation_html && q.explanation_html.trim()) || (q.explanation_text && q.explanation_text.trim());
         if (hasExplanation) {
-          const autoExpand = isSubmitted && isAnswered;
+          const autoExpand = (isSubmitted && isAnswered) || isRevealMode;
           cardsHtml += `
             <div class="explanation-wrapper">
               <button class="explanation-toggle-btn" data-qid="${qId}">
@@ -585,7 +588,7 @@
 
     const isExam = state.examMode === 'exam';
     if (isExam && state.exam.isSubmitted) return;
-    if (!isExam && state.userAnswers[qId]) return;
+    if (!isExam && (state.userAnswers[qId] || state.studyRevealAll)) return;
 
     state.userAnswers[qId] = letter;
 
@@ -673,9 +676,14 @@
     const controls = document.getElementById('controlsBar') || document.querySelector('.exam-tools-row');
     const timerBox = document.getElementById('examTimerBox');
     const modeDesc = document.getElementById('modeDescription');
+    const btnReveal = document.getElementById('btnRevealAllAnswers');
 
     if (subStudy) subStudy.classList.toggle('active', mode === 'study');
     if (subExam) subExam.classList.toggle('active', mode === 'exam');
+
+    if (btnReveal) {
+      btnReveal.style.display = mode === 'study' ? 'inline-flex' : 'none';
+    }
 
     if (mode === 'exam') {
       if (layout) {
@@ -1137,6 +1145,23 @@
         state.currentPage = 1;
         renderQuestions();
       });
+    }
+
+    // Direct Reading Mode: উত্তর উন্মুক্ত অবস্থা
+    const btnReveal = document.getElementById('btnRevealAllAnswers');
+    if (btnReveal) {
+      btnReveal.onclick = () => {
+        state.studyRevealAll = !state.studyRevealAll;
+        btnReveal.classList.toggle('active', state.studyRevealAll);
+        if (state.studyRevealAll) {
+          btnReveal.innerHTML = `<i class="fa-solid fa-circle-check"></i> <span>উত্তর উন্মুক্ত অবস্থা: চালু</span>`;
+          playSound('correct');
+        } else {
+          btnReveal.innerHTML = `<i class="fa-solid fa-book-open"></i> <span>উত্তর উন্মুক্ত অবস্থা</span>`;
+          playSound('click');
+        }
+        renderQuestions();
+      };
     }
 
     // Pagination Controls
