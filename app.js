@@ -123,7 +123,7 @@
   function renderKaTeX() {
     if (window.renderMathInElement) {
       try {
-        const container = document.getElementById('questionsContainer');
+        const container = document.getElementById('examQuestionsList') || document.getElementById('questionsContainer');
         if (container) {
           window.renderMathInElement(container, {
             delimiters: [
@@ -389,11 +389,12 @@
     if (state.searchQuery.trim()) {
       const qLower = state.searchQuery.trim().toLowerCase();
       list = list.filter(q => {
-        const textMatch = q.question_text.toLowerCase().includes(qLower);
-        const expMatch = q.explanation_text.toLowerCase().includes(qLower);
-        const optMatch = Object.values(q.options || {}).some(opt => opt.toLowerCase().includes(qLower));
-        const subMatch = (q.subject_info.name_bn || '').toLowerCase().includes(qLower) || 
-                         (q.subject_info.name_en || '').toLowerCase().includes(qLower);
+        const textMatch = (q.question_text || '').toLowerCase().includes(qLower);
+        const expMatch = (q.explanation_text || '').toLowerCase().includes(qLower);
+        const optMatch = Object.values(q.options || {}).some(opt => (opt || '').toLowerCase().includes(qLower));
+        const subName = (q.subject_info && (q.subject_info.bn || q.subject_info.name_bn || '')) || '';
+        const subEn = (q.subject_info && q.subject_info.name_en) || '';
+        const subMatch = subName.toLowerCase().includes(qLower) || subEn.toLowerCase().includes(qLower);
         return textMatch || expMatch || optMatch || subMatch;
       });
     }
@@ -402,12 +403,14 @@
   }
 
   function renderQuestions() {
-    const container = document.getElementById('questionsContainer');
+    const container = document.getElementById('examQuestionsList') || document.getElementById('questionsContainer');
     if (!container) return;
 
     const filtered = getFilteredQuestions();
     const isExam = state.examMode === 'exam';
     const isSubmitted = state.exam.isSubmitted;
+
+    const paginationBar = document.getElementById('paginationBar');
 
     if (filtered.length === 0) {
       container.innerHTML = `
@@ -417,12 +420,11 @@
           <p>আপনার অনুসন্ধান বা ফিল্টার মানদণ্ড পরিবর্তন করে আবার চেষ্টা করুন।</p>
         </div>
       `;
-      document.getElementById('paginationBar').style.display = 'none';
+      if (paginationBar) paginationBar.style.display = 'none';
       return;
     }
 
     let displayList = filtered;
-    const paginationBar = document.getElementById('paginationBar');
     if (!isExam) {
       const totalPages = Math.ceil(filtered.length / state.pageSize);
       if (state.currentPage > totalPages) state.currentPage = totalPages;
@@ -433,9 +435,12 @@
 
       if (paginationBar) {
         paginationBar.style.display = totalPages > 1 ? 'flex' : 'none';
-        document.getElementById('pageInfo').textContent = `পৃষ্ঠা ${state.currentPage} / ${totalPages} (মোট ${filtered.length} টি)`;
-        document.getElementById('prevPageBtn').disabled = state.currentPage <= 1;
-        document.getElementById('nextPageBtn').disabled = state.currentPage >= totalPages;
+        const pageInfo = document.getElementById('pageInfo');
+        if (pageInfo) pageInfo.textContent = `পৃষ্ঠা ${state.currentPage} / ${totalPages} (মোট ${filtered.length} টি)`;
+        const prevBtn = document.getElementById('prevPageBtn');
+        if (prevBtn) prevBtn.disabled = state.currentPage <= 1;
+        const nextBtn = document.getElementById('nextPageBtn');
+        if (nextBtn) nextBtn.disabled = state.currentPage >= totalPages;
       }
     } else {
       if (paginationBar) paginationBar.style.display = 'none';
@@ -454,7 +459,7 @@
           <div class="question-card-header">
             <div class="q-meta-left">
               <span class="q-number-badge"># ${qId}</span>
-              <span class="q-subject-tag">${q.subject_info.icon} ${q.subject_info.name_bn}</span>
+              <span class="q-subject-tag">${q.subject_info?.icon || '📚'} ${q.subject_info?.bn || q.subject_info?.name_bn || 'সাধারণ'}</span>
               ${q.sub_category ? `<span class="q-subject-tag" style="background:transparent; opacity:0.8;">${q.sub_category}</span>` : ''}
             </div>
             <div class="q-actions-right">
@@ -475,7 +480,7 @@
       `;
 
       ['A', 'B', 'C', 'D'].forEach(letter => {
-        const optText = q.options[letter] || q.options_html[letter] || '';
+        const optText = (q.options && q.options[letter]) || (q.options_html && q.options_html[letter]) || '';
         if (!optText) return;
 
         let optClass = 'option-item';
@@ -492,10 +497,12 @@
           }
         }
 
+        const displayText = (q.options && q.options[letter]) ? q.options[letter] : optText;
+
         cardsHtml += `
           <div class="${optClass}" data-qid="${qId}" data-letter="${letter}">
             <div class="option-letter">${letter}</div>
-            <div class="option-text">${q.options_html[letter] || optText}</div>
+            <div class="option-text">${displayText}</div>
           </div>
         `;
       });
@@ -661,26 +668,41 @@
     state.examMode = mode;
     const subStudy = document.getElementById('modalSubTabStudy');
     const subExam = document.getElementById('modalSubTabExam');
-    const layout = document.getElementById('contentLayout');
-    const sidebar = document.getElementById('examSidebar');
-    const controls = document.getElementById('controlsBar');
+    const layout = document.getElementById('contentLayout') || document.querySelector('.exam-content-split');
+    const sidebar = document.getElementById('examSidebar') || document.getElementById('examOmrSidebar');
+    const controls = document.getElementById('controlsBar') || document.querySelector('.exam-tools-row');
+    const timerBox = document.getElementById('examTimerBox');
+    const modeDesc = document.getElementById('modeDescription');
 
     if (subStudy) subStudy.classList.toggle('active', mode === 'study');
     if (subExam) subExam.classList.toggle('active', mode === 'exam');
 
     if (mode === 'exam') {
-      layout.style.gridTemplateColumns = '1fr 300px';
-      sidebar.style.display = 'flex';
-      sidebar.style.flexDirection = 'column';
-      sidebar.style.gap = '0.75rem';
-      controls.style.display = 'none';
+      if (layout) {
+        layout.style.display = 'grid';
+        layout.style.gridTemplateColumns = '1fr 300px';
+      }
+      if (sidebar) {
+        sidebar.style.display = 'flex';
+        sidebar.style.flexDirection = 'column';
+        sidebar.style.gap = '0.75rem';
+      }
+      if (timerBox) timerBox.style.display = 'flex';
+      if (modeDesc) modeDesc.innerHTML = '<strong>মডেল টেস্ট মোড:</strong> সঠিক উত্তর নির্বাচন করুন। পরীক্ষা শেষে "জমা দিন" বাটনে ক্লিক করে ফলাফল ও সমাধান দেখুন।';
       startExamTimer();
       renderExamPalette();
       renderQuestions();
     } else {
-      layout.style.gridTemplateColumns = '1fr';
-      sidebar.style.display = 'none';
-      controls.style.display = 'flex';
+      if (layout) {
+        layout.style.display = 'block';
+      }
+      if (sidebar) sidebar.style.display = 'none';
+      if (timerBox) timerBox.style.display = 'none';
+      if (modeDesc) modeDesc.innerHTML = '<strong>অনুশীলন মোড:</strong> অপশনে ক্লিক করে সাথে সাথে সঠিক উত্তর ও পূর্ণাঙ্গ ব্যাখ্যা দেখুন।';
+      if (state.exam.timerId) {
+        clearInterval(state.exam.timerId);
+        state.exam.timerId = null;
+      }
       state.currentPage = 1;
       renderQuestions();
     }
@@ -711,11 +733,12 @@
     const hrs = String(Math.floor(s / 3600)).padStart(2, '0');
     const mins = String(Math.floor((s % 3600) / 60)).padStart(2, '0');
     const secs = String(s % 60).padStart(2, '0');
-    document.getElementById('examTimerVal').textContent = `${hrs}:${mins}:${secs}`;
+    const timerEl = document.getElementById('examTimerDisplay') || document.getElementById('examTimerVal');
+    if (timerEl) timerEl.textContent = `${hrs}:${mins}:${secs}`;
   }
 
   function renderExamPalette() {
-    const grid = document.getElementById('paletteGrid');
+    const grid = document.getElementById('omrPaletteGrid') || document.getElementById('paletteGrid');
     if (!grid) return;
 
     let gridHtml = '';
@@ -751,8 +774,14 @@
       if (pbtn) pbtn.classList.toggle('answered', isAns);
     });
 
-    document.getElementById('answeredCount').textContent = answered;
-    document.getElementById('unansweredCount').textContent = state.allQuestions.length - answered;
+    const ansEl = document.getElementById('statAnsweredCount') || document.getElementById('answeredCount');
+    if (ansEl) ansEl.textContent = answered;
+
+    const unansEl = document.getElementById('unansweredCount');
+    if (unansEl) unansEl.textContent = state.allQuestions.length - answered;
+
+    const bmEl = document.getElementById('statBookmarkCount');
+    if (bmEl) bmEl.textContent = state.bookmarks.size;
   }
 
   function submitExam() {
@@ -782,7 +811,7 @@
     state.allQuestions.forEach(q => {
       const subjId = q.canonical_subject;
       if (!subjectStats[subjId]) {
-        subjectStats[subjId] = { name_bn: q.subject_info.name_bn, icon: q.subject_info.icon, total: 0, correct: 0, wrong: 0, score: 0 };
+        subjectStats[subjId] = { name_bn: q.subject_info?.bn || q.subject_info?.name_bn || 'সাধারণ', icon: q.subject_info?.icon || '📚', total: 0, correct: 0, wrong: 0, score: 0 };
       }
       subjectStats[subjId].total++;
 
@@ -809,39 +838,58 @@
     const spentRemSecs = spentSecs % 60;
     const timeSpentStr = `${String(spentMins).padStart(2, '0')}:${String(spentRemSecs).padStart(2, '0')}`;
 
-    document.getElementById('resTotalScore').textContent = finalScore;
-    document.getElementById('resCorrectCount').textContent = correctCount;
-    document.getElementById('resWrongCount').textContent = wrongCount;
-    document.getElementById('resSkippedCount').textContent = skippedCount;
-    document.getElementById('resNegativeMarks').textContent = `-${negativePenalty.toFixed(2)}`;
-    document.getElementById('resAccuracy').textContent = `${accuracy}%`;
-    document.getElementById('resTimeTaken').textContent = timeSpentStr;
+    const setVal = (id, val) => {
+      const el = document.getElementById(id);
+      if (el) el.textContent = val;
+    };
 
-    let tableHtml = '';
-    Object.values(subjectStats).forEach(s => {
-      const subScore = (s.correct - (s.wrong * 0.50)).toFixed(2);
-      tableHtml += `
-        <tr>
-          <td><strong>${s.icon || ''} ${s.name_bn}</strong></td>
-          <td>${s.total}</td>
-          <td style="color:#10b981; font-weight:700;">${s.correct}</td>
-          <td style="color:#ef4444; font-weight:700;">${s.wrong}</td>
-          <td><strong>${subScore}</strong></td>
-        </tr>
-      `;
-    });
-    document.getElementById('subjectPerfBody').innerHTML = tableHtml;
+    setVal('resultNetScore', finalScore);
+    setVal('resTotalScore', finalScore);
+    setVal('resultCorrectCount', correctCount);
+    setVal('resCorrectCount', correctCount);
+    setVal('resultWrongCount', wrongCount);
+    setVal('resWrongCount', wrongCount);
+    setVal('resultSkippedCount', skippedCount);
+    setVal('resSkippedCount', skippedCount);
+    setVal('resNegativeMarks', `-${negativePenalty.toFixed(2)}`);
+    setVal('resAccuracy', `${accuracy}%`);
+    setVal('resTimeTaken', timeSpentStr);
 
-    if (rawScore >= 120) {
-      document.getElementById('resultEmoji').textContent = '🏆';
-      if (window.confetti) window.confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
-    } else if (rawScore >= 90) {
-      document.getElementById('resultEmoji').textContent = '🌟';
-    } else {
-      document.getElementById('resultEmoji').textContent = '📚';
+    const perfBody = document.getElementById('subjectPerfBody');
+    if (perfBody) {
+      let tableHtml = '';
+      Object.values(subjectStats).forEach(s => {
+        const subScore = (s.correct - (s.wrong * 0.50)).toFixed(2);
+        tableHtml += `
+          <tr>
+            <td style="padding:0.4rem 0.75rem;"><strong>${s.icon || ''} ${s.name_bn || s.bn}</strong></td>
+            <td style="padding:0.4rem 0.5rem;">${s.total}</td>
+            <td style="padding:0.4rem 0.5rem; color:#10b981; font-weight:700;">${s.correct}</td>
+            <td style="padding:0.4rem 0.5rem; color:#ef4444; font-weight:700;">${s.wrong}</td>
+            <td style="padding:0.4rem 0.5rem;"><strong>${subScore}</strong></td>
+          </tr>
+        `;
+      });
+      perfBody.innerHTML = tableHtml;
     }
 
-    document.getElementById('resultModal').classList.add('open');
+    const emojiEl = document.getElementById('resultEmoji');
+    if (emojiEl) {
+      if (rawScore >= 120) {
+        emojiEl.textContent = '🏆';
+        if (window.confetti) window.confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
+      } else if (rawScore >= 90) {
+        emojiEl.textContent = '🌟';
+      } else {
+        emojiEl.textContent = '📚';
+      }
+    }
+
+    const overlay = document.getElementById('examResultOverlay') || document.getElementById('resultModal');
+    if (overlay) {
+      overlay.style.display = 'flex';
+      overlay.classList.add('open');
+    }
   }
 
   function retakeExam() {
@@ -851,7 +899,11 @@
     state.exam.startTime = null;
     state.exam.endTime = null;
     state.userAnswers = {};
-    document.getElementById('resultModal').classList.remove('open');
+    const overlay = document.getElementById('examResultOverlay') || document.getElementById('resultModal');
+    if (overlay) {
+      overlay.style.display = 'none';
+      overlay.classList.remove('open');
+    }
     startExamTimer();
     renderExamPalette();
     renderQuestions();
@@ -1085,6 +1137,33 @@
         state.currentPage = 1;
         renderQuestions();
       });
+    }
+
+    // Pagination Controls
+    const prevBtn = document.getElementById('prevPageBtn');
+    if (prevBtn) {
+      prevBtn.onclick = () => {
+        if (state.currentPage > 1) {
+          state.currentPage--;
+          renderQuestions();
+          const qList = document.getElementById('examQuestionsList') || document.getElementById('questionsContainer');
+          if (qList) qList.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      };
+    }
+
+    const nextBtn = document.getElementById('nextPageBtn');
+    if (nextBtn) {
+      nextBtn.onclick = () => {
+        const filtered = getFilteredQuestions();
+        const totalPages = Math.ceil(filtered.length / state.pageSize);
+        if (state.currentPage < totalPages) {
+          state.currentPage++;
+          renderQuestions();
+          const qList = document.getElementById('examQuestionsList') || document.getElementById('questionsContainer');
+          if (qList) qList.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      };
     }
 
     // Exam Submission & Controls

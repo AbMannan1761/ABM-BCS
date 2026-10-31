@@ -421,7 +421,7 @@
         </div>
 
         <!-- Search & Question Navigation -->
-        <div class="exam-tools-row">
+        <div class="exam-tools-row" id="controlsBar">
           <div class="exam-search-box">
             <i class="fa-solid fa-magnifying-glass"></i>
             <input type="text" id="examSearchInput" placeholder="প্রশ্ন বা উত্তরের কি-ওয়ার্ড খুঁজুন...">
@@ -429,16 +429,27 @@
           <div class="exam-stats-summary" id="examStatsSummary">
             <span>মোট: <strong>২০০</strong></span> | 
             <span>উত্তর দিয়েছেন: <strong id="statAnsweredCount" style="color:#059669;">0</strong></span> | 
+            <span style="display:none;" id="unansweredCountWrap">বাকি: <strong id="unansweredCount" style="color:#d97706;">২০০</strong> | </span>
             <span>বুকমার্ক: <strong id="statBookmarkCount" style="color:#e31c25;">0</strong></span>
           </div>
         </div>
       </div>
 
       <!-- Main Layout: Question List (Left) + OMR Palette (Right in Exam Mode) -->
-      <div class="exam-content-split">
-        <!-- Question List -->
-        <div class="exam-questions-list" id="examQuestionsList">
-          <!-- Dynamically populated by app.js -->
+      <div class="exam-content-split" id="contentLayout">
+        <!-- Question Column -->
+        <div class="exam-questions-column">
+          <!-- Question List Container (Supports both IDs) -->
+          <div class="exam-questions-list" id="examQuestionsList">
+            <!-- Dynamically populated by app.js -->
+          </div>
+
+          <!-- Pagination Bar (Study Mode) -->
+          <div class="exam-pagination-bar" id="paginationBar" style="display:none;">
+            <button class="header-tool-btn" id="prevPageBtn"><i class="fa-solid fa-chevron-left"></i> পূর্ববর্তী পৃষ্ঠা</button>
+            <span id="pageInfo">পৃষ্ঠা ১ / ২০ (মোট ২০০ টি)</span>
+            <button class="header-tool-btn" id="nextPageBtn">পরবর্তী পৃষ্ঠা <i class="fa-solid fa-chevron-right"></i></button>
+          </div>
         </div>
 
         <!-- OMR Navigator Sidebar (Exam Mode Only) -->
@@ -459,8 +470,9 @@
 
       <!-- Exam Result Dialog / Overlay -->
       <div class="exam-result-overlay" id="examResultOverlay" style="display:none;">
-        <div class="exam-result-card">
+        <div class="exam-result-card" id="resultModal">
           <div class="result-header">
+            <span class="result-emoji" id="resultEmoji" style="font-size:2.8rem; display:block; margin-bottom:0.4rem;">🏆</span>
             <i class="fa-solid fa-trophy result-trophy"></i>
             <h3>পরীক্ষার ফলাফল ও মূল্যায়ন</h3>
             <p id="resultExamName">৫০তম বিসিএস প্রিলিমিনারি পূর্ণাঙ্গ পরীক্ষা</p>
@@ -469,25 +481,54 @@
             <div class="result-metric score">
               <span class="metric-label">প্রাপ্ত স্কোর</span>
               <span class="metric-val" id="resultNetScore">0.00</span>
+              <span id="resTotalScore" style="display:none;">0.00</span>
               <span class="metric-sub" id="resultMaxScore">সর্বমোট: ২০০</span>
             </div>
             <div class="result-metric correct">
               <span class="metric-label">সঠিক উত্তর</span>
               <span class="metric-val" id="resultCorrectCount">0</span>
+              <span id="resCorrectCount" style="display:none;">0</span>
               <span class="metric-sub">(+১.০০ প্রতি সঠিক)</span>
             </div>
             <div class="result-metric wrong">
               <span class="metric-label">ভুল উত্তর</span>
               <span class="metric-val" id="resultWrongCount">0</span>
-              <span class="metric-sub">(-০.৫০ নেগেটিভ)</span>
+              <span id="resWrongCount" style="display:none;">0</span>
+              <span class="metric-sub" id="resNegativeMarks">(-০.৫০ নেগেটিভ)</span>
             </div>
             <div class="result-metric skipped">
               <span class="metric-label">অনুত্তর</span>
               <span class="metric-val" id="resultSkippedCount">0</span>
+              <span id="resSkippedCount" style="display:none;">0</span>
               <span class="metric-sub">(০ মার্কস)</span>
             </div>
           </div>
-          <div class="result-actions">
+
+          <!-- Secondary Metrics -->
+          <div style="display:flex; justify-content:space-around; background:var(--bg-card); padding:0.75rem; border-radius:8px; margin:1rem 0; border:1px solid var(--border-subtle); font-size:0.9rem;">
+            <span>নির্ভুলতা (Accuracy): <strong id="resAccuracy" style="color:#10b981;">0%</strong></span>
+            <span>ব্যয়িত সময়: <strong id="resTimeTaken" style="color:#2563eb;">00:00</strong></span>
+          </div>
+
+          <!-- Subject Breakdown Table -->
+          <div class="result-subject-breakdown" style="margin-top:1rem; max-height:200px; overflow-y:auto; border:1px solid var(--border-subtle); border-radius:8px;">
+            <table style="width:100%; border-collapse:collapse; font-size:0.85rem; text-align:left;">
+              <thead style="background:var(--bg-card); position:sticky; top:0;">
+                <tr style="border-bottom:1px solid var(--border-subtle);">
+                  <th style="padding:0.5rem 0.75rem;">বিষয়</th>
+                  <th style="padding:0.5rem 0.5rem;">মোট</th>
+                  <th style="padding:0.5rem 0.5rem; color:#10b981;">সঠিক</th>
+                  <th style="padding:0.5rem 0.5rem; color:#ef4444;">ভুল</th>
+                  <th style="padding:0.5rem 0.5rem;">স্কোর</th>
+                </tr>
+              </thead>
+              <tbody id="subjectPerfBody">
+                <!-- Dynamically populated -->
+              </tbody>
+            </table>
+          </div>
+
+          <div class="result-actions" style="margin-top:1.25rem;">
             <button class="btn-result-action primary" id="btnReviewExam">
               <i class="fa-solid fa-book-open"></i> উত্তর ও ব্যাখ্যা রিভিউ করুন
             </button>
