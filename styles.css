@@ -3,6 +3,19 @@
    Matches the exact design, colors and layout from uttoron.academy
    ======================================================== */
 
+@import url('https://fonts.maateen.me/nikosh/font.css');
+
+@font-face {
+  font-family: 'Nikosh';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+  src: local('Nikosh'),
+       local('NikoshBAN'),
+       url('https://fonts.maateen.me/nikosh/nikosh-v1.0.woff2') format('woff2'),
+       url('https://fonts.maateen.me/nikosh/nikosh-v1.0.ttf') format('truetype');
+}
+
 :root {
   --primary-red: #e31c25;
   --primary-red-hover: #c7161e;
@@ -22,7 +35,7 @@
   --border-subtle: #e2e8f0;
   --border-strong: #cbd5e1;
   
-  --font-bangla: 'Hind Siliguri', 'Baloo Da 2', sans-serif;
+  --font-bangla: 'Nikosh', 'NikoshBAN', 'Hind Siliguri', 'Kalpurush', 'SolaimanLipi', sans-serif;
   --font-english: 'Plus Jakarta Sans', system-ui, sans-serif;
 }
 
@@ -46,8 +59,11 @@
   padding: 0;
 }
 
-body {
+body, button, input, select, textarea {
   font-family: var(--font-bangla);
+}
+
+body {
   background-color: var(--bg-page);
   color: var(--text-primary);
   line-height: 1.6;
