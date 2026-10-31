@@ -1,16 +1,16 @@
 /**
- * ABM BCS Question Bank - 50th BCS Preliminary Model Test
+ * ABM BCS Question Bank - BCS Preliminary Question Bank & Model Tests
  * Total Questions: 200
  * Generated & Structured for ABM BCS
  */
 window.BCS_METADATA = {
-  title: "ABM BCS - ৫০তম বিসিএস প্রিলিমিনারি পূর্ণাঙ্গ প্রশ্নব্যাংক ও মডেল টেস্ট",
+  title: "ABM BCS - পূর্ণাঙ্গ বিসিএস প্রস্তুতি একাডেমি ও ডিজিটাল প্রশ্নব্যাংক",
   shortTitle: "ABM BCS",
   totalQuestions: 200,
   totalMarks: 200,
   durationMinutes: 120,
   negativeMarking: 0.50,
-  sourceExam: "৫০তম বিসিএস (50th BCS)",
+  sourceExam: "ABM BCS ডিজিটাল প্রশ্নব্যাংক",
   createdYear: 2026
 };
 

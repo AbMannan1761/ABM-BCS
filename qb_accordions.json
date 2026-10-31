@@ -3,12 +3,6 @@
     "header": "BCS Preli Question",
     "cards": [
       {
-        "title": "50th BCS",
-        "sub1": "General (200টি প্রশ্ন)",
-        "sub2": "2026-01-30",
-        "route": "50th-bcs"
-      },
-      {
         "title": "49th BCS",
         "sub1": "Special (Education) (100টি প্রশ্ন)",
         "sub2": "2025-10-10",
@@ -315,12 +309,6 @@
   {
     "header": "BCS Written Question",
     "cards": [
-      {
-        "title": "50th BCS",
-        "sub1": "",
-        "sub2": "",
-        "route": "/QuestionBank/WrittenQuestion/50th-bcs-written"
-      },
       {
         "title": "47th BCS",
         "sub1": "",

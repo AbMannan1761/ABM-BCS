@@ -1,6 +1,6 @@
 /**
  * ABM BCS - Complete Question Bank & Exam Application
- * Perfectly reproduces the uttoron.academy Question Bank view
+ * Official BCS Preparation & Question Bank Application for ABM BCS
  */
 
 (function () {
@@ -11,8 +11,8 @@
     accordions: window.QB_ACCORDIONS || [],
     portalData: window.PORTAL_DATA || {},
     allExams: window.ALL_BCS_EXAMS || {},
-    currentExamId: '50th-bcs',
-    currentExamMeta: { name: '50th BCS', sub: 'General', date: '2026-01-30' },
+    currentExamId: '47th-BCS',
+    currentExamMeta: { name: '47th BCS', sub: 'General', date: '2025-09-19' },
     allQuestions: window.BCS_QUESTIONS || [],
     subjects: window.BCS_SUBJECTS || {},
     
@@ -147,10 +147,10 @@
     const bundle = window.ALL_BCS_EXAMS || {};
     let examData = bundle[routeId] || bundle[routeId.toLowerCase()] || Object.entries(bundle).find(([k]) => k.toLowerCase() === (routeId || '').toLowerCase())?.[1];
 
-    // Fallback for 50th BCS if not in bundle directly
-    if (!examData && (routeId === '50th-bcs' || routeId === '50th BCS')) {
+    // Fallback for default questions if requested
+    if (!examData && (!routeId || routeId === 'default' || routeId === 'model-test')) {
       examData = {
-        meta: { name: '50th BCS', sub: 'General', date: '2026-01-30' },
+        meta: { name: 'বিসিএস মডেল টেস্ট', sub: 'General', date: '2025' },
         questions: window.BCS_QUESTIONS || []
       };
     }
@@ -230,12 +230,12 @@
       for (let i = 0; i < Math.min(4, cards.length); i++) {
         const c = cards[i];
         const examItem = findExamInBundle(c.route);
-        const isLoaded = !!examItem || c.route === '50th-bcs';
+        const isLoaded = !!examItem || c.route === state.currentExamId;
         const qCount = examItem ? examItem.questions.length : (window.BCS_QUESTIONS ? window.BCS_QUESTIONS.length : 200);
         const cardDiv = document.createElement('div');
-        cardDiv.className = `qb-exam-card ${c.route === '50th-bcs' ? 'active-50th' : ''}`;
+        cardDiv.className = `qb-exam-card ${c.route === state.currentExamId ? 'active-card' : ''}`;
         cardDiv.innerHTML = `
-          <div style="font-size:0.75rem; color:${isLoaded ? '#059669' : '#e31c25'}; font-weight:700; text-align:center; margin-bottom:2px;">
+          <div style="font-size:0.75rem; color:${isLoaded ? '#059669' : '#94a3b8'}; font-weight:700; text-align:center; margin-bottom:2px;">
             <i class="fa-solid fa-circle-check"></i> ${isLoaded ? qCount + 'টি প্রশ্ন যুক্ত' : 'শীঘ্রই আসছে'}
           </div>
           <h4>${c.title}</h4>
@@ -324,7 +324,7 @@
   // --- Open / Close Exam Interactive Modal ---
   function openExamModal(mode = 'study') {
     state.examMode = mode;
-    const modal = document.getElementById('examModal50th');
+    const modal = document.getElementById('examModalFullscreen');
     if (modal) {
       modal.classList.add('active');
       document.body.style.overflow = 'hidden';
@@ -335,7 +335,7 @@
   }
 
   function closeExamModal() {
-    const modal = document.getElementById('examModal50th');
+    const modal = document.getElementById('examModalFullscreen');
     if (modal) {
       modal.classList.remove('active');
       document.body.style.overflow = 'auto';
@@ -346,7 +346,7 @@
     }
   }
 
-  // --- 50th BCS Subject Pills & Filtering ---
+  // --- BCS Subject Pills & Filtering ---
   function renderSubjectPills() {
     const container = document.getElementById('subjectFilterContainer');
     if (!container) return;
@@ -657,7 +657,7 @@
     });
     text += `\nসঠিক উত্তর: ${q.correct_answer}\n`;
     if (q.explanation_text) text += `ব্যাখ্যা: ${q.explanation_text}\n`;
-    text += `\n— ABM BCS / উত্তরণ প্রশ্নব্যাংক`;
+    text += `\n— ABM BCS প্রশ্নব্যাংক`;
 
     navigator.clipboard.writeText(text).then(() => {
       const orig = btn.innerHTML;
@@ -666,7 +666,7 @@
     });
   }
 
-  // --- Sub-Mode (Study vs Exam within 50th BCS) ---
+  // --- Sub-Mode (Study vs Exam) ---
   function setExamSubMode(mode) {
     state.examMode = mode;
     const subStudy = document.getElementById('modalSubTabStudy');
@@ -1107,8 +1107,8 @@
     const btnGoQb = document.getElementById('btnGoToQuestionBank');
     if (btnGoQb) btnGoQb.onclick = () => switchMainView('qb');
 
-    const btnQuick50th = document.getElementById('btnLaunch50thQuickExam');
-    if (btnQuick50th) btnQuick50th.onclick = () => loadAndOpenExam('50th-bcs', 'exam');
+    const btnQuickExam = document.getElementById('btnLaunchQuickExam');
+    if (btnQuickExam) btnQuickExam.onclick = () => loadAndOpenExam('47th-BCS', 'exam');
 
     const btnHeroSyl = document.getElementById('btnOpenSyllabusHero');
     if (btnHeroSyl) btnHeroSyl.onclick = () => document.getElementById('syllabusModal').classList.add('open');
@@ -1127,7 +1127,7 @@
     if (navNotice) navNotice.onclick = () => document.getElementById('noticeModal').classList.add('open');
 
     // Close Exam Fullscreen Modal
-    const btnCloseExam = document.getElementById('btnClose50thExam');
+    const btnCloseExam = document.getElementById('btnCloseExamModal');
     if (btnCloseExam) btnCloseExam.onclick = closeExamModal;
 
     // Sub Tabs inside Exam Modal (Study vs Exam)

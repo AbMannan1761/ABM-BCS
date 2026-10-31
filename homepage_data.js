@@ -1,6 +1,6 @@
 /**
  * ABM BCS - Complete Portal Data
- * Derived & Enriched from Uttoron Academy (HomePage, Courses, Question Banks, Testimonials & Syllabus)
+ * Derived & Enriched for ABM BCS Academy (HomePage, Courses, Question Banks, Testimonials & Syllabus)
  */
 
 window.PORTAL_DATA = {
@@ -173,8 +173,8 @@ window.PORTAL_DATA = {
       color: "#d97706"
     },
     {
-      id: "uttoron-book-package",
-      title: "উত্তরণ Book Package (প্রিলি, লিখিত, ভাইভা)",
+      id: "abm-book-package",
+      title: "ABM BCS Book Package (প্রিলি, লিখিত, ভাইভা)",
       subtitle: "পূর্ণাঙ্গ প্রিপারেশন বুক সেট",
       badge: "বুক প্যাকেজ",
       startDate: "হোম ডেলিভারি সুবিধা",
@@ -191,7 +191,7 @@ window.PORTAL_DATA = {
     }
   ],
 
-  // 26 Real Cadre Testimonials from Uttoron HomePage
+  // 26 Real Cadre Testimonials for ABM BCS HomePage
   cadres: [
     {
       name: "শানিরুল ইসলাম শাওন",
@@ -377,7 +377,7 @@ window.PORTAL_DATA = {
     }
   ],
 
-  // 8 Unique Services from Uttoron
+  // 8 Unique Services for ABM BCS
   services: [
     {
       title: "Zoom লাইভ ক্লাস",
@@ -410,7 +410,7 @@ window.PORTAL_DATA = {
       img: "https://udvash-unmesh.com/media/Images/Udvash/Common/inbranch.png"
     },
     {
-      title: "উত্তরণ ২৪/৭ Q&A সার্ভিস",
+      title: "ABM BCS ২৪/৭ Q&A সার্ভিস",
       desc: "টেক্সট, ইমেজ, পিডিএফ বা ভয়েস রেকর্ড সাবমিট করে বিষয়ভিত্তিক যেকোনো প্রশ্নের উত্তর পাওয়ার প্রাইভেট কেয়ার।",
       img: "https://udvash-unmesh.com/media/Images/Udvash/Common/Icon.png"
     },

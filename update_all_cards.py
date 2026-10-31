@@ -17,7 +17,7 @@ preli_acc = next(a for a in accs if 'Preli Question' in a['header'])
 files = {f[:-5].lower(): f[:-5] for f in os.listdir('bcs_data') if f.endswith('.json')}
 
 new_cards = []
-for i in range(50, 0, -1):
+for i in range(49, 0, -1):
     route_candidate = f"{i}{suffix(i)}-bcs"
     matched_route = files.get(route_candidate.lower())
     

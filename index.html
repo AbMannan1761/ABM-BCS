@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ABM BCS - পূর্ণাঙ্গ বিসিএস প্রস্তুতি একাডেমি ও প্রশ্নব্যাংক (৫০তম থেকে ১ম বিসিএস)</title>
-  <meta name="description" content="ABM BCS পূর্ণাঙ্গ একাডেমি ও ডিজিটাল প্রশ্নব্যাংক - ৫০তম থেকে ১ম বিসিএস প্রিলিমিনারি ও লিখিত প্রশ্নমালা, সমাধান, KaTeX ব্যাখ্যা ও লাইভ মডেল টেস্ট।">
+  <title>ABM BCS - পূর্ণাঙ্গ বিসিএস প্রস্তুতি একাডেমি ও প্রশ্নব্যাংক (৪৯তম থেকে ১ম বিসিএস)</title>
+  <meta name="description" content="ABM BCS পূর্ণাঙ্গ একাডেমি ও ডিজিটাল প্রশ্নব্যাংক - ৪৯তম থেকে ১ম বিসিএস প্রিলিমিনারি ও লিখিত প্রশ্নমালা, সমাধান, KaTeX ব্যাখ্যা ও লাইভ মডেল টেস্ট।">
 
   <!-- Bangla Fonts: Nikosh (Official Govt & BCS Font) & Google Fonts Fallback -->
   <link href="https://fonts.maateen.me/nikosh/font.css" rel="stylesheet">
@@ -29,7 +29,7 @@
 <body>
 
   <!-- ==========================================
-       1. TOP PURPLE BANNER (Matches Uttoron Screenshot)
+       1. TOP PURPLE BANNER (ABM BCS Portal Header)
        ========================================== -->
   <section class="topNav-section">
     <h2>BCS কঠিন নয়; প্রস্তুতি যদি গোছানো হয়।</h2>
@@ -42,14 +42,33 @@
     <div class="header-container">
       <!-- Logo & Brand -->
       <div class="header-logo-area" id="navHomeLogo" title="ABM BCS হোমপেজে যান" style="cursor:pointer;">
-        <img src="logo.png" alt="উত্তরণ ক্যারিয়ার এন্ড স্কিলস একাডেমি" class="header-logo-img">
-        <span class="abm-badge-brand">ABM BCS</span>
+        <div class="abm-logo-brand">
+          <div class="abm-logo-icon">
+            <svg width="40" height="40" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect width="44" height="44" rx="10" fill="url(#abmBrandGrad)"/>
+              <path d="M12 31V17C12 15.8954 12.8954 15 14 15H19.5C21.5 15 22 17 22 17C22 17 22.5 15 24.5 15H30C31.1046 15 32 15.8954 32 17V31C32 31 27.5 29 22 31C16.5 29 12 31 12 31Z" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M22 17V31" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+              <circle cx="22" cy="11.5" r="2.2" fill="#ffd700"/>
+              <defs>
+                <linearGradient id="abmBrandGrad" x1="0" y1="0" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+                  <stop stop-color="#4a154b"/>
+                  <stop offset="0.6" stop-color="#6b21a8"/>
+                  <stop offset="1" stop-color="#e31c25"/>
+                </linearGradient>
+              </defs>
+            </svg>
+          </div>
+          <div class="abm-logo-text-block">
+            <div class="abm-brand-name">ABM <span class="abm-brand-accent">BCS</span></div>
+            <div class="abm-brand-slogan">ক্যারিয়ার ও স্কিল একাডেমি</div>
+          </div>
+        </div>
       </div>
 
       <!-- Navigation Tabs (Switches views inside the same page) -->
       <nav>
         <ul class="main-navbar">
-          <li><a class="nav-item-link active" id="navTabQuestionBank"><i class="fa-solid fa-book-open"></i> প্রশ্নব্যাংক (৫০-১)</a></li>
+          <li><a class="nav-item-link active" id="navTabQuestionBank"><i class="fa-solid fa-book-open"></i> প্রশ্নব্যাংক (৪৯-১)</a></li>
           <li><a class="nav-item-link" id="navTabHome"><i class="fa-solid fa-house"></i> একাডেমি হোম</a></li>
           <li><a class="nav-item-link pulse-red" id="navTabSuccess"><i class="fa-solid fa-trophy"></i> সাফল্য</a></li>
           <li><a class="nav-item-link" id="navTabCourses"><i class="fa-solid fa-graduation-cap"></i> কোর্সসমূহ</a></li>
@@ -86,16 +105,16 @@
       <!-- LEFT COLUMN: ACCORDIONS -->
       <div class="qb-accordions-group">
 
-        <!-- Accordion 1: BCS Preli Question (৫০তম থেকে ১ম বিসিএস) -->
+        <!-- Accordion 1: BCS Preli Question (৪৯তম থেকে ১ম বিসিএস) -->
         <div class="qb-accordion-item" id="accItemPreli">
           <div class="qb-accordion-header" id="accHeaderPreli">
-            <h3><i class="fa-solid fa-layer-group"></i> BCS Preli Question (৫০তম থেকে ১ম বিসিএস)</h3>
+            <h3><i class="fa-solid fa-layer-group"></i> BCS Preli Question (৪৯তম থেকে ১ম বিসিএস)</h3>
             <span class="qb-accordion-toggle-icon">∧</span>
           </div>
           <div class="qb-accordion-body" id="accBodyPreli">
             <!-- 4 Cards Initially Visible Grid -->
             <div class="qb-cards-grid" id="preliCardsInitialGrid">
-              <!-- Dynamically populated with 50th, 49th, 48th, 47th BCS cards -->
+              <!-- Dynamically populated with 49th down to 10th BCS cards -->
             </div>
 
             <!-- Extended Cards Grid (Shown when 'আরও দেখুন ∨' is clicked: 46th down to 1st BCS) -->
@@ -146,7 +165,7 @@
           </div>
           <div class="qb-accordion-body">
             <div class="qb-cards-grid" id="writtenCardsGrid">
-              <!-- Populated by JavaScript: 50th, 47th, 46th, 45th, 44th, 43rd, 41st, 40th, 38th, 37th, 36th, 35th BCS Written -->
+              <!-- Populated by JavaScript: 47th, 46th, 45th, 44th, 43rd, 41st, 40th, 38th, 37th, 36th, 35th BCS Written -->
             </div>
           </div>
         </div>
@@ -181,13 +200,13 @@
 
       <!-- RIGHT COLUMN: SIDEBAR COURSES (Matches Screenshot) -->
       <aside class="qb-sidebar-col">
-        <!-- Sidebar Card 1: Uttoron Book Package (Exact Match) -->
+        <!-- Sidebar Card 1: ABM BCS Book Package (Exact Match) -->
         <div class="sidebar-course-card">
           <div class="sidebar-course-ribbon">
             BOOK PACKAGE প্রিলি, লিখিত, ভাইভা
           </div>
           <div class="sidebar-course-body">
-            <h4>উত্তরণ Book Package প্রিলি, লিখিত, ভাইভা</h4>
+            <h4>ABM BCS Book Package প্রিলি, লিখিত, ভাইভা</h4>
             <ul class="sidebar-course-list">
               <li>প্রতিটি টপিকের মৌলিক আলোচনা ও গভীর বিশ্লেষণ</li>
               <li>প্রয়োজনীয় উদাহরণ, চিত্র, মানচিত্র ও টেবিল সংযোজন</li>
@@ -196,7 +215,7 @@
               <li>চূড়ান্ত প্রস্তুতির জন্য পর্যাপ্ত অনুশীলন, নমুনা প্রশ্ন ও মডেল টেস্ট</li>
               <li>বাস্তব অভিজ্ঞতাভিত্তিক পরামর্শ ও পরীক্ষার পূর্ণাঙ্গ ধরন</li>
             </ul>
-            <button class="btn-show-more" style="width:100%; margin-top:1rem; justify-content:center; border-radius:6px; font-size:0.88rem;" onclick="alert('উত্তরণ বুক প্যাকেজের হোম ডেলিভারির জন্য যোগাযোগ করুন: ০৯৬৬৬৭৭৫৫২২')">
+            <button class="btn-show-more" style="width:100%; margin-top:1rem; justify-content:center; border-radius:6px; font-size:0.88rem;" onclick="alert('ABM BCS বুক প্যাকেজের হোম ডেলিভারির জন্য যোগাযোগ করুন: ০৯৬৬৬৭৭৫৫২২')">
               বুক প্যাকেজ অর্ডার করুন
             </button>
           </div>
@@ -257,10 +276,10 @@
 
       <div class="portal-hero-ctas">
         <button class="portal-cta-btn primary" id="btnGoToQuestionBank">
-          <i class="fa-solid fa-book-open"></i> প্রশ্নব্যাংকে যান (৫০তম থেকে ১ম বিসিএস)
+          <i class="fa-solid fa-book-open"></i> প্রশ্নব্যাংকে যান (৪৯তম থেকে ১ম বিসিএস)
         </button>
-        <button class="portal-cta-btn secondary" id="btnLaunch50thQuickExam">
-          <i class="fa-solid fa-play"></i> ৫০তম বিসিএস মডেল টেস্ট দিন
+        <button class="portal-cta-btn secondary" id="btnLaunchQuickExam">
+          <i class="fa-solid fa-play"></i> ৪৭তম বিসিএস মডেল টেস্ট দিন
         </button>
         <button class="portal-cta-btn outline" id="btnOpenSyllabusHero">
           <i class="fa-solid fa-file-lines"></i> পূর্ণাঙ্গ সিলেবাস
@@ -284,7 +303,7 @@
             <i class="fa-solid fa-circle-check"></i>
           </div>
           <div class="portal-stat-info">
-            <h3>৫,০৫০+ প্রশ্ন</h3>
+            <h3>৪,৮৫০+ প্রশ্ন</h3>
             <p>প্রতিটি প্রশ্নের নির্ভুল উত্তর ও KaTeX ব্যাখ্যা</p>
           </div>
         </div>
@@ -357,7 +376,7 @@
     <section class="portal-section" style="background:var(--bg-surface-secondary); padding:3rem 1.5rem; border-radius:12px; margin:2rem 0;">
       <div class="portal-section-header">
         <span class="portal-section-tag" style="background:#fee2e2; color:#e31c25;">সফল ক্যাডারদের অভিজ্ঞতা</span>
-        <h2>উত্তরণ ও ABM BCS শিক্ষার্থীদের সাফল্যগাথা</h2>
+        <h2>ABM BCS শিক্ষার্থীদের সাফল্যগাথা</h2>
       </div>
 
       <div class="portal-testimonials-grid" id="homeTestimonialsGrid">
@@ -369,17 +388,17 @@
 
   <!-- ==========================================
        4. INTERACTIVE BCS PRACTICE & EXAM SCREEN
-       Loads ANY BCS Exam dynamically (50th down to 10th)
+       Loads ANY BCS Exam dynamically (49th down to 10th)
        ========================================== -->
-  <div class="exam-fullscreen-modal" id="examModal50th">
+  <div class="exam-fullscreen-modal" id="examModalFullscreen">
     <div class="modal-sticky-header">
       <div style="display:flex; align-items:center; gap:0.85rem;">
-        <button class="modal-close-btn" id="btnClose50thExam">
+        <button class="modal-close-btn" id="btnCloseExamModal">
           <i class="fa-solid fa-arrow-left"></i> প্রশ্নব্যাংকে ফিরে যান
         </button>
         <div>
           <h3 id="modalExamTitle" style="font-size:1.15rem; font-weight:800; color:var(--text-primary); margin:0;">
-            ৫০তম বিসিএস প্রিলিমিনারি পূর্ণাঙ্গ পরীক্ষা ও অনুশীলন
+            বিসিএস প্রিলিমিনারি পূর্ণাঙ্গ পরীক্ষা ও অনুশীলন
           </h3>
           <span id="modalExamSub" style="font-size:0.8rem; color:var(--text-muted);">
             ২০০টি প্রশ্ন | ১২০ মিনিট | নেগেটিভ মার্কিং -০.৫০
@@ -483,7 +502,7 @@
             <span class="result-emoji" id="resultEmoji" style="font-size:2.8rem; display:block; margin-bottom:0.4rem;">🏆</span>
             <i class="fa-solid fa-trophy result-trophy"></i>
             <h3>পরীক্ষার ফলাফল ও মূল্যায়ন</h3>
-            <p id="resultExamName">৫০তম বিসিএস প্রিলিমিনারি পূর্ণাঙ্গ পরীক্ষা</p>
+            <p id="resultExamName">বিসিএস প্রিলিমিনারি পূর্ণাঙ্গ পরীক্ষা</p>
           </div>
           <div class="result-metrics-grid">
             <div class="result-metric score">
@@ -560,7 +579,7 @@
     <div class="content-modal-box">
       <div class="content-modal-header">
         <h3 style="display:flex; align-items:center; gap:0.5rem; color:#e31c25;">
-          <i class="fa-solid fa-trophy"></i> উত্তরণ ও ABM BCS সফল ক্যাডারদের রিভিউ
+          <i class="fa-solid fa-trophy"></i> ABM BCS সফল ক্যাডারদের রিভিউ
         </h3>
         <button class="header-tool-btn" onclick="document.getElementById('successModal').classList.remove('open')">
           <i class="fa-solid fa-xmark"></i>
@@ -635,7 +654,7 @@
   <footer class="portal-footer">
     <p><strong>ABM BCS</strong> — পূর্ণাঙ্গ বিসিএস প্রস্তুতি ও ডিজিটাল প্রশ্নব্যাংক একাডেমি</p>
     <p style="font-size:0.85rem; color:var(--text-muted); margin-top:4px;">
-      কন্টেন্ট কৃতজ্ঞতা: uttoron.academy | BCS কঠিন নয়; প্রস্তুতি যদি গোছানো হয়।
+      ABM BCS ডিজিটাল একাডেমি | BCS কঠিন নয়; প্রস্তুতি যদি গোছানো হয়।
     </p>
   </footer>
 

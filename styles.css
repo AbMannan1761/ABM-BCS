@@ -1,6 +1,6 @@
 /* ========================================================
-   ABM BCS / UTTORON EXACT THEME & DESIGN SYSTEM
-   Matches the exact design, colors and layout from uttoron.academy
+   ABM BCS ACADEMY THEME & DESIGN SYSTEM
+   Official Design System & Portal Layout for ABM BCS
    ======================================================== */
 
 @import url('https://fonts.maateen.me/nikosh/font.css');
@@ -114,21 +114,51 @@ body {
   cursor: pointer;
 }
 
-.header-logo-img {
-  height: 48px;
-  width: auto;
-  object-fit: contain;
+/* ABM BCS Brand Logo in Header */
+.abm-logo-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  text-decoration: none;
+  cursor: pointer;
 }
-
-.abm-badge-brand {
+.abm-logo-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  filter: drop-shadow(0 2px 6px rgba(107, 33, 168, 0.25));
+  transition: transform 0.2s ease;
+}
+.abm-logo-brand:hover .abm-logo-icon {
+  transform: scale(1.05);
+}
+.abm-logo-text-block {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+}
+.abm-brand-name {
   font-family: var(--font-english);
-  background: linear-gradient(135deg, #e31c25, #9333ea);
-  color: #fff;
-  font-size: 0.72rem;
+  font-size: 1.35rem;
   font-weight: 800;
-  padding: 0.2rem 0.5rem;
-  border-radius: 4px;
-  letter-spacing: 0.5px;
+  letter-spacing: -0.5px;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+.abm-brand-accent {
+  background: linear-gradient(135deg, #e31c25, #9333ea);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 900;
+}
+.abm-brand-slogan {
+  font-family: var(--font-bangla);
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  letter-spacing: 0.2px;
 }
 
 /* Nav Menu */
@@ -340,12 +370,12 @@ body {
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
 }
 
-.qb-exam-card.active-50th {
+.qb-exam-card.active-card, .qb-exam-card.active-card {
   border: 2px solid var(--primary-red);
   background: #fffdfd;
 }
 
-[data-theme="dark"] .qb-exam-card.active-50th {
+[data-theme="dark"] .qb-exam-card.active-card, .qb-exam-card.active-card {
   background: rgba(227, 28, 37, 0.1);
 }
 
@@ -781,7 +811,7 @@ body {
   gap: 1.25rem;
 }
 
-/* --- Question Card Styling (Pixel-Perfect Clean Uttoron Style) --- */
+/* --- Question Card Styling (Pixel-Perfect Clean ABM BCS Style) --- */
 .question-card {
   background: var(--bg-surface);
   border: 1px solid var(--border-subtle);
@@ -1662,13 +1692,15 @@ body {
     padding: 0.5rem 0.85rem;
   }
 
-  .header-logo-img {
-    height: 36px;
+  .abm-brand-name {
+    font-size: 1.15rem;
   }
-
-  .abm-badge-brand {
-    font-size: 0.72rem;
-    padding: 0.2rem 0.5rem;
+  .abm-brand-slogan {
+    font-size: 0.65rem;
+  }
+  .abm-logo-icon svg {
+    width: 32px;
+    height: 32px;
   }
 
   .main-navbar {
